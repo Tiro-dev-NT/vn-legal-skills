@@ -4,7 +4,7 @@
 
 **Áp khi:** landing page, bài đăng mạng xã hội, email marketing, khuyến mãi, quảng cáo hiển thị trong app.
 
-**Văn bản:** Luật Quảng cáo 16/2012/QH13 + Luật 75/2025/QH15 (sửa đổi, hiệu lực 01/01/2026) · NĐ 342/2025/NĐ-CP (chi tiết, hiệu lực 15/02/2026) · NĐ 87/2026/NĐ-CP (xử phạt văn hoá & quảng cáo, hiệu lực 15/05/2026). Link: [NGUON.md](../NGUON.md). Số điều: **chưa trích**.
+**Văn bản:** Luật Quảng cáo 16/2012/QH13 + Luật 75/2025/QH15 (sửa đổi, hiệu lực 01/01/2026) · NĐ 342/2025/NĐ-CP (chi tiết, hiệu lực 15/02/2026) · NĐ 87/2026/NĐ-CP (xử phạt văn hoá & quảng cáo, hiệu lực 15/05/2026). Link: [NGUON.md](../NGUON.md). Số điều: chỉ trích ở phần Mức phạt (đã đối chiếu toàn văn); luật nội dung **chưa trích**.
 Email/SMS/cuộc gọi quảng cáo: NĐ 91/2020/NĐ-CP (chống tin nhắn rác, thư điện tử rác, cuộc gọi rác) — kiểm văn bản sửa đổi hiện hành.
 Khuyến mại (giảm giá, tặng quà, khách hàng thường xuyên, may rủi): NĐ 81/2018/NĐ-CP sửa bởi NĐ 128/2024 và NĐ 239/2026 (chi tiết Luật Thương mại).
 
@@ -23,10 +23,18 @@ Khuyến mại (giảm giá, tặng quà, khách hàng thường xuyên, may r�
 | 4.9 | Chữ trong sản phẩm quảng cáo dùng **tiếng Việt** (tiếng nước ngoài kèm theo đúng tỷ lệ/quy cách) | [luật] (Luật 75/2025 có sửa phần này) | banner chỉ có tiếng Anh |
 | 4.10 | **Khuyến mại**: tổng giá trị hàng hoá/dịch vụ dùng khuyến mại thường **không quá 50%** giá trị hàng được khuyến mại (chương trình khuyến mại tập trung: 100%); một số hình thức phải **thông báo** trước; quay số/may rủi phải theo thủ tục và có khách chứng kiến | [luật] NĐ 81/2018 + 128/2024 (theo Báo Chính phủ) + 239/2026 — hình thức nào phải thông báo: **đọc bản gốc** | mã giảm giá, vòng quay, "mua 1 tặng 1" |
 
-## Mức phạt (NĐ 87/2026/NĐ-CP)
+## Mức phạt (NĐ 87/2026/NĐ-CP — đã đối chiếu toàn văn Công báo)
 
-Nguồn: [Báo Chính phủ 13/04/2026](https://baochinhphu.vn/quy-dinh-moi-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-van-hoa-quang-cao-102260413165337606.htm). Mở toàn văn trên Công báo trước khi trích điều.
+**Mức dưới đây là của CÁ NHÂN; tổ chức gấp 2** (Điều 6 khoản 2, 3; một số điều được ghi là mức tổ chức — xem Điều 6 khoản 2). Trần quảng cáo: 100 triệu (cá nhân) · 200 triệu (tổ chức) (Điều 6 khoản 1).
+Hiệu lực 15/05/2026; **bãi bỏ NĐ 38/2021, NĐ 128/2022** và Điều 4 NĐ 129/2021 (Điều 93); chuyển tiếp ở Điều 94. Hộ kinh doanh tính mức nào: NĐ 87 dẫn sang NĐ 118/2021 — **chưa đối chiếu**.
 
-- Mức tối đa lĩnh vực quảng cáo: **100 triệu (cá nhân) · 200 triệu (tổ chức)**; cùng hành vi, tổ chức bị phạt **gấp 2** cá nhân.
-- Quảng cáo **không đúng hoặc gây nhầm lẫn về khả năng kinh doanh, cung cấp sản phẩm/dịch vụ**: 80–100 triệu (mức cá nhân) — liên quan 4.1, 4.2, 4.3.
-- Mức phạt riêng cho từ ngữ tuyệt đối, so sánh, thiếu nhãn quảng cáo của KOL, quảng cáo trên mạng: **chưa có trong bộ nguồn** (bài tóm tắt bị cắt).
+| Hành vi | Mức (cá nhân) | Căn cứ | Ứng với mục |
+|---|---|---|---|
+| Dùng từ "nhất", "duy nhất", "tốt nhất", "số một"… không có tài liệu chứng minh hợp lệ | 10–20 triệu | Điều 50 khoản 2 điểm a | 4.1 |
+| Dùng **hình ảnh, lời nói, chữ viết của cá nhân** khi chưa được đồng ý | 20–40 triệu | Điều 50 khoản 3 điểm a | 4.5 |
+| **Quảng cáo so sánh** với sản phẩm của người khác không có căn cứ | 40–60 triệu | Điều 50 khoản 4 điểm b | 4.4 |
+| Quảng cáo **không đúng hoặc gây nhầm lẫn** về khả năng kinh doanh, sản phẩm, dịch vụ | 80–100 triệu | Điều 50 khoản 5 điểm c | 4.2, 4.3 |
+| **Người có ảnh hưởng** không thông báo/ghi rõ là quảng cáo | 40–60 triệu (thông báo không đầy đủ) · 60–80 triệu (không thông báo) — theo bản trích, xem Điều 51 | Điều 51 | 4.8 |
+| **Quảng cáo trên mạng** không nhận diện được là quảng cáo / không cho tắt | 30–40 triệu (theo bản trích) | Điều 56 khoản 2 | 4.7 |
+| Quảng cáo **không dùng tiếng Việt** đúng quy định | 5–10 triệu (theo bản trích) | Điều 52 | 4.9 |
+

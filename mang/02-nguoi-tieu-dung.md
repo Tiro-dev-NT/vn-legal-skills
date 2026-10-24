@@ -4,7 +4,7 @@
 
 **Áp khi:** bán hàng hoá/dịch vụ (kể cả gói thuê bao, vật phẩm số, credit) cho cá nhân.
 
-**Văn bản:** Luật 19/2023/QH15 (BVQLNTD) · NĐ 55/2024/NĐ-CP (chi tiết). Link: [NGUON.md](../NGUON.md). Số điều: **chưa trích**.
+**Văn bản:** Luật 19/2023/QH15 (BVQLNTD) · NĐ 55/2024/NĐ-CP (chi tiết). Link: [NGUON.md](../NGUON.md). Số điều: chỉ trích ở phần Mức phạt (đã đối chiếu toàn văn); luật nội dung **chưa trích**.
 
 ## Việc phải có
 
@@ -19,22 +19,20 @@
 | 2.7 | **Không điều khoản miễn trừ trắng** trách nhiệm của bên bán (vd "không hoàn tiền trong mọi trường hợp") | [luật] (điều khoản vô hiệu) | đọc điều khoản |
 | 2.8 | **Thông tin người bán**: tên chủ thể kinh doanh, mã số, địa chỉ liên hệ | [luật] | footer, trang giới thiệu |
 
-## Mức phạt (NĐ 98/2020/NĐ-CP, sửa bởi NĐ 24/2025/NĐ-CP)
+## Mức phạt (NĐ 98/2020/NĐ-CP sửa bởi NĐ 24/2025/NĐ-CP — đã đối chiếu toàn văn Công báo)
 
-Nguồn: [Báo Chính phủ 24/02/2025](https://baochinhphu.vn/tang-muc-phat-vi-pham-hanh-chinh-ve-bao-ve-quyen-loi-nguoi-tieu-dung-102250224185539081.htm) · [tóm tắt NĐ 24/2025](https://xaydungchinhsach.chinhphu.vn/nghi-dinh-24-2025-nd-cp-sua-doi-bo-sung-quy-dinh-xu-phat-vi-pham-hanh-chinh-bao-ve-quyen-loi-nguoi-tieu-dung-119250225072906906.htm).
-Đến 24/10/2026 chưa thấy nghị định thay thế (Bộ Công Thương có kế hoạch sửa trong quý IV/2026) — **kiểm lại Công báo**. Bài không tách cá nhân/tổ chức.
+**Mức Chương II là của CÁ NHÂN; tổ chức gấp 2** (Điều 4 khoản 4 điểm b; một số điều — gồm khoản 2, 3 Điều 53a — là mức tổ chức). Đọc từ NĐ 24/2025 và văn bản hợp nhất 03/VBHN-BCT (Công báo 02/06/2025).
+Đến 24/10/2026 chưa thấy nghị định thay thế (Bộ Công Thương có kế hoạch sửa trong quý IV/2026) — **kiểm lại Công báo**.
 
-| Hành vi | Mức phạt | Ứng với mục |
-|---|---|---|
-| Thu thập/dùng thông tin người tiêu dùng khi chưa đồng ý; dùng sai mục đích đã thông báo | 20–30 triệu | mảng 1 |
-| Không có biện pháp bảo đảm an toàn thông tin; chuyển thông tin cho bên thứ ba khi chưa đồng ý | 30–40 triệu | mảng 1, 6 |
-| ↳ liên quan DL cá nhân nhạy cảm | gấp 2 | |
-| Không đền bù/hoàn tiền/đổi khi sản phẩm không đúng cam kết, quảng cáo | 50–70 triệu | 2.3, 2.7 |
-| Bắt mua thêm sản phẩm/dịch vụ như điều kiện giao kết hợp đồng | 50–70 triệu | 2.5 |
-| Ẩn hoặc hiển thị không trung thực đánh giá của người tiêu dùng | 50–70 triệu (chủ nền tảng số) | 4.5 |
-| Không công khai việc tài trợ người có ảnh hưởng để quảng bá | 50–70 triệu | 4.8 |
-| Quấy rối người tiêu dùng để chào bán trái ý muốn | 50–70 triệu | 4.6 |
-| Nền tảng trung gian không xác thực danh tính người bán | 100–200 triệu (tổ chức) | 3.1 |
+| Hành vi | Mức | Căn cứ | Ứng với mục |
+|---|---|---|---|
+| Thu thập/dùng thông tin người tiêu dùng khi chưa đồng ý; dùng sai mục đích đã thông báo | 20–30 triệu (cá nhân) | Điều 46 khoản 1 | mảng 1 |
+| Không có biện pháp bảo đảm an toàn thông tin; chuyển thông tin cho bên thứ ba khi chưa đồng ý | 30–40 triệu (cá nhân); gấp 2 nếu DL nhạy cảm, gấp 4 nếu nền tảng số lớn | Điều 46 khoản 2–4 | mảng 1, 6 |
+| Nền tảng số: ẩn/hiển thị không trung thực đánh giá; quấy rối chào bán; không hoàn tiền/đổi khi sai cam kết; bắt mua thêm; không công khai tài trợ người có ảnh hưởng… | 50–70 triệu | Điều 53a khoản 1 | 2.3, 2.5, 4.5, 4.8 |
+| Tổ chức vận hành nền tảng trung gian: không xác thực người bán… | 100–200 triệu (tổ chức) | Điều 53a khoản 2 | 3.1 |
+| Vi phạm nặng hơn của nền tảng (xem bản gốc) | 300–400 triệu (tổ chức) | Điều 53a khoản 3 | 3.1 |
+| Không có kênh tiếp nhận/giải quyết khiếu nại theo quy định | 20–40 triệu (theo bản trích) | Điều 61 | 2.6 |
+| Vi phạm về website TMĐT (thông báo, công bố thông tin…) | 1–30 triệu tuỳ hành vi; có thể đình chỉ 6–12 tháng | Điều 62 (VBHN 03/VBHN-BCT) | 3.2, 3.3 |
 
 Lưu ý: khi hành vi thuộc cả luật DLCN, NĐ 330/2026 (mảng 1) có thể là văn bản áp dụng — luật sư xác định.
 
