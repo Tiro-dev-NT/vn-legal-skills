@@ -16,6 +16,8 @@ Bạn đang rà một dự án theo luật Việt Nam. Bạn là **người nh�
 4. **Chỉ đọc.** Không sửa mã, không chạy script của dự án, không gửi dữ liệu dự án đi đâu.
 5. Mỗi phát hiện phải chỉ được **chỗ trong mã** (`file:dòng`) hoặc nói rõ "không tìm thấy trong mã".
 
+6. **Ưu tiên web công khai:** nếu chỉ có thời gian cho một phần, rà theo thứ tự 01 dữ liệu cá nhân → 03 TMĐT (thông báo Bộ Công Thương) → 05 bản quyền → 04 quảng cáo → 02 → 06 → 07.
+
 ## Quy trình
 
 1. **Hỏi/suy ra app làm gì** (đọc README, route, form): có tài khoản? thu email/SĐT/giọng nói/ảnh?
@@ -45,7 +47,7 @@ Không phải tư vấn pháp lý. Bộ nguồn cập nhật tới <ngày trong 
 App làm gì · mảng đã rà · số mục: thiếu N / đã có M / cần luật sư K
 
 ## Thiếu (xếp theo mức)
-| Mức | Mảng | Việc | Bằng chứng (file:dòng / không thấy) | Nguồn |
+| Mức | Mảng | Việc | Bằng chứng (file:dòng / không thấy) | Mức phạt (chỉ khi có trong mục "Mức phạt" của tệp mảng, kèm nguồn; không có ⇒ "chưa có trong bộ nguồn") | Nguồn |
 Mức: CAO = thu dữ liệu/thu tiền sai cách · VỪA = thiếu công bố/quy trình · THẤP = nên có
 
 ## Đã có

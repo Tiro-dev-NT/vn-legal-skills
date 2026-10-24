@@ -16,6 +16,18 @@ Thủ tục thông báo/đăng ký website TMĐT làm trên cổng của Bộ C�
 | 3.5 | **Xác nhận giao dịch** gửi người mua (email/màn hình) với đủ nội dung đơn | [khuyến nghị] | luồng sau thanh toán |
 | 3.6 | Thanh toán qua **trung gian thanh toán được cấp phép**; không tự thu tiền theo cách lách | [khuyến nghị] | SDK cổng thanh toán |
 
+## Thủ tục thông báo website bán hàng (Bộ Công Thương)
+
+Nguồn: [Dịch vụ công Bộ Công Thương — Thông báo website TMĐT bán hàng](https://dichvucong.moit.gov.vn/TTHCOnlineDetail.aspx?DocId=115) · [online.gov.vn — đối tượng phải thông báo](http://online.gov.vn/Huong-Dan/Nhung-doi-tuong-nao-phai-tien-hanh-thong-bao-website-mSnQQYbE9l).
+
+1. Đăng ký tài khoản trên **online.gov.vn** (thương nhân, tổ chức, cá nhân lập website bán hàng đều phải thông báo — theo hướng dẫn trên cổng).
+2. Chọn "thông báo website", khai theo mẫu.
+3. Bộ xử lý trong khoảng **3 ngày làm việc** mỗi bước; được yêu cầu bổ sung mà **10 ngày làm việc** không phản hồi ⇒ hồ sơ bị chấm dứt.
+4. Duyệt xong ⇒ website vào danh sách công bố + nhận **mã nhúng biểu tượng** "Đã thông báo Bộ Công Thương" qua email ⇒ gắn ở footer, link về trang xác nhận.
+
+Lưu ý: hướng dẫn trên cổng soạn theo khung cũ; từ 01/07/2026 khung là Luật 122/2025 + NĐ 248/2026 — **kiểm lại trên cổng lúc làm**.
+Mức phạt không thông báo: **chưa có trong bộ nguồn**.
+
 ## Cần luật sư khi
 
 app có người bán thứ ba · có livestream bán hàng · bán xuyên biên giới.

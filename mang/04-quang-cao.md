@@ -18,3 +18,11 @@ Khuyến mãi (giảm giá, tặng kèm) còn chịu pháp luật thương mại
 | 4.7 | **Quảng cáo trên mạng** hiển thị trong app: cho tắt/bỏ qua theo quy định mới; phân biệt rõ với nội dung | [luật] — mức thời gian cụ thể: **đọc NĐ 342/2025** | thẻ quảng cáo, video quảng cáo |
 | 4.8 | **Người có ảnh hưởng/KOL** quảng cáo cho app ⇒ phải ghi rõ là quảng cáo | [luật] (Luật 75/2025 bổ sung) | bài hợp tác |
 | 4.9 | Chữ trong sản phẩm quảng cáo dùng **tiếng Việt** (tiếng nước ngoài kèm theo đúng tỷ lệ/quy cách) | [luật] (Luật 75/2025 có sửa phần này) | banner chỉ có tiếng Anh |
+
+## Mức phạt (NĐ 87/2026/NĐ-CP)
+
+Nguồn: [Báo Chính phủ 13/04/2026](https://baochinhphu.vn/quy-dinh-moi-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-van-hoa-quang-cao-102260413165337606.htm). Mở toàn văn trên Công báo trước khi trích điều.
+
+- Mức tối đa lĩnh vực quảng cáo: **100 triệu (cá nhân) · 200 triệu (tổ chức)**; cùng hành vi, tổ chức bị phạt **gấp 2** cá nhân.
+- Quảng cáo **không đúng hoặc gây nhầm lẫn về khả năng kinh doanh, cung cấp sản phẩm/dịch vụ**: 80–100 triệu (mức cá nhân) — liên quan 4.1, 4.2, 4.3.
+- Mức phạt riêng cho từ ngữ tuyệt đối, so sánh, thiếu nhãn quảng cáo của KOL, quảng cáo trên mạng: **chưa có trong bộ nguồn** (bài tóm tắt bị cắt).

@@ -23,6 +23,26 @@ Số điều: **chưa trích** (chưa đối chiếu toàn văn) — mở văn b
 | 1.10 | **Sự cố lộ dữ liệu** ⇒ có quy trình thông báo cơ quan chức năng + người bị ảnh hưởng trong thời hạn luật định | [luật] — thời hạn: **đọc bản gốc** | tài liệu vận hành; nhật ký sự cố |
 | 1.11 | **Không ghi dữ liệu cá nhân vào URL / log công khai** | [khuyến nghị] | `?email=`, `console.log(user` |
 
+## Mức phạt (NĐ 330/2026/NĐ-CP)
+
+Nguồn: [Báo Chính phủ 22/08/2026](https://baochinhphu.vn/muc-xu-phat-vi-pham-hanh-chinh-doi-voi-hanh-vi-vi-pham-ve-bao-ve-du-lieu-ca-nhan-102260822154959691.htm). Bài nêu khoản, chưa nêu số điều;
+chưa tách mức cá nhân/tổ chức — **mở toàn văn NĐ 330 trên Công báo trước khi trích cho người dùng**.
+Hộ kinh doanh bị phạt như cá nhân (theo bài trên).
+
+| Hành vi | Mức phạt | Ứng với mục |
+|---|---|---|
+| Xử lý DL sai mục đích, không có đồng ý, vượt mức cần thiết; giữ quá thời gian cần thiết; không sửa DL sai | 20–40 triệu | 1.1, 1.8 |
+| Dùng DL cá nhân người khác để làm việc trái luật; cản trở hoạt động bảo vệ DL | 40–60 triệu | 1.8 |
+| Đặt sẵn mặc định đồng ý / chỉ dẫn gây nhầm giữa đồng ý và không | 30–50 triệu | 1.2 |
+| Không cho đồng ý riêng theo từng mục đích; ép đồng ý mục đích không liên quan, hoặc từ chối dịch vụ nếu không đồng ý | 30–50 triệu | 1.2 |
+| Không lưu nhật ký đồng ý / không chứng minh được đã có đồng ý | 30–50 triệu | 1.3 |
+| Không cung cấp thông tin minh bạch (loại DL, mục đích, quyền) khi xin đồng ý | 30–50 triệu | 1.1 |
+| Không thông báo cho người dùng biết DL nhạy cảm của họ đang được xử lý | 30–50 triệu | 1.5 |
+| Coi im lặng/không phản hồi là đồng ý; tiếp tục xử lý sau khi người dùng yêu cầu ngừng | 50–70 triệu | 1.2, 1.3 |
+
+Biện pháp kèm theo có thể gồm: buộc xoá dữ liệu thu không hợp lệ, buộc nộp lại khoản thu bất hợp pháp, buộc xin lỗi công khai.
+Mức phạt cho chính sách, quyền chủ thể, chuyển DL ra nước ngoài, thông báo sự cố: **chưa có trong bộ nguồn**.
+
 ## Miễn trừ cần đọc kỹ
 
 Theo tin của Chính phủ/Bộ Công an, **hộ kinh doanh và doanh nghiệp siêu nhỏ** được miễn một số nghĩa vụ
