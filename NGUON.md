@@ -49,6 +49,7 @@
 |---|---|---|---|---|---|
 | VBHN 67/VBHN-VPQH | Hợp nhất Luật Sở hữu trí tuệ (bản dùng để đọc) | 23/03/2026 | — | [Công báo](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-469197.htm) | số+ngày |
 | Luật 131/2025/QH15 | Sửa đổi, bổ sung Luật SHTT | 10/12/2025 | 01/04/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216511&classid=1&orggroupid=1) | số+ngày |
+| NĐ 341/2025/NĐ-CP | Xử phạt VPHC về quyền tác giả, quyền liên quan (4 chương 65 điều) | 26/12/2025 | 15/02/2026 | [cov.gov.vn](https://cov.gov.vn/tin-tuc/gioi-thieu-nghi-dinh-so-3412025ndcp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-quyen-tac-gia-quyen-lien-quan-168844.html) | số+ngày (theo cổng Cục Bản quyền) |
 | Luật 134/2025/QH15 | Luật Trí tuệ nhân tạo | 10/12/2025 | 01/03/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216334&classid=1&typegroupid=3) | số+ngày |
 
 ## Cách thêm / sửa một dòng
