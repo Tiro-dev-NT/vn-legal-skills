@@ -2,7 +2,7 @@
 
 **Áp khi:** landing page, bài đăng mạng xã hội, email marketing, khuyến mãi, quảng cáo hiển thị trong app.
 
-**Văn bản:** Luật Quảng cáo 16/2012/QH13 + Luật 75/2025/QH15 (sửa đổi, hiệu lực 01/01/2026) · NĐ 342/2025/NĐ-CP (chi tiết — chưa khớp trên Công báo) · NĐ 87/2026/NĐ-CP (xử phạt văn hoá & quảng cáo, hiệu lực 15/05/2026). Link: [NGUON.md](../NGUON.md). Số điều: **chưa trích**.
+**Văn bản:** Luật Quảng cáo 16/2012/QH13 + Luật 75/2025/QH15 (sửa đổi, hiệu lực 01/01/2026) · NĐ 342/2025/NĐ-CP (chi tiết, hiệu lực 15/02/2026) · NĐ 87/2026/NĐ-CP (xử phạt văn hoá & quảng cáo, hiệu lực 15/05/2026). Link: [NGUON.md](../NGUON.md). Số điều: **chưa trích**.
 Email/SMS/cuộc gọi quảng cáo: NĐ 91/2020/NĐ-CP (chống tin nhắn rác, thư điện tử rác, cuộc gọi rác) — kiểm văn bản sửa đổi hiện hành.
 Khuyến mại (giảm giá, tặng quà, khách hàng thường xuyên, may rủi) chịu Luật Thương mại và nghị định về khuyến mại — **chưa có trong bộ nguồn**; web bán hàng có giảm giá ⇒ ghi "cần tra".
 
