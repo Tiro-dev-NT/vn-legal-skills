@@ -28,6 +28,10 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
 
 ## Quy trình
 
+0. **Kiểm độ mới của bộ nguồn:** đọc ngày kiểm ở đầu `NGUON.md`. Cách hôm nay **quá 90 ngày** ⇒ đầu báo cáo thêm dòng
+   "⚠️ Bộ nguồn cập nhật lần cuối <ngày> — có thể đã có luật mới; xem LICH-SU-THAY-DOI.md và tra Công báo."
+   Văn bản trong `NGUON.md` có hiệu lực **sau** hôm nay ⇒ ghi "sắp có hiệu lực từ <ngày>", nhắc chuẩn bị trước.
+
 1. **Phân loại** (đọc README, route, form, cấu hình; hỏi người dùng phần không suy ra được):
    - Chủ thể: cá nhân / hộ kinh doanh / doanh nghiệp (siêu nhỏ, nhỏ, khác) — ảnh hưởng miễn trừ và mức phạt.
    - Vai trò: tự bán hàng hay nền tảng trung gian; bên kiểm soát hay bên xử lý dữ liệu; nhà cung cấp hay bên triển khai AI.
@@ -48,7 +52,9 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
    | 8 | game chơi qua mạng, mini-game, bảng xếp hạng, vật phẩm ảo, quay thưởng | `mang/08-tro-choi-dien-tu.md` |
 
 3. **Rà từng mục:** dùng cột "Dấu hiệu trong mã" để TÌM, **đọc đoạn mã** rồi mới kết luận. Mục không áp dụng ⇒ ghi lý do.
-4. **Viết báo cáo** theo mẫu dưới.
+4. **Thủ tục ngoài mã:** đọc `THU-TUC.md`, chọn các dòng T áp dụng theo phân loại; tìm dấu hiệu đã làm (biểu tượng Bộ Công Thương, số giấy phép…)
+   rồi đưa vào mục "Thủ tục phải làm" — mặc định trạng thái **chưa xác nhận**, hỏi người dùng.
+5. **Viết báo cáo** theo mẫu dưới.
 
 ## Mẫu báo cáo
 
@@ -66,6 +72,11 @@ Chủ thể · vai trò · tính năng có liên quan · ngày hoạt động ·
 ## Thiếu (chỉ mục [luật] đã xác định áp dụng)
 | Mức | Mảng-mục | Việc | Bằng chứng (file:dòng / không thấy) | Căn cứ (văn bản; điều nếu đã xác minh) | Mức phạt (chỉ khi có trong tệp mảng; kèm đối tượng cá nhân/tổ chức) | Độ chắc |
 Mức: CAO = thu dữ liệu/thu tiền sai cách · VỪA = thiếu công bố/quy trình · THẤP = nên có
+
+## Thủ tục phải làm với cơ quan nhà nước (từ THU-TUC.md)
+| Mã T | Thủ tục | Cơ quan | Vì sao áp dụng | Trạng thái: có dấu hiệu đã làm (file:dòng) / chưa xác nhận — hỏi người dùng |
+
+## Sắp có hiệu lực (chuẩn bị trước)
 
 ## Nên làm thêm ([khuyến nghị])
 ## Đã có

@@ -17,7 +17,7 @@ mau = sorted(glob.glob('mau/*.md'))
 
 # 1. Văn bản được dẫn ở đâu cũng phải có dòng trong NGUON.md
 RE_VB = re.compile(r'(?:NĐ|Luật|QĐ|VBHN)\s+(\d{1,3}/\d{4})')
-for p in mang + mau + ['skills/vn-legal-check/SKILL.md']:
+for p in mang + mau + ['skills/vn-legal-check/SKILL.md', 'THU-TUC.md']:
     for so in set(RE_VB.findall(doc(p))):
         if so not in nguon:
             loi.append(f'{p}: dẫn văn bản {so} nhưng NGUON.md không có')
@@ -43,12 +43,12 @@ for p in mang:
         loi.append(f'{p}: mã mục không tăng dần/trùng: {so}')
 
 # 4. Tham chiếu chéo "mảng 1.2", "mục 1.7", "(xem 7.6)", "+ mảng 4.2" phải tồn tại
-for p in mang + ['skills/vn-legal-check/SKILL.md']:
+for p in mang + ['skills/vn-legal-check/SKILL.md', 'THU-TUC.md']:
     for ref in re.findall(r'(?:mảng|mục|xem)\s+(\d+\.\d+)', doc(p)):
         if ref not in ma_co: loi.append(f'{p}: tham chiếu {ref} không tồn tại')
 
 # 5. Miễn trừ trách nhiệm phải có ở mọi điểm chạm
-for p in mang + mau + ['README.md', 'AGENTS.md', 'skills/vn-legal-check/SKILL.md']:
+for p in mang + mau + ['README.md', 'AGENTS.md', 'THU-TUC.md', 'skills/vn-legal-check/SKILL.md']:
     if 'MIEN-TRU-TRACH-NHIEM.md' not in doc(p): loi.append(f'{p}: thiếu liên kết MIEN-TRU-TRACH-NHIEM.md')
 if 'Khi chia sẻ báo cáo, giữ nguyên khối này' not in skill:
     loi.append('SKILL.md: mẫu báo cáo thiếu khối cảnh báo bắt buộc')

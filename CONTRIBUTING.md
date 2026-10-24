@@ -27,6 +27,15 @@ Cảm ơn bạn! Mọi đóng góp đều tự động hiện trong mục **Cont
 6. Trích nguyên văn đã dùng để kiểm (nếu dài) ⇒ thêm tệp vào `trich-dan/`.
 7. Cập nhật ngày kiểm ở đầu `NGUON.md`.
 
+## Rà luật định kỳ (người duy trì, mỗi tháng)
+
+1. Trên congbao.chinhphu.vn / vanban.chinhphu.vn tìm văn bản mới từ ngày kiểm ở đầu `NGUON.md` với các từ khoá:
+   *dữ liệu cá nhân · an ninh mạng · thương mại điện tử · bảo vệ quyền lợi người tiêu dùng · quảng cáo · khuyến mại ·
+   quyền tác giả · trí tuệ nhân tạo · trò chơi điện tử · thông tin trên mạng · giao dịch điện tử · xử phạt vi phạm hành chính*.
+2. Với mỗi văn bản dẫn trong `NGUON.md`: còn hiệu lực không, có văn bản sửa/thay chưa, dự thảo nào sắp ban hành.
+3. Có thay đổi ⇒ làm theo Luật nội dung mục 5 (không xoá bản cũ, ghi LICH-SU-THAY-DOI.md), cập nhật `THU-TUC.md` nếu thủ tục đổi.
+4. Không có thay đổi ⇒ vẫn đổi ngày kiểm ở đầu `NGUON.md` (skill cảnh báo khi bộ nguồn cũ quá 90 ngày).
+
 ## Cổng kiểm
 
 ```bash
