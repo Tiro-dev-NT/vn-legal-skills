@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|
 | Luật 91/2025/QH15 | Luật Bảo vệ dữ liệu cá nhân | 26/06/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm) · [vbpl.vn](https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179252) | số+ngày |
 | NĐ 356/2025/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật BVDLCN | 31/12/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216387) | số+ngày |
-| NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | số+ngày |
+| NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | **toàn văn**: Điều 2, 7, 39, 43, 54, 60, 65 |
 | Luật 116/2025/QH15 | Luật An ninh mạng (2025) | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216499&orggroupid=1&pageid=27160) | số+ngày |
 | NĐ 363/2026/NĐ-CP | Xử phạt VPHC lĩnh vực dữ liệu (không gồm phần DLCN/ANM) — **chưa có hiệu lực tại 24/10/2026** | 19/09/2026 | 11/11/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=219598&pageid=27160) | số+ngày |
 | NĐ 331/2026/NĐ-CP | Bảo vệ an ninh mạng đối với hệ thống thông tin | 19/08/2026 | 19/08/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=219243&pageid=27160&typegroupid=4) | số+ngày |
@@ -66,14 +66,19 @@
 
 | Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
 |---|---|---|---|---|---|
-| NĐ 147/2024/NĐ-CP | (xem mục ANM) — mục Trò chơi điện tử trên mạng | 09/11/2024 | 25/12/2024 | [PDF Công báo](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2024/11/43155/52696-1-20241263-1264147-2024-nd-cp.pdf) · [Báo Chính phủ 28/09/2026](https://baochinhphu.vn/dieu-kien-cung-cap-dich-vu-tro-choi-dien-tu-tren-mang-102260928095040248.htm) | số+ngày; Điều 37, 56 theo tin Chính phủ |
-| NĐ 174/2026/NĐ-CP | Xử phạt bưu chính, viễn thông, tần số, giao dịch điện tử, CNTT (8 chương 117 điều) | 15/05/2026 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-174-2026-nd-cp-469616/65312.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218185) | số+ngày |
+| NĐ 147/2024/NĐ-CP | (xem mục ANM) — mục Trò chơi điện tử trên mạng | 09/11/2024 | 25/12/2024 | [PDF Công báo](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2024/11/43155/52696-1-20241263-1264147-2024-nd-cp.pdf) · [Báo Chính phủ 28/09/2026](https://baochinhphu.vn/dieu-kien-cung-cap-dich-vu-tro-choi-dien-tu-tren-mang-102260928095040248.htm) | **toàn văn**: Điều 37, 38, 39, 48, 57, 83 (Điều 43, 52: theo trích của người đọc, chưa soát lại) |
+| NĐ 174/2026/NĐ-CP | Xử phạt bưu chính, viễn thông, tần số, giao dịch điện tử, CNTT (8 chương 117 điều) | 15/05/2026 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-174-2026-nd-cp-469616/65312.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218185) | **toàn văn**: Điều 4, 98, 99 |
 | NĐ 391/2026/NĐ-CP | Xử phạt đặt cược, trò chơi có thưởng | 20/10/2026 | 05/12/2026 (theo tin) | [Báo Chính phủ](https://baochinhphu.vn/vi-pham-ve-thoi-gian-kinh-doanh-tro-choi-co-thuong-bi-phat-den-200-trieu-dong-102261020181652761.htm) | chưa khớp trên Công báo |
+| NĐ 72/2013/NĐ-CP · NĐ 27/2018/NĐ-CP | Quy định cũ về internet/game — **đã bị bãi bỏ** bởi NĐ 147/2024 Điều 83 | — | hết hiệu lực 25/12/2024 | — | toàn văn (Điều 83 NĐ 147) |
 
 ## Chưa có trong bộ nguồn (cần bổ sung)
 
 Luật Thương mại (gốc, phần khuyến mại) · nghị định xử phạt TMĐT theo Luật 122/2025 (nếu có) · Luật Trẻ em ·
 mức phạt khuyến mại sai · mức phạt game (NĐ 174/2026 — đang đối chiếu) · dự thảo sửa NĐ 147/2024.
+
+## Bản trích nguyên văn
+
+Đoạn trích nguyên văn (kèm URL PDF Công báo) dùng để kiểm các số điều/mức phạt: thư mục [`trich-dan/`](trich-dan/2026-10-24-nd330-nd174-nd147.md). Văn bản quy phạm pháp luật không thuộc đối tượng bảo hộ quyền tác giả.
 
 ## Cách thêm / sửa một dòng
 

@@ -32,6 +32,7 @@ mang/                            mỗi mảng một tệp: áp khi nào · việ
   06-an-ninh-mang.md
   07-tri-tue-nhan-tao.md
   08-tro-choi-dien-tu.md
+trich-dan/                       đoạn trích NGUYÊN VĂN từ PDF Công báo (bằng chứng cho số điều, mức phạt)
 mau/                             mẫu văn bản để trống [CHỖ ĐIỀN], tự viết, không chép của ai
   chinh-sach-quyen-rieng-tu.md
   dieu-khoan-su-dung.md

@@ -5,7 +5,7 @@
 **Áp khi:** app thu bất kỳ dữ liệu nào gắn với một người: email, SĐT, tên, ảnh, giọng nói, IP, lịch sử dùng, cookie định danh.
 
 **Văn bản:** Luật 91/2025/QH15 (Luật BVDLCN) · NĐ 356/2025/NĐ-CP (chi tiết) · NĐ 330/2026/NĐ-CP (xử phạt). Link: [NGUON.md](../NGUON.md).
-Số điều: **chưa trích** (chưa đối chiếu toàn văn) — mở văn bản gốc khi cần dẫn điều.
+Số điều: chỉ trích ở phần Mức phạt (NĐ 330/2026 đã đối chiếu toàn văn); Luật 91/2025 và NĐ 356/2025 **chưa trích**.
 
 > Nhãn mỗi mục: **[luật]** = nội dung có trong văn bản (đã nêu ở nguồn chính thức) · **[khuyến nghị]** = cách làm an toàn suy ra, không phải câu chữ của luật.
 
@@ -18,33 +18,41 @@ Số điều: **chưa trích** (chưa đối chiếu toàn văn) — mở văn b
 | 1.3 | **Chứng minh được đã có đồng ý** (ghi nhận ai, đồng ý gì, lúc nào) và cho **rút đồng ý** — [luật]. Cách lưu (bảng, phiên bản chính sách) và rút dễ như lúc đồng ý — [khuyến nghị] | [luật] + [khuyến nghị] | bảng/khóa lưu consent; nút rút đồng ý trong cài đặt |
 | 1.4 | Người dùng thực hiện được **quyền chủ thể dữ liệu** (xem, sửa, yêu cầu xoá, hạn chế, nhận bản sao…). Yêu cầu xoá có **ngoại lệ** (dữ liệu phải giữ theo luật khác, vd chứng từ thanh toán) ⇒ kiểm có căn cứ giữ lại + trả lời từ chối hợp lệ; vòng đời backup. Nút bấm là một cách làm, không phải hình thức bắt buộc duy nhất | [luật] (quyền chủ thể) · ngoại lệ: **đọc bản gốc** | nút "Xoá tài khoản", API xoá; bảng phụ/backup |
 | 1.5 | Dữ liệu **nhạy cảm** (sức khoẻ, sinh trắc — giọng nói/khuôn mặt dùng để nhận dạng, vị trí, tài chính, trẻ em…) ⇒ phân loại theo **danh mục của NĐ 356/2025** (đừng tự suy), thông báo cho người dùng biết DL nhạy cảm đang được xử lý, đồng ý riêng theo mục đích; giữ ngắn nhất có thể | [luật] phân loại + thông báo · [khuyến nghị] thời hạn | `getUserMedia`, upload ảnh/ghi âm, geolocation |
-| 1.6 | **Trẻ em**: xử lý DL của trẻ cần đồng ý của cha mẹ/người giám hộ; một số trường hợp còn cần **cả đồng ý của trẻ từ đủ 7 tuổi** (theo giải thích của Bộ Công an — đọc bản gốc) — [luật]. Cổng xác nhận tuổi là cách làm — [khuyến nghị] | [luật] + [khuyến nghị] | form đăng ký có hỏi tuổi không |
+| 1.6 | **Trẻ em**: xử lý DL của trẻ cần đồng ý của cha mẹ/người giám hộ; trẻ **từ đủ 7 tuổi** cần **đồng thời** đồng ý của trẻ và người đại diện; phải **xác minh tuổi** trước khi xử lý (NĐ 330 Điều 60 khoản 1 — xử phạt) — [luật]. Cổng xác nhận tuổi là cách làm — [khuyến nghị] | [luật] + [khuyến nghị] | form đăng ký có hỏi tuổi không |
 | 1.7 | **Chuyển dữ liệu ra nước ngoài** (máy chủ/AI/email ở nước ngoài — rất phổ biến: Supabase, Firebase, Vercel, OpenAI…) ⇒ công bố trong chính sách + làm hồ sơ theo NĐ 356/2025 | [luật] — chi tiết hồ sơ & miễn trừ cho hộ KD/DN siêu nhỏ: **đọc NĐ 356 + Luật 91 bản gốc** | biến môi trường, SDK bên thứ ba, vùng máy chủ |
 | 1.8 | **Không bán/mua dữ liệu cá nhân**; không dùng dữ liệu cho mục đích ngoài điều đã công bố | [luật] | export danh sách email, chia sẻ cho đối tác quảng cáo |
 | 1.9 | **Cookie/analytics**: dữ liệu theo dõi dùng cho quảng cáo theo hành vi/cá nhân hoá cần đồng ý — [luật]. Phân loại từng cookie theo dữ liệu + mục đích + căn cứ; "cần thiết" không tự là ngoại lệ, phải có căn cứ xử lý. Thiết kế banner — [khuyến nghị] | [luật] + [khuyến nghị] | `gtag`, `fbq`, `mixpanel`, pixel; banner cookie |
 | 1.10 | **Sự cố lộ dữ liệu** ⇒ có quy trình thông báo cơ quan chức năng + người bị ảnh hưởng trong thời hạn luật định | [luật] — thời hạn: **đọc bản gốc** | tài liệu vận hành; nhật ký sự cố |
 | 1.11 | **Không ghi dữ liệu cá nhân vào URL / log công khai** | [khuyến nghị] | `?email=`, `console.log(user` |
 
-## Mức phạt (NĐ 330/2026/NĐ-CP)
+## Mức phạt (NĐ 330/2026/NĐ-CP — đã đối chiếu toàn văn Công báo)
 
-Nguồn: [Báo Chính phủ 22/08/2026](https://baochinhphu.vn/muc-xu-phat-vi-pham-hanh-chinh-doi-voi-hanh-vi-vi-pham-ve-bao-ve-du-lieu-ca-nhan-102260822154959691.htm). Bài nêu khoản, chưa nêu số điều;
-chưa tách mức cá nhân/tổ chức — **mở toàn văn NĐ 330 trên Công báo trước khi trích cho người dùng**.
-Hộ kinh doanh bị phạt như cá nhân (theo bài trên). **Đối tượng của từng mức chưa xác minh ⇒ không tự nhân đôi cho tổ chức.**
+**Mức dưới đây là của TỔ CHỨC. Cá nhân vi phạm cùng hành vi chịu 1/2** (Điều 7 khoản 1, đoạn về Mục 6 — bảo vệ DLCN).
+**Hộ kinh doanh** bị áp mức như **cá nhân** (Điều 2 khoản 3). Hiệu lực 19/08/2026.
+Phạt theo % doanh thu chỉ áp cho **chuyển DLCN xuyên biên giới** (Điều 56) và mua bán DLCN — đọc bản gốc khi gặp.
 
-| Hành vi | Mức phạt | Ứng với mục |
-|---|---|---|
-| Xử lý DL sai phạm vi/mục đích đã xác định, vượt mức cần thiết, không có đồng ý (nhóm vi phạm **nguyên tắc** xử lý); giữ quá thời gian cần thiết; không sửa DL sai | 20–40 triệu | 1.1, 1.8 |
-| Xử lý DL **sau khi thu thập mà chưa có đồng ý** (nhóm vi phạm về **sự đồng ý**; có ngoại lệ theo luật) | 30–50 triệu | 1.2 |
-| Dùng DL cá nhân người khác để làm việc trái luật; cản trở hoạt động bảo vệ DL | 40–60 triệu | 1.8 |
-| Đặt sẵn mặc định đồng ý / chỉ dẫn gây nhầm giữa đồng ý và không | 30–50 triệu | 1.2 |
-| Không cho đồng ý riêng theo từng mục đích; ép đồng ý mục đích không liên quan, hoặc từ chối dịch vụ nếu không đồng ý | 30–50 triệu | 1.2 |
-| Không lưu nhật ký đồng ý / không chứng minh được đã có đồng ý | 30–50 triệu | 1.3 |
-| Không cung cấp thông tin minh bạch (loại DL, mục đích, quyền) khi xin đồng ý | 30–50 triệu | 1.1 |
-| Không thông báo cho người dùng biết DL nhạy cảm của họ đang được xử lý | 30–50 triệu | 1.5 |
-| Coi im lặng/không phản hồi là đồng ý; tiếp tục xử lý sau khi người dùng yêu cầu ngừng | 50–70 triệu | 1.2, 1.3 |
+| Hành vi | Mức (tổ chức) | Căn cứ | Ứng với mục |
+|---|---|---|---|
+| Xử lý DL sai phạm vi/mục đích hoặc vượt mức cần thiết; không bảo đảm chính xác/không sửa kịp; lưu quá thời gian cần thiết | 20–40 triệu | Điều 39 khoản 1 | 1.1, 1.8 |
+| Cản trở hoạt động bảo vệ DLCN; dùng DLCN người khác làm việc trái luật | 40–60 triệu | Điều 39 khoản 2 | 1.8 |
+| Xử lý DL sau khi thu thập mà **chưa có đồng ý** (trừ trường hợp luật khác) | 30–50 triệu | Điều 43 khoản 1 điểm a | 1.2 |
+| **Ép đồng ý** mục đích không liên quan / từ chối dịch vụ nếu không đồng ý | 30–50 triệu | Điều 43 khoản 1 điểm b | 1.2 |
+| **Mặc định đồng ý**, chỉ dẫn gây hiểu lầm giữa đồng ý và không | 30–50 triệu | Điều 43 khoản 1 điểm c | 1.2 |
+| Xin đồng ý không rõ ràng, không kiểm chứng được ai/lúc nào/nội dung gì | 30–50 triệu | Điều 43 khoản 1 điểm d | 1.3 |
+| Không cung cấp thông tin minh bạch (loại DL, mục đích, quyền) | 30–50 triệu | Điều 43 khoản 1 điểm đ | 1.1 |
+| Không cho đồng ý **riêng từng mục đích** | 30–50 triệu | Điều 43 khoản 1 điểm e | 1.2 |
+| Không lưu **nhật ký đồng ý** / không chứng minh được đã có đồng ý | 30–50 triệu | Điều 43 khoản 1 điểm g | 1.3 |
+| Không thông báo người dùng biết **DL nhạy cảm** đang được xử lý | 30–50 triệu | Điều 43 khoản 1 điểm h | 1.5 |
+| Cố ý tiếp tục xử lý sau yêu cầu **ngừng/hạn chế** | 50–70 triệu | Điều 43 khoản 2 điểm a | 1.3, 1.4 |
+| Coi **im lặng** là đồng ý | 50–70 triệu | Điều 43 khoản 2 điểm b | 1.2 |
+| Không thông báo cơ quan chuyên trách khi phát hiện vi phạm / xử lý sai mục đích / không bảo đảm quyền chủ thể | 20–40 triệu | Điều 54 khoản 2 | 1.10 |
+| Thông báo sự cố cho cơ quan chuyên trách **chậm quá 72 giờ** | xem Điều 54 khoản 3 (bản gốc) | Điều 54 khoản 3 | 1.10 |
+| **Trẻ em**: không xác minh tuổi trước khi xử lý; xử lý DL trẻ **dưới 7 tuổi** không có đồng ý của người đại diện; trẻ **từ đủ 7 tuổi** không có **đồng thời** đồng ý của trẻ và người đại diện | 30–50 triệu | Điều 60 khoản 1 | 1.6 |
+| Trẻ em: công bố/tiết lộ đời tư trẻ từ đủ 7 tuổi không có đồng thời hai đồng ý; không ngừng xử lý khi người đại diện rút đồng ý | 50–100 triệu | Điều 60 khoản 2 | 1.6 |
+| **Mạng xã hội / dịch vụ truyền thông trực tuyến / nền tảng nội dung số**: không cho từ chối cookies; không có lựa chọn "không theo dõi"; không công khai chính sách bảo mật minh bạch; không có cơ chế truy cập/sửa/xoá DL; không báo rõ DL thu khi cài ứng dụng | 50–70 triệu | Điều 65 khoản 1 | 1.1, 1.4, 1.9 |
 
-Biện pháp kèm theo có thể gồm: buộc xoá dữ liệu thu không hợp lệ, buộc nộp lại khoản thu bất hợp pháp, buộc xin lỗi công khai.
-Mức phạt cho chính sách, quyền chủ thể, chuyển DL ra nước ngoài, thông báo sự cố: **chưa có trong bộ nguồn**.
+Biện pháp kèm theo (Điều 39, 43): có thể tịch thu tang vật, phương tiện; **buộc huỷ/xoá tới mức không khôi phục** DL thu không có đồng ý hợp lệ.
+Chưa trích: Điều 46–47, 50–51, 57–59, 61–64, 66–71 và phần sàn/trần theo doanh thu của Điều 56 — đọc bản gốc khi dự án có các hoạt động đó.
 
 ## Miễn trừ cần đọc kỹ
 
