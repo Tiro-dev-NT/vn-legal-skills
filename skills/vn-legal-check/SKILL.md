@@ -31,7 +31,6 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
 0. **Kiểm độ mới của bộ nguồn:** đọc ngày kiểm ở đầu `NGUON.md`. Cách hôm nay **quá 90 ngày** ⇒ đầu báo cáo thêm dòng
    "⚠️ Bộ nguồn cập nhật lần cuối <ngày> — có thể đã có luật mới; xem LICH-SU-THAY-DOI.md và tra Công báo."
    Văn bản trong `NGUON.md` có hiệu lực **sau** hôm nay ⇒ ghi "sắp có hiệu lực từ <ngày>", nhắc chuẩn bị trước.
-   Đọc bảng "Đang siết" trong `LO-TRINH.md` (tính lại theo hôm nay: hiệu lực trong 12 tháng gần đây hoặc sắp hiệu lực) ⇒ rà các mảng đó **trước**, gắn 🔥 cho phát hiện có căn cứ là văn bản trong bảng.
 
 1. **Phân loại** (đọc README, route, form, cấu hình; hỏi người dùng phần không suy ra được):
    - Chủ thể: cá nhân / hộ kinh doanh / doanh nghiệp (siêu nhỏ, nhỏ, khác) — ảnh hưởng miễn trừ và mức phạt.
@@ -39,7 +38,7 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
    - Có: tài khoản? dữ liệu nhạy cảm (giọng nói, ảnh mặt, vị trí, sức khoẻ, trẻ em)? thanh toán/checkout? khuyến mại?
      email/SMS marketing? nội dung người dùng đăng (bình luận, diễn đàn, mạng xã hội)? tính năng AI? game/mini-game, vật phẩm ảo, quay thưởng? máy chủ/AI ở nước ngoài?
    - Ngày bắt đầu hoạt động (một số nghĩa vụ có chuyển tiếp).
-2. **Chọn mảng** — ưu tiên web công khai theo thứ tự:
+2. **Chọn mảng theo chính dự án đang rà**: chỉ rà mảng có tính năng tương ứng (không có thì ghi "không áp dụng"). Xếp thứ tự theo rủi ro **của dự án đó** (thu dữ liệu, thu tiền, nội dung người dùng… nhiều hay ít); khi ngang nhau thì theo thứ tự bảng:
 
    | Thứ tự | App có… | Đọc tệp |
    |---|---|---|
@@ -69,8 +68,6 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
 
 ## Phân loại
 Chủ thể · vai trò · tính năng có liên quan · ngày hoạt động · mảng đã rà
-
-## 🔥 Đang siết — ưu tiên xử lý (phát hiện có căn cứ là văn bản mới/sắp hiệu lực theo LO-TRINH.md)
 
 ## Thiếu (chỉ mục [luật] đã xác định áp dụng)
 | Mức | Mảng-mục | Việc | Bằng chứng (file:dòng / không thấy) | Căn cứ (văn bản; điều nếu đã xác minh) | Mức phạt (chỉ khi có trong tệp mảng; kèm đối tượng cá nhân/tổ chức) | Độ chắc |
