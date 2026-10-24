@@ -13,8 +13,8 @@
 
 | Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
 |---|---|---|---|---|---|
-| Luật 91/2025/QH15 | Luật Bảo vệ dữ liệu cá nhân | 26/06/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm) · [vbpl.vn](https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179252) | số+ngày |
-| NĐ 356/2025/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật BVDLCN | 31/12/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216387) | số+ngày |
+| Luật 91/2025/QH15 | Luật Bảo vệ dữ liệu cá nhân | 26/06/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm) · [vbpl.vn](https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179252) | **toàn văn**: Điều 2–4, 7–10, 19–24, 28–31, 33, 38, 39 |
+| NĐ 356/2025/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật BVDLCN | 31/12/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216387) | **toàn văn**: Điều 3–6, 13, 14, 17–21, 28, 29, 41, 42 (bãi bỏ NĐ 13/2023 tại Điều 42 khoản 2) |
 | NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | **toàn văn**: Điều 2, 7, 39, 43, 54, 60, 65 |
 | Luật 116/2025/QH15 | Luật An ninh mạng (2025) | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216499&orggroupid=1&pageid=27160) | số+ngày |
 | NĐ 363/2026/NĐ-CP | Xử phạt VPHC lĩnh vực dữ liệu (không gồm phần DLCN/ANM) — **chưa có hiệu lực tại 24/10/2026** | 19/09/2026 | 11/11/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=219598&pageid=27160) | số+ngày |

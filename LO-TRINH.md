@@ -6,7 +6,7 @@
 
 | # | Mảng | Tệp | Trạng thái | Còn thiếu |
 |---|---|---|---|---|
-| 1 | Dữ liệu cá nhân | mang/01-du-lieu-ca-nhan.md | 🟡 | toàn văn Luật 91/2025, NĐ 356/2025; Điều 46–71 NĐ 330 còn sót |
+| 1 | Dữ liệu cá nhân | mang/01-du-lieu-ca-nhan.md | 🟡 | NĐ 363/2026 trang 17–43 (ảnh quét); Điều 46–71 NĐ 330 còn sót |
 | 2 | Bảo vệ người tiêu dùng | mang/02-nguoi-tieu-dung.md | 🟡 | toàn văn Luật 19/2023, NĐ 55/2024 |
 | 3 | Thương mại điện tử | mang/03-thuong-mai-dien-tu.md | 🟡 | toàn văn Luật 122/2025, NĐ 248/2026; thủ tục mới |
 | 4 | Quảng cáo, khuyến mại | mang/04-quang-cao.md | 🟡 | toàn văn NĐ 81/2018 + sửa đổi; hộ KD theo NĐ 118/2021 |
