@@ -34,7 +34,8 @@ Cảm ơn bạn! Mọi đóng góp đều tự động hiện trong mục **Cont
    quyền tác giả · trí tuệ nhân tạo · trò chơi điện tử · thông tin trên mạng · giao dịch điện tử · xử phạt vi phạm hành chính*.
 2. Với mỗi văn bản dẫn trong `NGUON.md`: còn hiệu lực không, có văn bản sửa/thay chưa, dự thảo nào sắp ban hành.
 3. Có thay đổi ⇒ làm theo Luật nội dung mục 5 (không xoá bản cũ, ghi LICH-SU-THAY-DOI.md), cập nhật `THU-TUC.md` nếu thủ tục đổi.
-4. Không có thay đổi ⇒ vẫn đổi ngày kiểm ở đầu `NGUON.md` (skill cảnh báo khi bộ nguồn cũ quá 90 ngày).
+4. Cập nhật bảng "Đang siết" trong `LO-TRINH.md`: thêm văn bản mới, bỏ văn bản có hiệu lực quá 12 tháng, đổi ngày "Tính tại".
+5. Không có thay đổi ⇒ vẫn đổi ngày kiểm ở đầu `NGUON.md` (skill cảnh báo khi bộ nguồn cũ quá 90 ngày).
 
 ## Cổng kiểm
 
