@@ -31,6 +31,7 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
 0. **Kiểm độ mới của bộ nguồn:** đọc ngày kiểm ở đầu `NGUON.md`. Cách hôm nay **quá 90 ngày** ⇒ đầu báo cáo thêm dòng
    "⚠️ Bộ nguồn cập nhật lần cuối <ngày> — có thể đã có luật mới; xem LICH-SU-THAY-DOI.md và tra Công báo."
    Văn bản trong `NGUON.md` có hiệu lực **sau** hôm nay ⇒ ghi "sắp có hiệu lực từ <ngày>", nhắc chuẩn bị trước.
+   Đọc bảng "Đang siết" trong `LO-TRINH.md` (tính lại theo hôm nay: hiệu lực trong 12 tháng gần đây hoặc sắp hiệu lực) ⇒ rà các mảng đó **trước**, gắn 🔥 cho phát hiện có căn cứ là văn bản trong bảng.
 
 1. **Phân loại** (đọc README, route, form, cấu hình; hỏi người dùng phần không suy ra được):
    - Chủ thể: cá nhân / hộ kinh doanh / doanh nghiệp (siêu nhỏ, nhỏ, khác) — ảnh hưởng miễn trừ và mức phạt.
@@ -68,6 +69,8 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
 
 ## Phân loại
 Chủ thể · vai trò · tính năng có liên quan · ngày hoạt động · mảng đã rà
+
+## 🔥 Đang siết — ưu tiên xử lý (phát hiện có căn cứ là văn bản mới/sắp hiệu lực theo LO-TRINH.md)
 
 ## Thiếu (chỉ mục [luật] đã xác định áp dụng)
 | Mức | Mảng-mục | Việc | Bằng chứng (file:dòng / không thấy) | Căn cứ (văn bản; điều nếu đã xác minh) | Mức phạt (chỉ khi có trong tệp mảng; kèm đối tượng cá nhân/tổ chức) | Độ chắc |

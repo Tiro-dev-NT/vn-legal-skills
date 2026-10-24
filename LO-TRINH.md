@@ -27,4 +27,26 @@
 | 19 | Livestream, quản lý người sáng tạo nội dung | — | ☐ | |
 | 20 | Hỗ trợ người khuyết tật truy cập | — | ☐ | |
 
+## Đang siết (ưu tiên rà trước)
+
+Tiêu chí (đo được, không cảm tính): văn bản trong [NGUON.md](NGUON.md) **có hiệu lực trong 12 tháng gần đây hoặc sắp có hiệu lực**, hoặc **tăng mức phạt / thêm nghĩa vụ** so với văn bản cũ (ghi trong [LICH-SU-THAY-DOI.md](LICH-SU-THAY-DOI.md)). Tính tại 24/10/2026:
+
+| Văn bản | Hiệu lực | Siết gì | Mảng |
+|---|---|---|---|
+| NĐ 363/2026/NĐ-CP | **11/11/2026 (sắp)** | xử phạt lĩnh vực dữ liệu | 1 |
+| NĐ 330/2026/NĐ-CP | 19/08/2026 | phạt DLCN theo từng hành vi đồng ý (30–70 triệu, mức tổ chức); phạt % doanh thu khi chuyển DL xuyên biên giới | 1 |
+| NĐ 331/2026/NĐ-CP | 19/08/2026 | cấp độ an ninh hệ thống thông tin | 6 |
+| Luật 122/2025/QH15 + NĐ 248/2026 | 01/07/2026 | khung TMĐT mới; nền tảng phải xác thực người bán (mốc 01/01/2027 theo tin — chưa đối chiếu) | 3 |
+| Luật 116/2025/QH15 | 01/07/2026 | gỡ nội dung vi phạm trong 24 giờ; cấm AI giả mạo | 6 |
+| NĐ 174/2026/NĐ-CP | 01/07/2026 | phạt game: G1 không phép 150–170 triệu, quy đổi vật phẩm ảo 170–200 triệu | 8 |
+| NĐ 87/2026/NĐ-CP | 15/05/2026 | phạt quảng cáo mới, người có ảnh hưởng không ghi rõ quảng cáo | 4 |
+| NĐ 142/2026/NĐ-CP | 01/05/2026 | quản lý AI theo rủi ro, minh bạch/gắn nhãn | 7 |
+| Luật 131/2025/QH15 | 01/04/2026 | trách nhiệm nền tảng số về bản quyền | 5 |
+| Luật 134/2025/QH15 | 01/03/2026 | Luật Trí tuệ nhân tạo | 7 |
+| NĐ 341/2025/NĐ-CP | 15/02/2026 | phạt bản quyền mới; nền tảng không gỡ trong 24 giờ 100–150 triệu | 5 |
+| Luật 91/2025/QH15 + NĐ 356/2025 | 01/01/2026 | Luật Bảo vệ dữ liệu cá nhân | 1 |
+| Luật 75/2025/QH15 | 01/01/2026 | sửa Luật Quảng cáo (KOL, quảng cáo trên mạng) | 4 |
+
+Lịch rà hằng tháng cập nhật bảng này: thêm văn bản mới, bỏ văn bản quá 12 tháng.
+
 Thứ tự làm: 9 → 10 → 11 → 12 → 15 → 14 → 13 → 16 → 17 → 18 → 19 → 20, sau đó đối chiếu toàn văn phần 🟡 của mảng 1–7.
