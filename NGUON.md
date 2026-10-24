@@ -4,7 +4,7 @@
 > Hệ thống văn bản Chính phủ (`vanban.chinhphu.vn`), CSDL quốc gia về VBPL (`vbpl.vn`, Bộ Tư pháp),
 > và website bộ chủ quản (`*.gov.vn`). **Không** dẫn các trang tổng hợp tư nhân.
 >
-> Ngày kiểm toàn bảng: **2026-10-24**. Cột "Kiểm" ghi đã đối chiếu tới đâu:
+> Ngày kiểm toàn bảng: **2026-10-24** (bổ sung sau phản biện cùng ngày). Cột "Kiểm" ghi đã đối chiếu tới đâu:
 > `số+ngày` = đã khớp số hiệu, ngày ban hành, ngày hiệu lực trên cổng chính thức;
 > `toàn văn` = đã đọc điều khoản được trích trong checklist. Chưa ghi `toàn văn` ⇒ checklist
 > **không** trích số điều cho văn bản đó.
@@ -17,7 +17,9 @@
 | NĐ 356/2025/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật BVDLCN | 31/12/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216387) | số+ngày |
 | NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | số+ngày |
 | Luật 116/2025/QH15 | Luật An ninh mạng (2025) | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216499&orggroupid=1&pageid=27160) | số+ngày |
-| NĐ 363/2026/NĐ-CP | Xử phạt VPHC lĩnh vực dữ liệu (không gồm phần DLCN/ANM) | — | 11/11/2026 (theo tin Chính phủ) | [chinhphu.vn](https://chinhphu.vn/?classid=1&docid=219598&orggroupid=2&pageid=27160) | chưa khớp ngày ban hành |
+| NĐ 363/2026/NĐ-CP | Xử phạt VPHC lĩnh vực dữ liệu (không gồm phần DLCN/ANM) — **chưa có hiệu lực tại 24/10/2026** | 19/09/2026 | 11/11/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=219598&pageid=27160) | số+ngày |
+| NĐ 331/2026/NĐ-CP | Bảo vệ an ninh mạng đối với hệ thống thông tin | 19/08/2026 | 19/08/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=219243&pageid=27160&typegroupid=4) | số+ngày |
+| NĐ 147/2024/NĐ-CP | Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng | 09/11/2024 | 25/12/2024 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=211654&pageid=27160) | số+ngày; chưa kiểm văn bản sửa đổi |
 
 > NĐ 13/2023/NĐ-CP (bản cũ) đã bị thay bởi khung Luật 91/2025 + NĐ 356/2025. Tài liệu nào còn dẫn NĐ 13/2023 là đã cũ.
 
@@ -40,8 +42,9 @@
 |---|---|---|---|---|---|
 | Luật 16/2012/QH13 | Luật Quảng cáo (gốc) | 2012 | — | tra trên [vbpl.vn](https://vbpl.vn) | chưa |
 | Luật 75/2025/QH15 | Sửa đổi, bổ sung Luật Quảng cáo | 16/06/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-75-2025-qh15-45566/57708.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=214561) | số+ngày |
-| NĐ 342/2025/NĐ-CP | Quy định chi tiết Luật Quảng cáo (sửa đổi) | — | 15/02/2026 (theo tin Chính phủ) | tra trên [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | chưa khớp trên Công báo |
-| NĐ 87/2026/NĐ-CP | Xử phạt VPHC lĩnh vực văn hoá và quảng cáo | 27/03/2026 | 15/05/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-87-2026-nd-cp-469359/64268.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=217695&orggroupid=2&pageid=27160) | số+ngày; **chưa đọc điều bãi bỏ NĐ 38/2021** |
+| NĐ 342/2025/NĐ-CP | Quy định chi tiết một số điều của Luật Quảng cáo | 26/12/2025 | 15/02/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=216403&pageid=27160) | số+ngày |
+| NĐ 91/2020/NĐ-CP | Chống tin nhắn rác, thư điện tử rác, cuộc gọi rác | 14/08/2020 | 01/10/2020 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=200773&pageid=27160) | số+ngày; chưa kiểm văn bản sửa đổi |
+| NĐ 87/2026/NĐ-CP | Xử phạt VPHC lĩnh vực văn hoá và quảng cáo | 27/03/2026 | 15/05/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-87-2026-nd-cp-469359/64268.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=217695&orggroupid=2&pageid=27160) | số+ngày; **chưa đọc điều bãi bỏ NĐ 38/2021 và điều khoản chuyển tiếp** — hành vi trước 15/05/2026 có thể vẫn xử theo văn bản cũ |
 
 ## Sở hữu trí tuệ · trí tuệ nhân tạo
 
@@ -49,8 +52,15 @@
 |---|---|---|---|---|---|
 | VBHN 67/VBHN-VPQH | Hợp nhất Luật Sở hữu trí tuệ (bản dùng để đọc) | 23/03/2026 | — | [Công báo](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-469197.htm) | số+ngày |
 | Luật 131/2025/QH15 | Sửa đổi, bổ sung Luật SHTT | 10/12/2025 | 01/04/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216511&classid=1&orggroupid=1) | số+ngày |
-| NĐ 341/2025/NĐ-CP | Xử phạt VPHC về quyền tác giả, quyền liên quan (4 chương 65 điều) | 26/12/2025 | 15/02/2026 | [cov.gov.vn](https://cov.gov.vn/tin-tuc/gioi-thieu-nghi-dinh-so-3412025ndcp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-quyen-tac-gia-quyen-lien-quan-168844.html) | số+ngày (theo cổng Cục Bản quyền) |
+| NĐ 17/2023/NĐ-CP + NĐ 134/2026/NĐ-CP | Hướng dẫn Luật SHTT về quyền tác giả, quyền liên quan (NĐ 134/2026 sửa NĐ 17/2023) | 06/04/2026 (NĐ 134) | 09/04/2026 (NĐ 134) | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=217833&pageid=27160) | số+ngày (NĐ 134) |
+| NĐ 341/2025/NĐ-CP | Xử phạt VPHC về quyền tác giả, quyền liên quan (4 chương 65 điều) | 26/12/2025 | 15/02/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216404&orggroupid=2&pageid=27160) · [cov.gov.vn](https://cov.gov.vn/tin-tuc/gioi-thieu-nghi-dinh-so-3412025ndcp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-quyen-tac-gia-quyen-lien-quan-168844.html) | số+ngày (theo cổng Cục Bản quyền) |
+| NĐ 142/2026/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật Trí tuệ nhân tạo | 30/04/2026 | 01/05/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=218029&orggroupid=2&pageid=27160) | số+ngày |
 | Luật 134/2025/QH15 | Luật Trí tuệ nhân tạo | 10/12/2025 | 01/03/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216334&classid=1&typegroupid=3) | số+ngày |
+
+## Chưa có trong bộ nguồn (cần bổ sung)
+
+Khuyến mại (Luật Thương mại + nghị định khuyến mại) · danh mục hợp đồng theo mẫu phải đăng ký (quyết định của Thủ tướng) ·
+Luật Giao dịch điện tử (chấp thuận điều khoản, hợp đồng online) · nghị định xử phạt TMĐT theo Luật 122/2025 (nếu có) · Luật Trẻ em.
 
 ## Cách thêm / sửa một dòng
 

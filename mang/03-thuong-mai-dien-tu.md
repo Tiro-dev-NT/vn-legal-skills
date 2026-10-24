@@ -16,7 +16,17 @@ Thủ tục thông báo/đăng ký website TMĐT làm trên cổng của Bộ C�
 | 3.5 | **Xác nhận giao dịch** gửi người mua (email/màn hình) với đủ nội dung đơn | [khuyến nghị] | luồng sau thanh toán |
 | 3.6 | Thanh toán qua **trung gian thanh toán được cấp phép**; không tự thu tiền theo cách lách | [khuyến nghị] | SDK cổng thanh toán |
 
-## Thủ tục thông báo website bán hàng (Bộ Công Thương)
+## Thủ tục với Bộ Công Thương
+
+> ⚠️ **Đang chuyển khung.** Từ 01/07/2026 khung là Luật 122/2025 + NĐ 248/2026; tin của Sở Công Thương địa phương cho biết đã có
+> **thủ tục mới ban hành và một số thủ tục cũ bị bãi bỏ**. Mục dưới là thủ tục **cũ** trên cổng dịch vụ công — chỉ dùng làm đầu mối;
+> AI **không** được hướng dẫn người dùng làm theo thời hạn/bước dưới đây như quy định hiện hành. Thủ tục đúng theo loại
+> (website bán hàng / nền tảng trung gian / app có chức năng đặt hàng): **tra cổng dịch vụ công Bộ Công Thương lúc làm**.
+>
+> Chuyển tiếp (theo tin giải thích của cơ quan nhà nước, **chưa đối chiếu chính văn**): hồ sơ website/app đã được xác nhận trước 01/07/2026
+> có thời hạn chuyển tiếp đến 30/06/2027; xác thực điện tử người bán/người livestream có mốc 01/01/2027.
+
+### Thủ tục cũ (tham khảo)
 
 Nguồn: [Dịch vụ công Bộ Công Thương — Thông báo website TMĐT bán hàng](https://dichvucong.moit.gov.vn/TTHCOnlineDetail.aspx?DocId=115) · [online.gov.vn — đối tượng phải thông báo](http://online.gov.vn/Huong-Dan/Nhung-doi-tuong-nao-phai-tien-hanh-thong-bao-website-mSnQQYbE9l).
 
@@ -25,7 +35,6 @@ Nguồn: [Dịch vụ công Bộ Công Thương — Thông báo website TMĐT b�
 3. Bộ xử lý trong khoảng **3 ngày làm việc** mỗi bước; được yêu cầu bổ sung mà **10 ngày làm việc** không phản hồi ⇒ hồ sơ bị chấm dứt.
 4. Duyệt xong ⇒ website vào danh sách công bố + nhận **mã nhúng biểu tượng** "Đã thông báo Bộ Công Thương" qua email ⇒ gắn ở footer, link về trang xác nhận.
 
-Lưu ý: hướng dẫn trên cổng soạn theo khung cũ; từ 01/07/2026 khung là Luật 122/2025 + NĐ 248/2026 — **kiểm lại trên cổng lúc làm**.
 Mức phạt không thông báo: **chưa có trong bộ nguồn**.
 
 ## Cần luật sư khi

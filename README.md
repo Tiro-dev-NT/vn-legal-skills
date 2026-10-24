@@ -33,10 +33,13 @@ mau/                             mẫu văn bản để trống [CHỖ ĐIỀN],
 
 ## Dùng
 
-**Claude Code:** chép `skills/vn-legal-check/` vào `.claude/skills/` của dự án (hoặc `~/.claude/skills/`), rồi gõ
-`/vn-legal-check`. Skill đọc tệp trong `mang/` theo đường tương đối với repo này — giữ nguyên cấu trúc, hoặc chép cả repo.
+Luôn giữ **cả repo** (skill cần `mang/` và `NGUON.md`; thiếu thì skill dừng phần kết luận, không tự điền).
 
-**AI khác:** đưa `skills/vn-legal-check/SKILL.md` + các tệp `mang/` cần thiết vào ngữ cảnh.
+**Claude Code:** clone repo vào `~/.claude/skills/vn-legal-skills/` rồi tạo liên kết/chép `skills/vn-legal-check/` lên một cấp,
+hoặc đơn giản mở dự án của bạn và nói: *"đọc <đường dẫn>/vn-legal-skills/skills/vn-legal-check/SKILL.md rồi rà dự án này"*.
+
+**Codex, Cursor, Gemini CLI, model khác:** dùng cùng câu trên, hoặc đặt repo cạnh dự án — [AGENTS.md](AGENTS.md) trỏ tới skill.
+Mọi tệp là Markdown thuần, không phụ thuộc nhà cung cấp. Model nhỏ có thể bỏ sót luật cứng — đọc lại phần "Mức phạt" trong báo cáo trước khi tin.
 
 Skill **chỉ đọc mã và viết báo cáo**; không sửa mã, không gọi mạng ngoài việc mở link nguồn.
 
