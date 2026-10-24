@@ -1,0 +1,31 @@
+name: Đề xuất mục / mảng mới
+description: Một nghĩa vụ pháp lý chưa có trong checklist
+labels: ["de-xuat"]
+body:
+  - type: input
+    id: mang
+    attributes:
+      label: Thuộc mảng nào (hoặc mảng mới)
+    validations:
+      required: true
+  - type: textarea
+    id: viec
+    attributes:
+      label: Việc phải có / hành vi cần tránh
+    validations:
+      required: true
+  - type: dropdown
+    id: nhan
+    attributes:
+      label: Nhãn
+      options: ["[luật] — có trong văn bản", "[khuyến nghị] — cách làm an toàn"]
+    validations:
+      required: true
+  - type: input
+    id: nguon
+    attributes:
+      label: Căn cứ (link cổng chính thức + điều/khoản), bắt buộc với [luật]
+  - type: textarea
+    id: dau-hieu
+    attributes:
+      label: Dấu hiệu trong mã để AI tìm (grep gì, file nào)

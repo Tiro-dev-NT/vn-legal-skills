@@ -65,5 +65,13 @@ for l in re.findall(r'https?://([^/\s)]+)', nguon + ''.join(doc(p) for p in mang
     if not (l.endswith('.gov.vn') or l.endswith('chinhphu.vn') or l in ('vbpl.vn', 'online.gov.vn')):
         loi.append(f'nguồn ngoài cổng Nhà nước: {l}')
 
+# 8. Văn bản đã bị thay/bãi bỏ trong NGUON.md phải có trong LICH-SU-THAY-DOI.md
+lich_su = doc('LICH-SU-THAY-DOI.md')
+for dong in nguon.splitlines():
+    if dong.startswith('|') and 'đã bị' in dong:
+        for so in re.findall(r'(\d{1,3}/\d{4})', dong.split('|')[1]):
+            if so not in lich_su: loi.append(f'LICH-SU-THAY-DOI.md: thiếu văn bản đã bị thay {so}')
+if not os.path.exists('luu-tru/00-MUC-LUC.md'): loi.append('thiếu luu-tru/00-MUC-LUC.md')
+
 print('\n'.join(loi) if loi else f'OK — {len(mang)} mảng, {len(ma_co)} mục, {len(set(RE_VB.findall(nguon)))} văn bản trong NGUON.md')
 sys.exit(1 if loi else 0)

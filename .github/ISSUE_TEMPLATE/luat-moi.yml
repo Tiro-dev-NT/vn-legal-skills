@@ -1,0 +1,31 @@
+name: Luật mới / luật thay đổi
+description: Có văn bản mới ban hành, sửa đổi hoặc bãi bỏ văn bản trong repo
+labels: ["luat-thay-doi"]
+body:
+  - type: input
+    id: van-ban
+    attributes:
+      label: Số hiệu và tên văn bản mới
+      placeholder: NĐ xxx/2026/NĐ-CP — ...
+    validations:
+      required: true
+  - type: input
+    id: ngay
+    attributes:
+      label: Ngày ban hành · ngày hiệu lực
+    validations:
+      required: true
+  - type: input
+    id: nguon
+    attributes:
+      label: Link trên cổng chính thức
+    validations:
+      required: true
+  - type: textarea
+    id: thay-the
+    attributes:
+      label: Thay thế / sửa đổi / bãi bỏ văn bản nào? Điều khoản chuyển tiếp?
+  - type: textarea
+    id: anh-huong
+    attributes:
+      label: Mục nào trong repo bị ảnh hưởng (nếu biết)

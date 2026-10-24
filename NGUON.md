@@ -85,6 +85,8 @@ mức phạt khuyến mại sai · mức phạt game (NĐ 174/2026 — đang đ�
 
 ## Cách thêm / sửa một dòng
 
+> Quy trình đầy đủ + cổng kiểm: [CONTRIBUTING.md](CONTRIBUTING.md). Luật đổi ⇒ **không xoá** bản cũ: ghi mục trong [LICH-SU-THAY-DOI.md](LICH-SU-THAY-DOI.md), chép đoạn cũ vào [luu-tru/](luu-tru/00-MUC-LUC.md).
+
 1. Mở văn bản trên Công báo hoặc vanban.chinhphu.vn, chép **đúng** số hiệu, ngày ban hành, ngày hiệu lực.
 2. Ghi cột "Kiểm" trung thực. Chỉ ghi `toàn văn` khi đã đọc đúng điều được trích.
 3. Văn bản bị thay ⇒ giữ dòng, thêm "đã bị thay bởi …" — đừng xoá (người khác còn dẫn).

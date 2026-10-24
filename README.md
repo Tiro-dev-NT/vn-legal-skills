@@ -20,6 +20,9 @@ dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quản
 MIEN-TRU-TRACH-NHIEM.md          miễn trừ trách nhiệm — đọc trước
 AGENTS.md                        lối vào cho Codex/Cursor/model khác
 scripts/kiem-nhat-quan.py        cổng kiểm các tệp khớp nhau (chạy trước mỗi commit)
+LICH-SU-THAY-DOI.md              luật cũ → mới: ngày hiệu lực, chuyển tiếp, mục bị ảnh hưởng
+luu-tru/                         nguyên văn nội dung cũ trước mỗi lần luật đổi
+CONTRIBUTING.md                  cách góp ý (issue/PR) + luật nội dung
 NGUON.md                         bảng văn bản: số hiệu · ngày · hiệu lực · link chính thức · đã kiểm tới đâu
 skills/
   vn-legal-check/SKILL.md        skill điều phối: hỏi app làm gì → chọn mảng → rà → báo cáo
@@ -52,8 +55,9 @@ Skill **chỉ đọc mã và viết báo cáo**; không sửa mã, không gọi 
 
 ## Góp sức
 
-- Sửa/ thêm văn bản: theo mục "Cách thêm" cuối [NGUON.md](NGUON.md). PR phải kèm link cổng chính thức.
-- Thêm luật kiểm vào một mảng: ghi *vì sao* + văn bản gốc; luật suy diễn (chưa có điều cụ thể) ghi rõ là "khuyến nghị".
+Xem **[CONTRIBUTING.md](CONTRIBUTING.md)**: báo lỗi / luật mới bằng Issue (có mẫu sẵn, không cần biết Git), sửa bằng PR;
+GitHub Action chạy cổng kiểm cho mỗi PR. Người góp tự động hiện trong mục Contributors khi PR được merge.
+Luật thay đổi ⇒ xem [LICH-SU-THAY-DOI.md](LICH-SU-THAY-DOI.md).
 
 ## Giấy phép
 

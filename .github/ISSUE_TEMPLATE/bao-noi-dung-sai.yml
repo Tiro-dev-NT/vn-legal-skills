@@ -1,0 +1,36 @@
+name: Báo nội dung sai
+description: Một mục, số điều hoặc mức phạt bị sai / lỗi thời
+labels: ["noi-dung-sai"]
+body:
+  - type: input
+    id: cho
+    attributes:
+      label: Chỗ sai
+      description: Tệp và mã mục, ví dụ mang/01-du-lieu-ca-nhan.md mục 1.2
+    validations:
+      required: true
+  - type: textarea
+    id: dang-ghi
+    attributes:
+      label: Repo đang ghi
+    validations:
+      required: true
+  - type: textarea
+    id: dung-la
+    attributes:
+      label: Đúng phải là
+    validations:
+      required: true
+  - type: input
+    id: nguon
+    attributes:
+      label: Link văn bản trên cổng chính thức (congbao.chinhphu.vn, vanban.chinhphu.vn, vbpl.vn, *.gov.vn) + điều/khoản
+    validations:
+      required: true
+  - type: checkboxes
+    id: cam-ket
+    attributes:
+      label: Xác nhận
+      options:
+        - label: Tôi đã đọc chính văn tại link trên (không chỉ đọc bài tóm tắt)
+        - label: Tôi không đưa thông tin riêng của dự án/công ty nào vào issue này
