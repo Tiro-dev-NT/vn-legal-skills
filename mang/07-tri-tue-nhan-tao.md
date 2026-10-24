@@ -1,5 +1,7 @@
 # Mảng 7 — Trí tuệ nhân tạo
 
+> Tham khảo, không phải tư vấn pháp lý — [MIEN-TRU-TRACH-NHIEM.md](../MIEN-TRU-TRACH-NHIEM.md). Tóm tắt từ nguồn trong [NGUON.md](../NGUON.md); đối chiếu văn bản gốc trước khi dựa vào.
+
 **Áp khi:** app có tính năng AI sinh nội dung (chữ, ảnh, giọng), chấm điểm, gợi ý, chatbot.
 
 **Văn bản:** Luật 134/2025/QH15 (Trí tuệ nhân tạo, hiệu lực 01/03/2026) · NĐ 142/2026/NĐ-CP (chi tiết, hiệu lực 01/05/2026). Link: [NGUON.md](../NGUON.md). Số điều: **chưa trích**.

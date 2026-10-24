@@ -1,5 +1,7 @@
 # Mảng 2 — Bảo vệ quyền lợi người tiêu dùng
 
+> Tham khảo, không phải tư vấn pháp lý — [MIEN-TRU-TRACH-NHIEM.md](../MIEN-TRU-TRACH-NHIEM.md). Tóm tắt từ nguồn trong [NGUON.md](../NGUON.md); đối chiếu văn bản gốc trước khi dựa vào.
+
 **Áp khi:** bán hàng hoá/dịch vụ (kể cả gói thuê bao, vật phẩm số, credit) cho cá nhân.
 
 **Văn bản:** Luật 19/2023/QH15 (BVQLNTD) · NĐ 55/2024/NĐ-CP (chi tiết). Link: [NGUON.md](../NGUON.md). Số điều: **chưa trích**.
@@ -9,7 +11,7 @@
 | # | Việc | Nhãn | Dấu hiệu trong mã |
 |---|---|---|---|
 | 2.1 | **Giá rõ trước khi trả tiền**: tổng tiền, đã gồm thuế/phí chưa, chu kỳ gia hạn | [luật] (thông tin trung thực, đầy đủ) | trang giá, nút mua; chuỗi "VAT", "đã bao gồm" |
-| 2.2 | **Điều khoản dịch vụ bằng tiếng Việt**, rõ ràng, dễ hiểu; điều khoản là "hợp đồng theo mẫu / điều kiện giao dịch chung" ⇒ kiểm có thuộc **danh mục hàng hoá, dịch vụ thiết yếu phải đăng ký** không (quyết định của Thủ tướng — chưa có trong bộ nguồn; không suy ra mọi dịch vụ online đều phải đăng ký) | [luật] NĐ 55/2024 | route `/terms`, `dieu-khoan` |
+| 2.2 | **Điều khoản dịch vụ bằng tiếng Việt**, rõ ràng, dễ hiểu; điều khoản là "hợp đồng theo mẫu / điều kiện giao dịch chung" ⇒ kiểm có thuộc **danh mục hàng hoá, dịch vụ thiết yếu phải đăng ký** không (QĐ 07/2024/QĐ-TTg — danh mục gồm nhóm thiết yếu như điện, nước sinh hoạt, truyền hình trả tiền, viễn thông, vận chuyển hành khách, mua bán căn hộ…; **đọc danh mục đủ**; không suy ra mọi dịch vụ online đều phải đăng ký) | [luật] NĐ 55/2024 | route `/terms`, `dieu-khoan` |
 | 2.3 | **Chính sách hoàn tiền / huỷ** viết ra trước, khớp với hành vi thật của hệ thống | [luật] (minh bạch) · [khuyến nghị] nội dung | so điều khoản với mã xử lý thanh toán/huỷ |
 | 2.4 | **Huỷ gia hạn dễ như lúc đăng ký**; không giấu nút huỷ | [khuyến nghị] | cài đặt tài khoản có nút huỷ không |
 | 2.5 | **Không ô tick sẵn mua thêm**, không tự cộng dịch vụ kèm | [luật] (cấm ép buộc / lừa dối) | checkbox `checked` ở giỏ/thanh toán |

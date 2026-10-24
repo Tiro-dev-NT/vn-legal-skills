@@ -1,6 +1,7 @@
 # Mẫu — Điều khoản sử dụng
 
-> Mẫu khung tự viết, để trống `[CHỖ ĐIỀN]`. Không phải tư vấn pháp lý — đối chiếu Luật 19/2023/QH15,
+> **Chỉ là khung tham khảo, không phải văn bản pháp lý hoàn chỉnh** — xem [MIEN-TRU-TRACH-NHIEM.md](../MIEN-TRU-TRACH-NHIEM.md) §6.
+> Mẫu khung tự viết, để trống `[CHỖ ĐIỀN]`. Nên để luật sư xem trước khi công bố. Không phải tư vấn pháp lý — đối chiếu Luật 19/2023/QH15,
 > NĐ 55/2024/NĐ-CP, Luật 122/2025/QH15 ([NGUON.md](../NGUON.md)). Kiểm điều khoản có thuộc diện
 > "hợp đồng theo mẫu / điều kiện giao dịch chung" phải đăng ký không.
 

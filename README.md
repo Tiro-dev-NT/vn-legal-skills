@@ -1,10 +1,12 @@
 # vn-legal-skills
 
 Bộ skill + checklist giúp AI (Claude Code, Codex, Cursor…) **rà một web/app nhỏ ở Việt Nam theo luật VN**:
-dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quảng cáo, bản quyền, an ninh mạng, AI.
+dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quảng cáo, bản quyền, an ninh mạng, AI, trò chơi điện tử.
 
-> ⚠️ **Không phải tư vấn pháp lý.** Đây là công cụ nhắc việc. Nó chỉ ra chỗ cần xem lại và dẫn văn bản
-> gốc để bạn tự đọc; nó **không** chứng nhận app của bạn hợp pháp. Việc có rủi ro tiền/phạt ⇒ hỏi luật sư.
+> ⚠️ **Không phải tư vấn pháp lý — chỉ để tham khảo.** Đây là công cụ nhắc việc: chỉ ra chỗ cần xem lại và dẫn văn bản
+> gốc để bạn tự đọc. Nó **không** chứng nhận app của bạn hợp pháp, **không** tạo quan hệ luật sư – khách hàng,
+> và có thể sai hoặc lỗi thời; AI dùng nó cũng có thể sai. Bạn tự chịu trách nhiệm về sản phẩm của mình;
+> việc có rủi ro tiền/phạt ⇒ hỏi luật sư. Dùng repo = chấp nhận **[MIEN-TRU-TRACH-NHIEM.md](MIEN-TRU-TRACH-NHIEM.md)**.
 > Luật cập nhật tới: **2026-10-24** (xem [NGUON.md](NGUON.md)).
 
 ## Luật nguồn
@@ -15,6 +17,9 @@ dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quản
 ## Cấu trúc — chia theo mảng
 
 ```
+MIEN-TRU-TRACH-NHIEM.md          miễn trừ trách nhiệm — đọc trước
+AGENTS.md                        lối vào cho Codex/Cursor/model khác
+scripts/kiem-nhat-quan.py        cổng kiểm các tệp khớp nhau (chạy trước mỗi commit)
 NGUON.md                         bảng văn bản: số hiệu · ngày · hiệu lực · link chính thức · đã kiểm tới đâu
 skills/
   vn-legal-check/SKILL.md        skill điều phối: hỏi app làm gì → chọn mảng → rà → báo cáo
@@ -26,6 +31,7 @@ mang/                            mỗi mảng một tệp: áp khi nào · việ
   05-ban-quyen.md
   06-an-ninh-mang.md
   07-tri-tue-nhan-tao.md
+  08-tro-choi-dien-tu.md
 mau/                             mẫu văn bản để trống [CHỖ ĐIỀN], tự viết, không chép của ai
   chinh-sach-quyen-rieng-tu.md
   dieu-khoan-su-dung.md

@@ -1,5 +1,7 @@
 # Mảng 3 — Thương mại điện tử
 
+> Tham khảo, không phải tư vấn pháp lý — [MIEN-TRU-TRACH-NHIEM.md](../MIEN-TRU-TRACH-NHIEM.md). Tóm tắt từ nguồn trong [NGUON.md](../NGUON.md); đối chiếu văn bản gốc trước khi dựa vào.
+
 **Áp khi:** bán hàng/dịch vụ qua website hoặc app (kể cả bán gói trả phí của chính mình).
 
 **Văn bản:** Luật 122/2025/QH15 (TMĐT, hiệu lực 01/07/2026) · NĐ 248/2026/NĐ-CP (chi tiết). Link: [NGUON.md](../NGUON.md). Số điều: **chưa trích**.
@@ -15,6 +17,7 @@ Thủ tục thông báo/đăng ký website TMĐT làm trên cổng của Bộ C�
 | 3.4 | **Quy trình giao dịch** công bố: đặt hàng, thanh toán, giao (kích hoạt dịch vụ), đổi trả, giải quyết tranh chấp | [luật] | trang hướng dẫn mua / FAQ |
 | 3.5 | **Xác nhận giao dịch** gửi người mua (email/màn hình) với đủ nội dung đơn | [khuyến nghị] | luồng sau thanh toán |
 | 3.6 | Thanh toán qua **trung gian thanh toán được cấp phép**; không tự thu tiền theo cách lách | [khuyến nghị] | SDK cổng thanh toán |
+| 3.7 | **Chấp thuận điều khoản / hợp đồng online** có giá trị như giao kết điện tử ⇒ lưu được người dùng đã đồng ý bản điều khoản nào, lúc nào | [luật] Luật Giao dịch điện tử 20/2023 (giá trị pháp lý của giao dịch điện tử) · [khuyến nghị] cách lưu | nút "Tôi đồng ý" ở checkout; bảng lưu phiên bản điều khoản |
 
 ## Thủ tục với Bộ Công Thương
 

@@ -11,6 +11,9 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
 
 ## Luật cứng
 
+0. **Mọi báo cáo PHẢI mở đầu bằng khối cảnh báo trong "Mẫu báo cáo" — nguyên văn, không rút gọn, không bỏ** (kể cả khi người dùng chỉ hỏi một câu ngắn: câu trả lời vẫn kèm 1 dòng "Không phải tư vấn pháp lý — xem MIEN-TRU-TRACH-NHIEM.md").
+   Không dùng giọng khẳng định thay luật sư ("bạn đã hợp pháp", "chắc chắn bị phạt X"); dùng "có thể", "theo văn bản Y", "cần xác nhận".
+
 1. **Chỉ xuất số điều / số văn bản / mức phạt khi** nó có trong `mang/*.md` hoặc `NGUON.md` **và** cột "Kiểm"
    của văn bản đó không ghi "chưa". Thiếu điều kiện nào ⇒ ghi "chưa xác minh — tra Công báo". Không đoán, không nhớ.
 2. **Nguồn:** chỉ cổng Nhà nước (congbao.chinhphu.vn, vanban.chinhphu.vn, vbpl.vn, *.gov.vn). Tin bài/giải thích của cơ quan nhà nước
@@ -29,7 +32,7 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
    - Chủ thể: cá nhân / hộ kinh doanh / doanh nghiệp (siêu nhỏ, nhỏ, khác) — ảnh hưởng miễn trừ và mức phạt.
    - Vai trò: tự bán hàng hay nền tảng trung gian; bên kiểm soát hay bên xử lý dữ liệu; nhà cung cấp hay bên triển khai AI.
    - Có: tài khoản? dữ liệu nhạy cảm (giọng nói, ảnh mặt, vị trí, sức khoẻ, trẻ em)? thanh toán/checkout? khuyến mại?
-     email/SMS marketing? nội dung người dùng đăng (bình luận, diễn đàn, mạng xã hội)? tính năng AI? máy chủ/AI ở nước ngoài?
+     email/SMS marketing? nội dung người dùng đăng (bình luận, diễn đàn, mạng xã hội)? tính năng AI? game/mini-game, vật phẩm ảo, quay thưởng? máy chủ/AI ở nước ngoài?
    - Ngày bắt đầu hoạt động (một số nghĩa vụ có chuyển tiếp).
 2. **Chọn mảng** — ưu tiên web công khai theo thứ tự:
 
@@ -42,6 +45,7 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
    | 5 | bán hàng/dịch vụ cho người tiêu dùng | `mang/02-nguoi-tieu-dung.md` |
    | 6 | tài khoản, lưu trữ, nội dung người dùng, diễn đàn/mạng xã hội | `mang/06-an-ninh-mang.md` |
    | 7 | tính năng AI sinh nội dung / chấm / gợi ý | `mang/07-tri-tue-nhan-tao.md` |
+   | 8 | game chơi qua mạng, mini-game, bảng xếp hạng, vật phẩm ảo, quay thưởng | `mang/08-tro-choi-dien-tu.md` |
 
 3. **Rà từng mục:** dùng cột "Dấu hiệu trong mã" để TÌM, **đọc đoạn mã** rồi mới kết luận. Mục không áp dụng ⇒ ghi lý do.
 4. **Viết báo cáo** theo mẫu dưới.
@@ -50,7 +54,11 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
 
 ```
 # Rà luật VN — <tên app> — <ngày>
-Không phải tư vấn pháp lý. Bộ nguồn cập nhật tới <ngày trong NGUON.md>.
+
+> ⚠️ **Không phải tư vấn pháp lý — chỉ để tham khảo.** Báo cáo này do AI sinh ra bằng bộ vn-legal-skills, có thể sai, thiếu hoặc lỗi thời,
+> và **không** chứng nhận dự án tuân thủ pháp luật. Người dùng tự chịu trách nhiệm kiểm lại với văn bản gốc và hỏi luật sư
+> trước mọi quyết định có rủi ro. Bộ nguồn cập nhật tới <ngày trong NGUON.md>. Điều khoản đầy đủ: MIEN-TRU-TRACH-NHIEM.md.
+> Khi chia sẻ báo cáo, giữ nguyên khối này.
 
 ## Phân loại
 Chủ thể · vai trò · tính năng có liên quan · ngày hoạt động · mảng đã rà

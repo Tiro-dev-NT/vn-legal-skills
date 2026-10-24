@@ -34,6 +34,11 @@
 
 | NĐ 98/2020/NĐ-CP | Xử phạt VPHC hoạt động thương mại, hàng giả, hàng cấm, BVQLNTD | 2020 | — | tra trên [vbpl.vn](https://vbpl.vn) | chưa khớp ngày |
 | NĐ 24/2025/NĐ-CP | Sửa đổi NĐ 98/2020 (tăng phạt BVQLNTD, thêm Điều 53a giao dịch trên không gian mạng) | 2025 | — | [xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/nghi-dinh-24-2025-nd-cp-sua-doi-bo-sung-quy-dinh-xu-phat-vi-pham-hanh-chinh-bao-ve-quyen-loi-nguoi-tieu-dung-119250225072906906.htm) | số; chưa khớp ngày |
+| Luật 20/2023/QH15 | Luật Giao dịch điện tử (7 chương 54 điều) | 22/06/2023 | 01/07/2024 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=208421) · [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-20-2023-qh15-39848/45939.htm) | số+ngày (Công báo ghi lệch ngày — dùng 01/07/2024) |
+| QĐ 07/2024/QĐ-TTg | Danh mục sản phẩm, hàng hoá, dịch vụ phải đăng ký hợp đồng theo mẫu, điều kiện giao dịch chung | 20/06/2024 | 01/07/2024 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=210467&orggroupid=3&pageid=27160) | số+ngày; danh mục chưa đọc đủ |
+| NĐ 81/2018/NĐ-CP | Chi tiết Luật Thương mại về xúc tiến thương mại (khuyến mại) | 22/05/2018 | 15/07/2018 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=193772) | số+ngày |
+| NĐ 128/2024/NĐ-CP | Sửa NĐ 81/2018 (hạn mức giá trị khuyến mại, giảm thủ tục) | 10/10/2024 | 01/12/2024 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=211405&pageid=27160) · [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-128-2024-nd-cp-42886/52074.htm) | số+ngày |
+| NĐ 239/2026/NĐ-CP | Sửa NĐ 81/2018 lần nữa (hàng hoá dùng khuyến mại; xác định trúng thưởng may rủi có khách chứng kiến) | 26/06/2026 | 26/06/2026 (theo tin) | [Báo Chính phủ](https://baochinhphu.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-26-6-2026-102260626194822033.htm) | chưa khớp trên Công báo |
 | Thủ tục | Thông báo website TMĐT bán hàng | — | — | [dichvucong.moit.gov.vn](https://dichvucong.moit.gov.vn/TTHCOnlineDetail.aspx?DocId=115) · [online.gov.vn](http://online.gov.vn) | đã đọc trang thủ tục |
 
 ## Quảng cáo
@@ -57,10 +62,18 @@
 | NĐ 142/2026/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật Trí tuệ nhân tạo | 30/04/2026 | 01/05/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=218029&orggroupid=2&pageid=27160) | số+ngày |
 | Luật 134/2025/QH15 | Luật Trí tuệ nhân tạo | 10/12/2025 | 01/03/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216334&classid=1&typegroupid=3) | số+ngày |
 
+## Trò chơi điện tử
+
+| Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
+|---|---|---|---|---|---|
+| NĐ 147/2024/NĐ-CP | (xem mục ANM) — mục Trò chơi điện tử trên mạng | 09/11/2024 | 25/12/2024 | [PDF Công báo](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2024/11/43155/52696-1-20241263-1264147-2024-nd-cp.pdf) · [Báo Chính phủ 28/09/2026](https://baochinhphu.vn/dieu-kien-cung-cap-dich-vu-tro-choi-dien-tu-tren-mang-102260928095040248.htm) | số+ngày; Điều 37, 56 theo tin Chính phủ |
+| NĐ 174/2026/NĐ-CP | Xử phạt bưu chính, viễn thông, tần số, giao dịch điện tử, CNTT (8 chương 117 điều) | 15/05/2026 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-174-2026-nd-cp-469616/65312.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218185) | số+ngày |
+| NĐ 391/2026/NĐ-CP | Xử phạt đặt cược, trò chơi có thưởng | 20/10/2026 | 05/12/2026 (theo tin) | [Báo Chính phủ](https://baochinhphu.vn/vi-pham-ve-thoi-gian-kinh-doanh-tro-choi-co-thuong-bi-phat-den-200-trieu-dong-102261020181652761.htm) | chưa khớp trên Công báo |
+
 ## Chưa có trong bộ nguồn (cần bổ sung)
 
-Khuyến mại (Luật Thương mại + nghị định khuyến mại) · danh mục hợp đồng theo mẫu phải đăng ký (quyết định của Thủ tướng) ·
-Luật Giao dịch điện tử (chấp thuận điều khoản, hợp đồng online) · nghị định xử phạt TMĐT theo Luật 122/2025 (nếu có) · Luật Trẻ em.
+Luật Thương mại (gốc, phần khuyến mại) · nghị định xử phạt TMĐT theo Luật 122/2025 (nếu có) · Luật Trẻ em ·
+mức phạt khuyến mại sai · mức phạt game (NĐ 174/2026 — đang đối chiếu) · dự thảo sửa NĐ 147/2024.
 
 ## Cách thêm / sửa một dòng
 

@@ -1,6 +1,7 @@
 # Mẫu — Chính sách quyền riêng tư
 
-> Mẫu khung tự viết, để trống `[CHỖ ĐIỀN]`. Xoá mục không áp dụng. Không phải tư vấn pháp lý — đối chiếu
+> **Chỉ là khung tham khảo, không phải văn bản pháp lý hoàn chỉnh** — xem [MIEN-TRU-TRACH-NHIEM.md](../MIEN-TRU-TRACH-NHIEM.md) §6.
+> Mẫu khung tự viết, để trống `[CHỖ ĐIỀN]`. Nên để luật sư xem trước khi công bố. Xoá mục không áp dụng. Không phải tư vấn pháp lý — đối chiếu
 > Luật 91/2025/QH15 và NĐ 356/2025/NĐ-CP ([NGUON.md](../NGUON.md)) trước khi dùng.
 
 **Phiên bản:** [SỐ BẢN] · **Hiệu lực từ:** [NGÀY]

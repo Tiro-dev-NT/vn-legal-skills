@@ -1,5 +1,7 @@
 # Mảng 1 — Dữ liệu cá nhân
 
+> Tham khảo, không phải tư vấn pháp lý — [MIEN-TRU-TRACH-NHIEM.md](../MIEN-TRU-TRACH-NHIEM.md). Tóm tắt từ nguồn trong [NGUON.md](../NGUON.md); đối chiếu văn bản gốc trước khi dựa vào.
+
 **Áp khi:** app thu bất kỳ dữ liệu nào gắn với một người: email, SĐT, tên, ảnh, giọng nói, IP, lịch sử dùng, cookie định danh.
 
 **Văn bản:** Luật 91/2025/QH15 (Luật BVDLCN) · NĐ 356/2025/NĐ-CP (chi tiết) · NĐ 330/2026/NĐ-CP (xử phạt). Link: [NGUON.md](../NGUON.md).

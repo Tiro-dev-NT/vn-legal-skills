@@ -1,5 +1,7 @@
 # Mảng 5 — Bản quyền (sở hữu trí tuệ)
 
+> Tham khảo, không phải tư vấn pháp lý — [MIEN-TRU-TRACH-NHIEM.md](../MIEN-TRU-TRACH-NHIEM.md). Tóm tắt từ nguồn trong [NGUON.md](../NGUON.md); đối chiếu văn bản gốc trước khi dựa vào.
+
 **Áp khi:** dùng nội dung, ảnh, font, âm thanh, dữ liệu, thư viện mã của người khác; hoặc cho người dùng đăng nội dung.
 
 **Văn bản:** Luật SHTT — đọc bản hợp nhất VBHN 67/VBHN-VPQH (2026) · Luật 131/2025/QH15 (sửa đổi, hiệu lực 01/04/2026, có thêm trách nhiệm nền tảng số và vi phạm trên môi trường số). Link: [NGUON.md](../NGUON.md). Số điều: **chưa trích**.

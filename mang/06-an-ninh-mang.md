@@ -1,5 +1,7 @@
 # Mảng 6 — An ninh mạng, thông tin trên mạng
 
+> Tham khảo, không phải tư vấn pháp lý — [MIEN-TRU-TRACH-NHIEM.md](../MIEN-TRU-TRACH-NHIEM.md). Tóm tắt từ nguồn trong [NGUON.md](../NGUON.md); đối chiếu văn bản gốc trước khi dựa vào.
+
 **Áp khi:** hệ thống có tài khoản, lưu dữ liệu người dùng, hoặc cho người dùng đăng nội dung.
 
 **Văn bản:** Luật 116/2025/QH15 (An ninh mạng 2025, hiệu lực 01/07/2026) · NĐ 331/2026/NĐ-CP (bảo vệ ANM đối với hệ thống thông tin, hiệu lực 19/08/2026) ·
