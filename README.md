@@ -1,7 +1,7 @@
 # vn-legal-skills
 
 Bộ skill + checklist giúp AI (Claude Code, Codex, Cursor…) **rà một web/app nhỏ ở Việt Nam theo luật VN**:
-dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quảng cáo, bản quyền, an ninh mạng, AI, trò chơi điện tử.
+dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quảng cáo, bản quyền, an ninh mạng, AI, trò chơi điện tử, thuế và hoá đơn.
 
 > ⚠️ **Không phải tư vấn pháp lý — chỉ để tham khảo.** Đây là công cụ nhắc việc: chỉ ra chỗ cần xem lại và dẫn văn bản
 > gốc để bạn tự đọc. Nó **không** chứng nhận app của bạn hợp pháp, **không** tạo quan hệ luật sư – khách hàng,
@@ -37,6 +37,7 @@ mang/                            mỗi mảng một tệp: áp khi nào · việ
   06-an-ninh-mang.md
   07-tri-tue-nhan-tao.md
   08-tro-choi-dien-tu.md
+  09-thue-hoa-don.md
 trich-dan/                       đoạn trích NGUYÊN VĂN từ PDF Công báo (bằng chứng cho số điều, mức phạt)
 mau/                             mẫu văn bản để trống [CHỖ ĐIỀN], tự viết, không chép của ai
   chinh-sach-quyen-rieng-tu.md

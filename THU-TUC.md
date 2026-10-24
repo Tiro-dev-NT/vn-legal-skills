@@ -8,7 +8,11 @@
 
 | # | Khi nào | Thủ tục | Cơ quan / nơi làm | Căn cứ trong repo |
 |---|---|---|---|---|
-| T0 | Có thu tiền thường xuyên | Xác định chủ thể kinh doanh (hộ kinh doanh / doanh nghiệp) và nghĩa vụ thuế | UBND cấp xã/phòng đăng ký kinh doanh; cơ quan thuế | **chưa có trong bộ nguồn** — hỏi kế toán/luật sư |
+| T0 | Có thu tiền thường xuyên | Xác định chủ thể kinh doanh (hộ kinh doanh / doanh nghiệp) — đăng ký kinh doanh **chưa có trong bộ nguồn** (lộ trình mảng 10) | cơ quan đăng ký kinh doanh | hỏi luật sư/kế toán |
+| T0a | Có thu tiền | **Đăng ký thuế** | Cơ quan thuế | mảng 9.1 |
+| T0b | Hộ/cá nhân kinh doanh, doanh thu năm ≤ 01 tỷ | **Thông báo doanh thu thực tế** năm theo mẫu TT 18/2026 | Cơ quan thuế | mảng 9.2 |
+| T0c | Hộ/cá nhân kinh doanh, doanh thu năm > 01 tỷ | **Khai thuế** theo quý/tháng; **dùng hoá đơn điện tử** có mã hoặc từ máy tính tiền | Cơ quan thuế | mảng 9.2, 9.4 |
+| T0d | Có tài khoản ngân hàng / ví dùng cho kinh doanh | Thông báo theo mẫu TT 18/2026 | Cơ quan thuế | mảng 9.3 |
 
 ## Theo tính năng
 

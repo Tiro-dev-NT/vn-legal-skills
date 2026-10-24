@@ -14,7 +14,7 @@
 | 6 | An ninh mạng, thông tin trên mạng | mang/06-an-ninh-mang.md | 🟡 | toàn văn Luật 116/2025, NĐ 331/2026; ngưỡng mạng xã hội NĐ 147 |
 | 7 | Trí tuệ nhân tạo | mang/07-tri-tue-nhan-tao.md | 🟡 | toàn văn Luật 134/2025, NĐ 142/2026 |
 | 8 | Trò chơi điện tử | mang/08-tro-choi-dien-tu.md | ✅ | NĐ 391/2026 (có thưởng) |
-| 9 | Thuế, hoá đơn điện tử | mang/09-thue-hoa-don.md | ⏳ | |
+| 9 | Thuế, hoá đơn điện tử | mang/09-thue-hoa-don.md | 🟡 | TT 50/2026 (ảnh quét); mức cá nhân theo Luật XLVPHC; phân loại app/khoá học |
 | 10 | Đăng ký kinh doanh, ngành nghề có điều kiện | — | ☐ | |
 | 11 | Thanh toán, ví điện tử, tài sản mã hoá | — | ☐ | |
 | 12 | Sở hữu công nghiệp (nhãn hiệu, tên thương mại, tên miền) | — | ☐ | |
@@ -34,6 +34,11 @@ Tiêu chí (đo được, không cảm tính): văn bản trong [NGUON.md](NGUON
 | Văn bản | Hiệu lực | Siết gì | Mảng |
 |---|---|---|---|
 | NĐ 363/2026/NĐ-CP | **11/11/2026 (sắp)** | xử phạt lĩnh vực dữ liệu | 1 |
+| NĐ 291/2026/NĐ-CP | 21/07/2026 | sửa xử phạt thuế | 9 |
+| NĐ 254/2026/NĐ-CP + TT 91/2026 | 01/07/2026 | hoá đơn điện tử mới, thay NĐ 123/2020 | 9 |
+| Luật 108/2025/QH15 | 01/07/2026 (một phần 01/01/2026) | Luật Quản lý thuế mới; nền tảng khấu trừ, nộp thay; trốn thuế 1–3 lần | 9 |
+| Luật 109/2025 · Luật 09/2026 · NĐ 68/2026 · NĐ 141/2026 | 01/01–05/03/2026 | **bỏ thuế khoán**; hộ/cá nhân tự khai; ngưỡng 01 tỷ; TNCN nội dung số 5% | 9 |
+| NĐ 310/2025/NĐ-CP | 16/01/2026 | sửa phạt không lập hoá đơn, chậm khai | 9 |
 | NĐ 330/2026/NĐ-CP | 19/08/2026 | phạt DLCN theo từng hành vi đồng ý (30–70 triệu, mức tổ chức); phạt % doanh thu khi chuyển DL xuyên biên giới | 1 |
 | NĐ 331/2026/NĐ-CP | 19/08/2026 | cấp độ an ninh hệ thống thông tin | 6 |
 | Luật 122/2025/QH15 + NĐ 248/2026 | 01/07/2026 | khung TMĐT mới; nền tảng phải xác thực người bán (mốc 01/01/2027 theo tin — chưa đối chiếu) | 3 |
@@ -51,6 +56,6 @@ Bảng này chỉ để người duy trì quyết định **làm gì trước** 
 
 ## Thứ tự làm (siết trước)
 
-1. Mảng 9 Thuế, hoá đơn — đang làm.
+1. Mảng 9 Thuế, hoá đơn — đã có (🟡).
 2. Đối chiếu toàn văn phần còn 🟡 của các mảng có văn bản đang siết: 1 (Luật 91/2025, NĐ 356/2025, NĐ 363/2026) → 3 (Luật 122/2025, NĐ 248/2026) → 6 (Luật 116/2025, NĐ 331/2026) → 7 (Luật 134/2025, NĐ 142/2026) → 4 (Luật 75/2025) → 5 (Luật 131/2025).
 3. Mảng mới: 10 → 11 → 12 → 15 → 14 → 13 → 16 → 17 → 18 → 19 → 20 (trong lúc làm, mảng nào tra ra có văn bản mới siết thì đẩy lên).

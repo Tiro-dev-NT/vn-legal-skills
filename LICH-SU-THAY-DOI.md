@@ -29,6 +29,15 @@
 - **An ninh mạng** — Mới: Luật 116/2025/QH15 (hiệu lực 01/07/2026), NĐ 331/2026/NĐ-CP (hiệu lực 19/08/2026). Quan hệ với Luật An ninh mạng 2018 và Luật An toàn thông tin mạng 2015: **chưa đọc điều bãi bỏ**. Mục ảnh hưởng: mảng 6.
 - **Khuyến mại** — NĐ 81/2018/NĐ-CP sửa bởi NĐ 128/2024/NĐ-CP (hiệu lực 01/12/2024) và NĐ 239/2026/NĐ-CP (26/06/2026). Mục ảnh hưởng: 4.10.
 
+### 2026-10-24 — Thuế, hoá đơn: các văn bản đã bị thay trước ngày lập repo
+- Loại: LUẬT ĐỔI (ghi lại lịch sử có sẵn)
+- **Thuế khoán** hộ kinh doanh — Cũ: Điều 51 Luật 38/2019/QH14. Hết từ 01/01/2026 (Luật 108/2025/QH15 Điều 52 khoản 3); thay bằng tự khai/thông báo doanh thu theo NĐ 68/2026/NĐ-CP (hiệu lực 05/03/2026). Mục ảnh hưởng: mảng 9.2.
+- **Luật Quản lý thuế** — Cũ: Luật 38/2019/QH14. Mới: Luật 108/2025/QH15 (ban hành 10/12/2025, hiệu lực 01/07/2026).
+- **Ngưỡng doanh thu** hộ/cá nhân kinh doanh không chịu GTGT, không nộp TNCN — Luật 149/2025 và NĐ 68/2026: 500 triệu (mức trước đó: chưa đối chiếu). Hiện: **01 tỷ** (Luật 09/2026/QH16 giao Chính phủ; NĐ 141/2026/NĐ-CP, áp từ 01/01/2026). Mục ảnh hưởng: mảng 9 "Số liệu chính".
+- **Hoá đơn điện tử** — Cũ: NĐ 123/2020/NĐ-CP, NĐ 70/2025/NĐ-CP, TT 32/2025/TT-BTC. Mới: NĐ 254/2026/NĐ-CP (Điều 43 khoản 2) + TT 91/2026/TT-BTC, hiệu lực 01/07/2026. Mục ảnh hưởng: 9.4, 9.5.
+- **Hồ sơ thuế hộ kinh doanh** — Cũ: TT 40/2021, TT 100/2021. Mới: TT 18/2026/TT-BTC (sửa bởi TT 50/2026).
+- **Thuế TNCN** — Cũ: Luật 04/2007/QH12. Mới: Luật 109/2025/QH15 (hiệu lực 01/07/2026; thu nhập kinh doanh từ kỳ tính thuế 2026).
+
 ### 2026-10-24 — Sửa đọc sai: mức phạt NĐ 330/2026 là mức TỔ CHỨC
 - Loại: SỬA ĐỌC SAI
 - Cũ (bản repo trước commit 21e84c6): bảng phạt mảng 1 lấy từ tin Báo Chính phủ, ghi "chưa tách cá nhân/tổ chức — không tự nhân đôi cho tổ chức".

@@ -74,6 +74,36 @@
 | NĐ 118/2021/NĐ-CP | Hướng dẫn Luật Xử lý vi phạm hành chính (NĐ 87/2026 dẫn sang để xác định hộ kinh doanh) | — | — | tra trên [vbpl.vn](https://vbpl.vn) | chưa |
 | NĐ 72/2013/NĐ-CP · NĐ 27/2018/NĐ-CP | Quy định cũ về internet/game — **đã bị bãi bỏ** bởi NĐ 147/2024 Điều 83 | — | hết hiệu lực 25/12/2024 | — | toàn văn (Điều 83 NĐ 147) |
 
+## Thuế, hoá đơn
+
+| Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
+|---|---|---|---|---|---|
+| Luật 108/2025/QH15 | Luật Quản lý thuế (thay Luật 38/2019) | 10/12/2025 | 01/07/2026 (Điều 13, Điều 26 với hộ KD: 01/01/2026) | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-108-2025-qh15-468670.htm) | **toàn văn**: Điều 10, 12, 13, 14, 16, 26, 40, 44, 45, 52 |
+| Luật 48/2024/QH15 | Luật Thuế giá trị gia tăng | 26/11/2024 | 01/07/2025 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-48-2024-qh15-43576.htm) | **toàn văn**: Điều 4, 5, 12 |
+| Luật 149/2025/QH15 | Sửa Luật Thuế GTGT (ngưỡng; bỏ khoán GTGT) | 11/12/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-149-2025-qh15-468709/61734.htm) | toàn văn (theo bản trích) |
+| Luật 90/2025/QH15 | Sửa nhiều luật (có Luật GTGT) | 25/06/2025 | 01/07/2025 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-90-2025-qh15-45389.htm) | số+ngày |
+| Luật 109/2025/QH15 | Luật Thuế thu nhập cá nhân (thay Luật 04/2007) | 10/12/2025 | 01/07/2026; thu nhập kinh doanh từ kỳ tính thuế 2026 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 7 |
+| Luật 09/2026/QH16 | Sửa Luật TNCN, GTGT, TNDN, TTĐB — ngưỡng doanh thu do Chính phủ quy định | 24/04/2026 | Điều 1–3 áp từ 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-09-2026-qh16-469536.htm) | **toàn văn**: Điều 1 |
+| Luật 67/2025/QH15 | Luật Thuế thu nhập doanh nghiệp | 14/06/2025 | 01/10/2025 (kỳ tính thuế 2025) | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | số+ngày; các luật sửa TNDN 2025 chưa đọc |
+| NĐ 320/2025/NĐ-CP | Hướng dẫn Luật TNDN (sửa bởi NĐ 141/2026) | 15/12/2025 | 15/12/2025 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-320-2025-nd-cp-46841.htm) | số+ngày |
+| NĐ 181/2025/NĐ-CP | Hướng dẫn Luật GTGT (sửa bởi NĐ 359/2025, NĐ 144/2026) | 01/07/2025 | 01/07/2025 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-181-2025-nd-cp-45379.htm) | toàn văn: Điều 4 khoản 7, 13 |
+| TT 69/2025/TT-BTC | Hướng dẫn Luật GTGT và NĐ 181/2025 | 01/07/2025 | 01/07/2025 | [Công báo](https://congbao.chinhphu.vn/van-ban/thong-tu-so-69-2025-tt-btc-45440/57458.htm) | toàn văn (nhóm ngành tỷ lệ %) |
+| NĐ 68/2026/NĐ-CP | Thuế và quản lý thuế với hộ, cá nhân kinh doanh (thay cách quản lý khoán) | 05/03/2026 | 05/03/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-68-2026-nd-cp-469047.htm) | **toàn văn**: Điều 8–11, 13, 17, 18 |
+| NĐ 141/2026/NĐ-CP | Sửa NĐ 68/2026 (500 triệu → 01 tỷ) và NĐ 320/2025 | 29/04/2026 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-141-2026-nd-cp-469455/64634.htm) | **toàn văn**: Điều 1 |
+| TT 18/2026/TT-BTC | Hồ sơ, thủ tục thuế hộ kinh doanh (thay TT 40/2021, TT 100/2021); sửa bởi TT 50/2026 | 05/03/2026 | 05/03/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/thong-tu-so-18-2026-tt-btc-469080/63294.htm) | toàn văn TT 18; TT 50 là PDF ảnh quét — chưa trích |
+| NĐ 117/2025/NĐ-CP | Quản lý thuế với kinh doanh trên nền tảng TMĐT, nền tảng số | 09/06/2025 | 01/07/2025 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-117-2025-nd-cp-45045.htm) | toàn văn (theo bản trích) |
+| NĐ 254/2026/NĐ-CP | Hoá đơn điện tử, chứng từ điện tử (thay NĐ 123/2020, NĐ 70/2025) | 30/06/2026 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-254-2026-nd-cp-469957.htm) | **toàn văn**: Điều 6, 7, 9, 43 |
+| TT 91/2026/TT-BTC | Hướng dẫn hoá đơn, chứng từ (thay TT 32/2025) | 30/06/2026 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/thong-tu-so-91-2026-tt-btc-470171.htm) | số+ngày |
+| NĐ 125/2020/NĐ-CP | Xử phạt VPHC về thuế, hoá đơn (sửa bởi NĐ 102/2021, NĐ 310/2025, NĐ 291/2026) | 19/10/2020 | 05/12/2020 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 7, 10, 13, 16, 17, 24, 42 |
+| NĐ 310/2025/NĐ-CP | Sửa NĐ 125/2020 | 02/12/2025 | 16/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-310-2025-nd-cp-46755.htm) | **toàn văn**: Điều 1 khoản 5, 10, 14; Điều 2 |
+| NĐ 291/2026/NĐ-CP | Sửa NĐ 125/2020 (thêm Điều 19a) | 21/07/2026 | 21/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-291-2026-nd-cp-470143/67309.htm) | số+ngày |
+| NĐ 102/2021/NĐ-CP | Sửa NĐ 125/2020 | 16/11/2021 | 01/01/2022 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | số+ngày |
+| NĐ 126/2020/NĐ-CP | Hướng dẫn Luật Quản lý thuế 38/2019 (sửa bởi NĐ 373/2025) — tình trạng sau 01/07/2026 **chưa xác minh** | 19/10/2020 | 05/12/2020 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | chưa |
+| NĐ 123/2020 · NĐ 70/2025 · TT 32/2025 | Hoá đơn, chứng từ cũ — **đã bị thay** bởi NĐ 254/2026 (Điều 43) và TT 91/2026 | — | hết hiệu lực 01/07/2026 | — | toàn văn (Điều 43 NĐ 254) |
+| Luật 38/2019/QH14 | Luật Quản lý thuế cũ — **đã bị thay** bởi Luật 108/2025 (Điều 52); thuế khoán (Điều 51) hết từ 01/01/2026 | — | hết hiệu lực 01/07/2026 | — | toàn văn (Điều 52 Luật 108) |
+| TT 40/2021 · TT 100/2021 | Thuế hộ kinh doanh cũ — **đã bị thay** bởi TT 18/2026 | — | — | — | toàn văn (Điều 9 TT 18) |
+| Luật 04/2007/QH12 | Luật Thuế TNCN cũ — **đã bị thay** bởi Luật 109/2025 | — | — | — | theo bản trích |
+
 ## Chưa có trong bộ nguồn (cần bổ sung)
 
 Luật Thương mại (gốc, phần khuyến mại) · nghị định xử phạt TMĐT theo Luật 122/2025 (nếu có) · Luật Trẻ em ·
