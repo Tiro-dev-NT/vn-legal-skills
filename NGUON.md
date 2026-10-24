@@ -30,6 +30,10 @@
 | Luật 122/2025/QH15 | Luật Thương mại điện tử | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-122-2025-qh15-468683/61714.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216503&classid=1&orggroupid=1) | số+ngày |
 | NĐ 248/2026/NĐ-CP | Quy định chi tiết Luật TMĐT | 30/06/2026 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-248-2026-nd-cp-469983/66872.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218747) | số+ngày |
 
+| NĐ 98/2020/NĐ-CP | Xử phạt VPHC hoạt động thương mại, hàng giả, hàng cấm, BVQLNTD | 2020 | — | tra trên [vbpl.vn](https://vbpl.vn) | chưa khớp ngày |
+| NĐ 24/2025/NĐ-CP | Sửa đổi NĐ 98/2020 (tăng phạt BVQLNTD, thêm Điều 53a giao dịch trên không gian mạng) | 2025 | — | [xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/nghi-dinh-24-2025-nd-cp-sua-doi-bo-sung-quy-dinh-xu-phat-vi-pham-hanh-chinh-bao-ve-quyen-loi-nguoi-tieu-dung-119250225072906906.htm) | số; chưa khớp ngày |
+| Thủ tục | Thông báo website TMĐT bán hàng | — | — | [dichvucong.moit.gov.vn](https://dichvucong.moit.gov.vn/TTHCOnlineDetail.aspx?DocId=115) · [online.gov.vn](http://online.gov.vn) | đã đọc trang thủ tục |
+
 ## Quảng cáo
 
 | Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
