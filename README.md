@@ -24,6 +24,7 @@ LICH-SU-THAY-DOI.md              luật cũ → mới: ngày hiệu lực, chuy�
 luu-tru/                         nguyên văn nội dung cũ trước mỗi lần luật đổi
 CONTRIBUTING.md                  cách góp ý (issue/PR) + luật nội dung
 THU-TUC.md                       thủ tục phải làm với cơ quan nhà nước theo tính năng (skill nhắc trong báo cáo)
+LO-TRINH.md                      20 mảng: đã làm / đang làm / chưa làm
 NGUON.md                         bảng văn bản: số hiệu · ngày · hiệu lực · link chính thức · đã kiểm tới đâu
 skills/
   vn-legal-check/SKILL.md        skill điều phối: hỏi app làm gì → chọn mảng → rà → báo cáo
