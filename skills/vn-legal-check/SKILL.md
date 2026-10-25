@@ -53,6 +53,7 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
    | 9 | có thu tiền (mọi hình thức) | `mang/09-thue-hoa-don.md` |
    | 11 | nhận tiền online, cổng thanh toán, ví/số dư, credit/xu trả trước, chia tiền cho người bán, khách nước ngoài trả ngoại tệ (PayPal/Stripe, giá USD), crypto/token/NFT | `mang/11-thanh-toan.md` |
    | 10 | thu tiền thường xuyên (cần chủ thể kinh doanh); tính năng thuộc ngành nghề có điều kiện (mạng xã hội, game qua mạng, ví/thu hộ, dữ liệu) | `mang/10-dang-ky-kinh-doanh.md` |
+   | 12 | tên app, logo, tên thương hiệu, tên miền; hiện tên/logo của bên khác (đăng nhập bằng X, tích hợp, "tương thích với"); nền tảng cho người dùng đặt tên gian hàng/kênh | `mang/12-nhan-hieu-ten-mien.md` |
 
 3. **Rà từng mục:** dùng cột "Dấu hiệu trong mã" để TÌM, **đọc đoạn mã** rồi mới kết luận. Mục không áp dụng ⇒ ghi lý do.
 4. **Thủ tục ngoài mã:** đọc `THU-TUC.md`, chọn các dòng T áp dụng theo phân loại; tìm dấu hiệu đã làm (biểu tượng Bộ Công Thương, số giấy phép…)

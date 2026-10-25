@@ -19,6 +19,14 @@
 
 ---
 
+### 2026-10-25 — Sở hữu công nghiệp: xử phạt sửa đổi 2026, phí, tên miền (khi thêm mảng 12)
+- Loại: LUẬT ĐỔI (ghi lại lịch sử có sẵn) · BỔ SUNG
+- **Xử phạt sở hữu công nghiệp** — NĐ 99/2013/NĐ-CP **không bị thay**, chỉ được sửa lần lượt bởi NĐ 126/2021/NĐ-CP (hiệu lực 01/01/2022), NĐ 46/2024/NĐ-CP (01/07/2024) và **NĐ 186/2026/NĐ-CP** (ban hành 26/05/2026, hiệu lực 15/07/2026). Điểm mới đáng chú ý của NĐ 186/2026 (đọc qua bản hợp nhất VBHN 25/2026/VBHN-NĐ-BKHCN, chú thích cuối trang): thêm biện pháp **ngăn chặn truy cập tên miền xâm phạm** (Điều 3 khoản 3 điểm a; Điều 14 khoản 18 điểm c), **tạm giữ tên miền** (Điều 3a), buộc đổi tên **hộ kinh doanh** ngoài tên doanh nghiệp (Điều 11 khoản 17 điểm d), phân định lại thẩm quyền (Điều 15 — chú thích 88 của bản hợp nhất; phần thẩm quyền chưa đọc). Chuyển tiếp: chưa đọc. Nguồn: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-186-2026-nd-cp-469660.htm. Mục ảnh hưởng: mảng 12 (Mức phạt, 12.7, 12.9).
+- **Luật SHTT sửa bởi Luật 131/2025/QH15** (hiệu lực 01/04/2026) — trong phạm vi mảng 12: Điều 205 khoản 1 điểm d (trần bồi thường khi không xác định được thiệt hại, nay **01 tỷ đồng**) và khoản 2 được sửa; Điều 119 khoản 2 sửa và thêm khoản 2a (**thẩm định nội dung nhanh** đơn nhãn hiệu, 3 tháng — điều kiện ở NĐ 65/2023 Điều 14a do NĐ 100/2026 bổ sung, hiệu lực 01/04/2026); Điều 198b đổi tên, thêm khoản 5a (trách nhiệm chủ quản nền tảng số). Mức trần cũ của Điều 205: chưa đọc bản cũ. Mục ảnh hưởng: mảng 12.14, 12.15, phần bồi thường.
+- **Lệ phí sở hữu công nghiệp** — TT 263/2016/TT-BTC (hiệu lực 01/01/2017) vẫn là biểu gốc; TT 64/2025/TT-BTC giảm **50% lệ phí** (Mục A) từ 01/07/2025 đến hết **31/12/2026** ⇒ từ 01/01/2027 trở lại mức đầy đủ (trừ khi có văn bản mới). Mục ảnh hưởng: mảng 12 "Phí đăng ký".
+- **Viễn thông, tên miền** — Luật Viễn thông 41/2009/QH12 (sửa bởi Luật 21/2017, Luật 23/2018) hết hiệu lực từ 01/07/2024, thay bởi Luật 24/2023/QH15 (Điều 72 khoản 2). NĐ 147/2024 ghi cơ quan quản lý tên miền là Bộ Thông tin và Truyền thông (Trung tâm Internet Việt Nam); văn bản năm 2026 (VBHN 25/2026, Điều 3a) ghi Bộ Khoa học và Công nghệ (Trung tâm Internet Việt Nam) — văn bản chuyển chức năng **chưa đọc**. Mục ảnh hưởng: mảng 12.9, 12.10.
+- Bản cũ lưu ở: không có (mảng mới).
+
 ### 2026-10-25 — Sửa đọc sai: app dùng mô hình AI của bên khác là NHÀ CUNG CẤP, không chỉ bên triển khai
 - Loại: SỬA ĐỌC SAI
 - Cũ (mảng 7 trước commit này): "đa số web nhỏ dùng API thuộc nhóm bên triển khai".

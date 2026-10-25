@@ -17,7 +17,7 @@
 | 9 | Thuế, hoá đơn điện tử | mang/09-thue-hoa-don.md | 🟡 | TT 50/2026 (ảnh quét); mức cá nhân theo Luật XLVPHC; phân loại app/khoá học |
 | 10 | Đăng ký kinh doanh, ngành nghề có điều kiện | mang/10-dang-ky-kinh-doanh.md | 🟡 | mức 'thu nhập thấp' từng tỉnh; NĐ 39/2007 còn hiệu lực?; NĐ 122/2021 chép từ ảnh quét |
 | 11 | Thanh toán, ví điện tử, tài sản mã hoá | mang/11-thanh-toan.md | 🟡 | credit nội bộ, PayPal/Stripe, nhận crypto: văn bản không rõ — cần luật sư; NĐ 70/2014 chưa đọc |
-| 12 | Sở hữu công nghiệp (nhãn hiệu, tên thương mại, tên miền) | — | ☐ | |
+| 12 | Sở hữu công nghiệp (nhãn hiệu, tên thương mại, tên miền) | mang/12-nhan-hieu-ten-mien.md | 🟡 | NĐ 186/2026 + VBHN 25/2026 ảnh quét (Điều 3a, 6 chưa so); NĐ 65/2023 chưa đọc phần yếu tố xâm phạm |
 | 13 | Viễn thông, tên miền .vn, trung tâm dữ liệu/cloud | — | ☐ | |
 | 14 | Báo chí, xuất bản | — | ☐ | |
 | 15 | Giáo dục, đào tạo trực tuyến | — | ☐ | |
