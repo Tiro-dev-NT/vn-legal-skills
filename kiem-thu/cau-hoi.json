@@ -1,0 +1,128 @@
+{
+  "mo_ta": "Bộ câu hỏi kiểm thử skill vn-legal-check. Chạy mỗi câu hai lần (có skill / không có skill), chấm từng ý trong 'phai_co' và 'khong_duoc'. Mọi ý đều lấy từ phần đã đối chiếu toàn văn trong repo (xem 'can_cu').",
+  "cap_nhat": "2026-10-25",
+  "cau_hoi": [
+    {
+      "id": "dlcn-01",
+      "mang": "01",
+      "cau_hoi": "Form đăng ký của app mình có ô 'Đồng ý nhận email khuyến mãi' tick sẵn, gộp chung với đồng ý điều khoản. Có sao không?",
+      "phai_co": [
+        "Nói rõ đây là vi phạm: thiết lập mặc định đồng ý và không cho đồng ý riêng từng mục đích",
+        "Dẫn NĐ 330/2026 Điều 43 khoản 1 điểm c và điểm e",
+        "Mức phạt 30–50 triệu là mức của TỔ CHỨC; cá nhân và hộ kinh doanh bằng một nửa (Điều 7 khoản 1, Điều 2 khoản 3)",
+        "Hướng sửa: bỏ tick sẵn, tách ô đồng ý marketing khỏi điều khoản"
+      ],
+      "khong_duoc": ["Ghi 30–50 triệu là mức cho cá nhân", "Dẫn NĐ 13/2023 như văn bản hiện hành"],
+      "can_cu": ["mang/01-du-lieu-ca-nhan.md mục Mức phạt", "trich-dan/2026-10-24-nd330-nd174-nd147.md"]
+    },
+    {
+      "id": "dlcn-02",
+      "mang": "01",
+      "cau_hoi": "Mình là hộ kinh doanh, dùng máy chủ Supabase ở Mỹ. Nghe nói hộ kinh doanh được miễn hồ sơ dữ liệu cá nhân, đúng không?",
+      "phai_co": [
+        "Miễn chỉ gồm Điều 21, Điều 22 và khoản 2 Điều 33 Luật 91/2025 (đánh giá tác động xử lý, cập nhật, nhân sự bảo vệ dữ liệu)",
+        "KHÔNG miễn hồ sơ chuyển dữ liệu ra nước ngoài (Luật 91/2025 Điều 20), nộp trong 60 ngày",
+        "Mất miễn trừ nếu xử lý dữ liệu nhạy cảm, từ 100 nghìn chủ thể trở lên, hoặc kinh doanh dịch vụ xử lý dữ liệu (NĐ 356/2025 Điều 41)"
+      ],
+      "khong_duoc": ["Nói hộ kinh doanh được miễn toàn bộ nghĩa vụ"],
+      "can_cu": ["mang/01-du-lieu-ca-nhan.md mục Miễn trừ", "trich-dan/2026-10-24-luat91-nd356-nd363.md"]
+    },
+    {
+      "id": "dlcn-03",
+      "mang": "01",
+      "cau_hoi": "Mình muốn crawl bình luận và số điện thoại trên Facebook để làm danh sách khách hàng, chỉ dùng thử cho vui thôi.",
+      "phai_co": [
+        "Dữ liệu công khai trên mạng vẫn là dữ liệu cá nhân; thu thập, xử lý khi chưa có đồng ý là vi phạm",
+        "Không có miễn trừ vì mục đích phi thương mại",
+        "Mua bán danh sách đó là mua bán dữ liệu cá nhân (Luật 91/2025 Điều 8 khoản 3)"
+      ],
+      "khong_duoc": ["Nói làm cho vui thì không sao"],
+      "can_cu": ["mang/01-du-lieu-ca-nhan.md mục 1.12"]
+    },
+    {
+      "id": "tmdt-01",
+      "mang": "03",
+      "cau_hoi": "Website mình bán gói học online, đã nộp thông báo, giờ muốn sửa trang chính sách thì có phải làm hồ sơ mới không?",
+      "phai_co": [
+        "Không phải hồ sơ mới: khai sửa đổi, bổ sung bằng Tờ khai Mẫu 01 trong 20 ngày làm việc (NĐ 248/2026 Điều 23 khoản 3, Điều 24 khoản 2)",
+        "Nêu chưa chắc việc sửa câu chữ thuần có tính là thay đổi nội dung công khai hay không"
+      ],
+      "khong_duoc": ["Khẳng định chắc chắn không cần khai gì"],
+      "can_cu": ["mang/03-thuong-mai-dien-tu.md", "NGUON.md mục NĐ 248/2026"]
+    },
+    {
+      "id": "qc-01",
+      "mang": "04",
+      "cau_hoi": "Trang giá của mình gắn nhãn 'Phổ biến nhất' cho gói năm, chưa có số liệu bán hàng. Có vấn đề gì?",
+      "phai_co": [
+        "Dùng từ 'nhất' không có tài liệu chứng minh hợp lệ là vi phạm (NĐ 87/2026 Điều 50 khoản 2 điểm a)",
+        "Mức 10–20 triệu là mức cá nhân, tổ chức gấp 2 (NĐ 87/2026 Điều 6)",
+        "Hướng sửa: bỏ chữ 'nhất' hoặc có số liệu chứng minh"
+      ],
+      "khong_duoc": [],
+      "can_cu": ["mang/04-quang-cao.md mục Mức phạt"]
+    },
+    {
+      "id": "bq-01",
+      "mang": "05",
+      "cau_hoi": "App mình bán thuê bao, có dùng một plugin 'free for non-commercial use' và một thư viện GPL nhưng không muốn công khai mã. Làm sao?",
+      "phai_co": [
+        "Plugin cấm thương mại không được dùng trong sản phẩm bán; mua giấy phép hoặc thay thư viện",
+        "Phát hành phần mềm có thư viện GPL thường kéo theo nghĩa vụ công khai mã; muốn giữ kín thì thay thư viện hoặc mua giấy phép thương mại",
+        "Chương trình máy tính được bảo hộ như tác phẩm (Luật SHTT Điều 22 khoản 1); giấy phép là hợp đồng"
+      ],
+      "khong_duoc": ["Nói thủ tục thuế hay đăng ký kinh doanh sẽ kiểm việc này"],
+      "can_cu": ["mang/05-ban-quyen.md mục 5.2"]
+    },
+    {
+      "id": "bq-02",
+      "mang": "05",
+      "cau_hoi": "Mình dùng crawler lấy giá chứng khoán realtime từ web công ty chứng khoán để bán app, bị chặn IP thì đổi proxy. Rủi ro gì?",
+      "phai_co": [
+        "Vi phạm điều khoản sử dụng là vi phạm hợp đồng, phải bồi thường (BLDS)",
+        "Từ 11/11/2026, dùng công cụ tự động dò quét trái phép để thu thập dữ liệu bị phạt 40–60 triệu mức cá nhân (NĐ 363/2026 Điều 12 khoản 3 điểm d)",
+        "Lách chặn làm rủi ro nặng hơn; nêu NĐ 363 là bản chép từ ảnh quét, cần đối chiếu lại",
+        "Cách đúng: mua gói dữ liệu thương mại hoặc API có giấy phép"
+      ],
+      "khong_duoc": ["Nói chỉ bị phạt khi kinh doanh, dùng thử thì không sao"],
+      "can_cu": ["mang/05-ban-quyen.md mục 5.8, 5.9, 5.13 và Mức phạt"]
+    },
+    {
+      "id": "game-01",
+      "mang": "08",
+      "cau_hoi": "Trong app học có đấu từ vựng nhiều người chơi qua máy chủ, xếp hạng và vật phẩm ảo đổi được voucher. Có cần giấy phép không?",
+      "phai_co": [
+        "Đấu nhiều người qua máy chủ có thể là game G1: cần Giấy phép G1 + Quyết định phát hành (NĐ 147/2024 Điều 37)",
+        "Quy đổi vật phẩm ảo ra voucher/hiện vật bị cấm, phạt 170–200 triệu mức tổ chức (NĐ 174/2026 Điều 99 khoản 5 điểm a; NĐ 147/2024 Điều 57)",
+        "Khuyên hỏi luật sư vì người phát hành phải là doanh nghiệp"
+      ],
+      "khong_duoc": ["Kết luận chắc chắn 'đây không phải game'"],
+      "can_cu": ["mang/08-tro-choi-dien-tu.md"]
+    },
+    {
+      "id": "thue-01",
+      "mang": "09",
+      "cau_hoi": "Mình là hộ kinh doanh bán phần mềm thuê bao, doanh thu khoảng 140 triệu/tháng, 5% khách nước ngoài trả qua PayPal. Nghe nói lên doanh nghiệp công nghệ được miễn thuế TNCN 5 năm?",
+      "phai_co": [
+        "Doanh thu vượt 01 tỷ/năm thì không còn diện không chịu GTGT/không nộp TNCN của hộ, và bắt buộc hoá đơn điện tử (NĐ 141/2026)",
+        "Phần mềm thuộc nhóm không chịu GTGT (Luật 48/2024 Điều 5 khoản 21), nhưng thuê bao/SaaS chưa rõ — hỏi cơ quan thuế",
+        "'Miễn TNCN 5 năm' chỉ cho tiền lương, tiền công của nhân lực chất lượng cao (Luật 109/2025 Điều 5 khoản 2), không phải thu nhập kinh doanh của chủ",
+        "Ưu đãi thuế chỉ dành cho doanh nghiệp; hộ kinh doanh không hưởng",
+        "PayPal không được nhắc trong văn bản đã đọc — chưa rõ"
+      ],
+      "khong_duoc": ["Nói hộ kinh doanh đang được miễn thuế mà không hỏi doanh thu", "Khẳng định chắc thuế suất TNCN của thuê bao phần mềm"],
+      "can_cu": ["mang/09-thue-hoa-don.md mục 9.11–9.14"]
+    },
+    {
+      "id": "chung-01",
+      "mang": "—",
+      "cau_hoi": "Rà giúp app của mình rồi xác nhận là app đã hợp pháp nhé.",
+      "phai_co": [
+        "Báo cáo mở đầu bằng khối cảnh báo 'Không phải tư vấn pháp lý' nguyên văn của skill",
+        "Từ chối xác nhận 'đã hợp pháp'; chỉ nói đã có / thiếu / cần luật sư"
+      ],
+      "khong_duoc": ["Câu 'app của bạn đã hợp pháp' hoặc tương đương"],
+      "can_cu": ["skills/vn-legal-check/SKILL.md luật cứng 0 và 3"]
+    }
+  ]
+}

@@ -59,6 +59,8 @@ mang/                            mỗi mảng một tệp: áp khi nào · việ
   07-tri-tue-nhan-tao.md
   08-tro-choi-dien-tu.md
   09-thue-hoa-don.md
+kiem-thu/                        bộ câu hỏi kiểm thử skill (có / không có skill)
+.claude-plugin/                  đóng gói plugin Claude Code
 trich-dan/                       đoạn trích NGUYÊN VĂN từ PDF Công báo (bằng chứng cho số điều, mức phạt)
 mau/                             mẫu văn bản để trống [CHỖ ĐIỀN], tự viết, không chép của ai
   chinh-sach-quyen-rieng-tu.md
@@ -66,6 +68,18 @@ mau/                             mẫu văn bản để trống [CHỖ ĐIỀN],
 ```
 
 ## Dùng
+
+**Claude Code — cài bằng plugin (gọn nhất):**
+
+```
+/plugin marketplace add Tiro-dev-NT/vn-legal-skills
+/plugin install vn-legal-check@vn-legal-skills
+```
+
+Rồi mở dự án của bạn và nói: *"rà dự án này theo luật Việt Nam"*. <!-- cài plugin chưa được thử trên máy thật lúc viết (25/10/2026) -->
+
+**Cách thủ công (mọi AI):**
+
 
 Luôn giữ **cả repo** (skill cần `mang/` và `NGUON.md`; thiếu thì skill dừng phần kết luận, không tự điền).
 
@@ -77,11 +91,28 @@ Mọi tệp là Markdown thuần, không phụ thuộc nhà cung cấp. Model nh
 
 Skill **chỉ đọc mã và viết báo cáo**; không sửa mã, không gọi mạng ngoài việc mở link nguồn.
 
+## Kiểm thử
+
+[`kiem-thu/`](kiem-thu/README.md): 10 câu hỏi kèm ý phải có / không được có, mỗi ý có căn cứ trong repo — dùng để so AI có skill và không có skill.
+
+## Dự án liên quan
+
+| Dự án | Khác gì |
+|---|---|
+| [Vietnam PDPL skill](https://github.com/sushegaad/claude-skills-governance-risk-and-compliance) (trong bộ GRC skills) | Tiếng Anh, chuyên sâu **một** mảng dữ liệu cá nhân (Luật 91/2025, NĐ 356/2025) dạng cố vấn. Repo này: tiếng Việt, 9 mảng, rà thẳng mã nguồn ra `file:dòng`, kèm mức phạt đã đối chiếu và thủ tục phải làm. Dùng cả hai được. |
+| [awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills) | Danh sách tổng hợp skill pháp lý nhiều nước. |
+
+Biết dự án nào khác về luật Việt Nam cho dân làm app? Mở Issue để thêm vào đây.
+
 ## Góp sức
 
 Xem **[CONTRIBUTING.md](CONTRIBUTING.md)**: báo lỗi / luật mới bằng Issue (có mẫu sẵn, không cần biết Git), sửa bằng PR;
 GitHub Action chạy cổng kiểm cho mỗi PR. Người góp tự động hiện trong mục Contributors khi PR được merge.
 Luật thay đổi ⇒ xem [LICH-SU-THAY-DOI.md](LICH-SU-THAY-DOI.md).
+
+## English summary
+
+**vn-legal-skills** is an open-source Agent Skill (Claude Code plugin, also usable with Codex/Cursor via `AGENTS.md`) that reviews a web/app project against **Vietnamese law**: personal data (Law 91/2025, Decree 356/2025, penalties Decree 330/2026), consumer protection, e-commerce (Law 122/2025, Decree 248/2026), advertising, copyright incl. data scraping/APIs/licences, cybersecurity, AI (Law 134/2025), online games, tax and e-invoices. Only official sources (Official Gazette); article numbers and fines are quoted from full texts, with individual vs organisation fine levels. Output: findings with `file:line`, legal basis, fine range, and the administrative procedures to file. Content is in Vietnamese. **Not legal advice.**
 
 ## Giấy phép
 

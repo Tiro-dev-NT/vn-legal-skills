@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vn-legal-skills",
+  "description": "Bộ skill rà web/app theo luật Việt Nam (tham khảo, không phải tư vấn pháp lý).",
+  "owner": { "name": "Tiro-dev-NT" },
+  "plugins": [
+    {
+      "name": "vn-legal-check",
+      "source": "./",
+      "description": "Rà web/app ở Việt Nam theo 9 mảng luật VN, báo cáo file:dòng, căn cứ, mức phạt và thủ tục phải làm.",
+      "version": "0.1.0",
+      "category": "compliance",
+      "keywords": ["vietnam", "legal", "compliance"]
+    }
+  ]
+}

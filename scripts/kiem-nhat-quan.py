@@ -73,5 +73,20 @@ for dong in nguon.splitlines():
             if so not in lich_su: loi.append(f'LICH-SU-THAY-DOI.md: thiếu văn bản đã bị thay {so}')
 if not os.path.exists('luu-tru/00-MUC-LUC.md'): loi.append('thiếu luu-tru/00-MUC-LUC.md')
 
+# 9. Bộ câu hỏi kiểm thử đọc được và mỗi căn cứ trỏ tới tệp có thật; plugin manifest là JSON hợp lệ
+import json
+try:
+    kt = json.loads(doc('kiem-thu/cau-hoi.json'))
+    for c in kt['cau_hoi']:
+        for cc in c.get('can_cu', []):
+            f = cc.split(' ')[0]
+            if not os.path.exists(f): loi.append(f"kiem-thu/cau-hoi.json [{c['id']}]: căn cứ trỏ tới tệp không có: {f}")
+        if not c.get('phai_co'): loi.append(f"kiem-thu/cau-hoi.json [{c['id']}]: thiếu phai_co")
+except Exception as e:
+    loi.append(f'kiem-thu/cau-hoi.json không đọc được: {e}')
+for f in ['.claude-plugin/plugin.json', '.claude-plugin/marketplace.json']:
+    try: json.loads(doc(f))
+    except Exception as e: loi.append(f'{f} không phải JSON hợp lệ: {e}')
+
 print('\n'.join(loi) if loi else f'OK — {len(mang)} mảng, {len(ma_co)} mục, {len(set(RE_VB.findall(nguon)))} văn bản trong NGUON.md')
 sys.exit(1 if loi else 0)

@@ -1,0 +1,10 @@
+{
+  "name": "vn-legal-check",
+  "description": "Rà web/app ở Việt Nam theo luật VN: dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quảng cáo, bản quyền (dữ liệu, API, giấy phép thư viện), an ninh mạng, AI, game, thuế và hoá đơn. Chỉ nguồn chính thức (Công báo); số điều và mức phạt đã đối chiếu toàn văn. Không phải tư vấn pháp lý.",
+  "version": "0.1.0",
+  "author": { "name": "Tiro-dev-NT" },
+  "homepage": "https://github.com/Tiro-dev-NT/vn-legal-skills",
+  "repository": "https://github.com/Tiro-dev-NT/vn-legal-skills",
+  "license": "MIT",
+  "keywords": ["vietnam", "legal", "compliance", "privacy", "pdpl", "law-91-2025", "decree-356", "e-commerce", "tax", "checklist"]
+}
