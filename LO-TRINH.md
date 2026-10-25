@@ -12,7 +12,7 @@
 | 4 | Quảng cáo, khuyến mại | mang/04-quang-cao.md | 🟡 | toàn văn NĐ 81/2018 + sửa đổi; hộ KD theo NĐ 118/2021 |
 | 5 | Bản quyền | mang/05-ban-quyen.md | 🟡 | toàn văn VBHN Luật SHTT, NĐ 17/2023 + 134/2026 |
 | 6 | An ninh mạng, thông tin trên mạng | mang/06-an-ninh-mang.md | 🟡 | toàn văn Luật 116/2025, NĐ 331/2026; ngưỡng mạng xã hội NĐ 147 |
-| 7 | Trí tuệ nhân tạo | mang/07-tri-tue-nhan-tao.md | 🟡 | toàn văn Luật 134/2025, NĐ 142/2026 |
+| 7 | Trí tuệ nhân tạo | mang/07-tri-tue-nhan-tao.md | ✅ | chưa có nghị định xử phạt AI; Cổng một cửa AI vận hành chưa xác minh |
 | 8 | Trò chơi điện tử | mang/08-tro-choi-dien-tu.md | ✅ | NĐ 391/2026 (có thưởng) |
 | 9 | Thuế, hoá đơn điện tử | mang/09-thue-hoa-don.md | 🟡 | TT 50/2026 (ảnh quét); mức cá nhân theo Luật XLVPHC; phân loại app/khoá học |
 | 10 | Đăng ký kinh doanh, ngành nghề có điều kiện | mang/10-dang-ky-kinh-doanh.md | 🟡 | mức 'thu nhập thấp' từng tỉnh; NĐ 39/2007 còn hiệu lực?; NĐ 122/2021 chép từ ảnh quét |

@@ -19,6 +19,22 @@
 
 ---
 
+### 2026-10-25 — Sửa đọc sai: app dùng mô hình AI của bên khác là NHÀ CUNG CẤP, không chỉ bên triển khai
+- Loại: SỬA ĐỌC SAI
+- Cũ (mảng 7 trước commit này): "đa số web nhỏ dùng API thuộc nhóm bên triển khai".
+- Mới: Luật 134/2025 Điều 3 khoản 4 — nhà cung cấp là người đưa hệ thống AI ra thị trường/đưa vào sử dụng **dưới tên, thương hiệu của mình, không phụ thuộc hệ thống đó do họ tự phát triển hay do bên thứ ba phát triển**; NĐ 142/2026 Điều 12 khoản 3, Điều 16 khoản 6. Hệ quả: nghĩa vụ phân loại rủi ro, thông báo (mức trung bình, cao), đánh dấu kỹ thuật âm thanh/ảnh/video (Điều 17) áp cho app.
+- Mục ảnh hưởng: mảng 7 toàn bộ. Bản cũ: `git show 140e003:mang/07-tri-tue-nhan-tao.md`.
+
+
+### 2026-10-25 — Trí tuệ nhân tạo: Luật 134/2025 thay Chương IV Luật 71/2025; Danh mục rủi ro cao; sửa vai trò "app gọi API"
+- Loại: LUẬT ĐỔI + SỬA ĐỌC SAI + BỔ SUNG
+- **Luật đổi** — Cũ: Luật 71/2025/QH15 (Công nghiệp công nghệ số) Chương IV "Trí tuệ nhân tạo" (Điều 41–45, gồm Điều 44 dấu hiệu nhận dạng hệ thống AI), khoản 9 Điều 3, khoản 7 Điều 4, khoản 6 Điều 12, điểm đ khoản 2 Điều 34 — hết hiệu lực 01/03/2026. Mới: Luật 134/2025/QH15 (ban hành 10/12/2025, hiệu lực 01/03/2026; bãi bỏ tại Điều 33) — https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm
+- **Bổ sung** — QĐ 33/2026/QĐ-TTg Danh mục hệ thống AI có rủi ro cao (ban hành 30/06/2026, hiệu lực 15/08/2026) — https://congbao.chinhphu.vn/van-ban/quyet-dinh-so-33-2026-qd-ttg-469951/66726.htm
+- **Sửa đọc sai** — bản cũ mảng 7 ghi "đa số web nhỏ dùng API thuộc nhóm bên triển khai". Theo Luật 134/2025 Điều 3 khoản 4 (nhà cung cấp gồm cả người đưa hệ thống do bên thứ ba phát triển ra dưới thương hiệu mình) và NĐ 142/2026 Điều 12 khoản 3, app mang tính năng AI dưới tên mình thường là **nhà cung cấp** (kiêm bên triển khai) ⇒ có nghĩa vụ tự phân loại và thông báo (nếu trung bình/cao).
+- Chuyển tiếp: Luật 134/2025 Điều 35 (hệ thống hoạt động trước 01/03/2026: 18 tháng y tế/giáo dục/tài chính, 12 tháng còn lại); QĐ 33/2026 Điều 4 (hệ thống thuộc Danh mục: trước 01/09/2027 y tế/giáo dục/tài chính, trước 01/03/2027 còn lại; đưa vào hoạt động trong 6 tháng từ 15/08/2026: trước 01/03/2027).
+- Mục repo bị ảnh hưởng: mang/07 (viết lại toàn bộ; giữ mã 7.1–7.6, thêm 7.7–7.17); NGUON.md dòng Luật 134/2025, NĐ 142/2026, QĐ 33/2026 (mới), Luật 116/2025, NĐ 356/2025, BLDS 91/2015, Luật 71/2025; THU-TUC.md (dòng AI mới).
+- Bản cũ lưu ở: chưa chép sang luu-tru/ (người điều phối quyết — bản cũ còn trong git).
+
 ### 2026-10-25 — Đăng ký kinh doanh, danh mục ngành nghề có điều kiện, hệ thống ngành kinh tế
 - Loại: LUẬT ĐỔI (ghi lại khi lập mảng 10)
 - **Đăng ký doanh nghiệp, hộ kinh doanh** — Cũ: NĐ 01/2021/NĐ-CP (hết hiệu lực 01/07/2025). Mới: NĐ 168/2025/NĐ-CP (ban hành 30/06/2025, hiệu lực 01/07/2025; thay tại Điều 124 khoản 2), sửa bởi NĐ 296/2026/NĐ-CP (hiệu lực 23/07/2026: đăng ký hộ kinh doanh ở cấp xã, nộp qua Cổng dịch vụ công quốc gia / Ứng dụng định danh quốc gia). Nguồn: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-168-2025-nd-cp-45354.htm · https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-296-2026-nd-cp-470177/67429.htm

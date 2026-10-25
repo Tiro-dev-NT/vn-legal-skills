@@ -60,8 +60,8 @@
 | NĐ 17/2023/NĐ-CP + NĐ 134/2026/NĐ-CP | Hướng dẫn Luật SHTT về quyền tác giả, quyền liên quan (NĐ 134/2026 sửa NĐ 17/2023) | 06/04/2026 (NĐ 134) | 09/04/2026 (NĐ 134) | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=217833&pageid=27160) | số+ngày (NĐ 134) |
 | BLDS 91/2015/QH13 | Bộ luật Dân sự — hợp đồng, trách nhiệm do vi phạm nghĩa vụ | 24/11/2015 | 01/01/2017 | [vbpl.vn](https://vbpl.vn) | **toàn văn**: Điều 117, 351, 360, 385, 419 |
 | NĐ 341/2025/NĐ-CP | Xử phạt VPHC về quyền tác giả, quyền liên quan (4 chương 65 điều) | 26/12/2025 | 15/02/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216404&orggroupid=2&pageid=27160) · [cov.gov.vn](https://cov.gov.vn/tin-tuc/gioi-thieu-nghi-dinh-so-3412025ndcp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-quyen-tac-gia-quyen-lien-quan-168844.html) | **toàn văn**: Điều 5, 7, 15, 16, 41, 63 |
-| NĐ 142/2026/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật Trí tuệ nhân tạo | 30/04/2026 | 01/05/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=218029&orggroupid=2&pageid=27160) | số+ngày |
-| Luật 134/2025/QH15 | Luật Trí tuệ nhân tạo | 10/12/2025 | 01/03/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216334&classid=1&typegroupid=3) | số+ngày |
+| NĐ 142/2026/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật Trí tuệ nhân tạo | 30/04/2026 | 01/05/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=218029&orggroupid=2&pageid=27160) | **toàn văn** (Công báo DOCX): Điều 6, 9, 11, 12, 14, 16–19 |
+| Luật 134/2025/QH15 | Luật Trí tuệ nhân tạo | 10/12/2025 | 01/03/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216334&classid=1&typegroupid=3) | **toàn văn**: Điều 3, 7, 10, 11, 29, 33, 35 |
 
 ## Trò chơi điện tử
 
@@ -149,6 +149,12 @@
 | NĐ 01/2021/NĐ-CP | Đăng ký doanh nghiệp cũ — **đã bị thay** bởi NĐ 168/2025 (Điều 124 khoản 2) | 04/01/2021 | hết hiệu lực 01/07/2025 | — | toàn văn (Điều 124 NĐ 168) |
 | Luật 61/2020/QH14 | Luật Đầu tư cũ — **đã bị thay** bởi Luật 143/2025 (Điều 51 khoản 4); Điều 7 và Phụ lục IV cũ hết hiệu lực 01/07/2026 | — | hết hiệu lực 01/03/2026 | — | toàn văn (Điều 51 Luật 143) |
 | QĐ 27/2018/QĐ-TTg | Hệ thống ngành kinh tế cũ — **đã bị thay** bởi QĐ 36/2025 (Điều 4 khoản 2) | 06/07/2018 | hết hiệu lực 15/11/2025 | — | toàn văn (Điều 4 QĐ 36) |
+
+## Sở hữu trí tuệ · trí tuệ nhân tạo  (mục đang có trong NGUON.md)
+
+| Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
+|---|---|---|---|---|---|
+| QĐ 33/2026/QĐ-TTg | Ban hành Danh mục hệ thống trí tuệ nhân tạo có rủi ro cao (46 hệ thống, 6 lĩnh vực) | 30/06/2026 | 15/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/quyet-dinh-so-33-2026-qd-ttg-469951/66726.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218658&classid=1&typegroupid=5) | **toàn văn**: Điều 1–4, Phụ lục (mục I giáo dục trích; đếm 46 dòng) |
 
 ## Chưa có trong bộ nguồn (cần bổ sung)
 
