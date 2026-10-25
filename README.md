@@ -1,5 +1,7 @@
 # vn-legal-skills
 
+![vn-legal-skills — Rà luật Việt Nam cho web/app bằng AI](assets/banner.png)
+
 Bộ skill + checklist giúp AI (Claude Code, Codex, Cursor…) **rà một web/app nhỏ ở Việt Nam theo luật VN**:
 dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quảng cáo, bản quyền, an ninh mạng, AI, trò chơi điện tử, thuế và hoá đơn.
 
