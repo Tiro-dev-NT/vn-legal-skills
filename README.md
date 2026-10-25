@@ -9,6 +9,25 @@ dữ liệu cá nhân, người tiêu dùng, thương mại điện tử, quản
 > việc có rủi ro tiền/phạt ⇒ hỏi luật sư. Dùng repo = chấp nhận **[MIEN-TRU-TRACH-NHIEM.md](MIEN-TRU-TRACH-NHIEM.md)**.
 > Luật cập nhật tới: **2026-10-24** (xem [NGUON.md](NGUON.md)).
 
+## Skill hoạt động thế nào
+
+```mermaid
+flowchart LR
+    A["Dự án của bạn<br/>(mã, trang, cấu hình)"] --> B["AI đọc skill<br/>vn-legal-check"]
+    B --> C{"Phân loại<br/>chủ thể · tính năng"}
+    C --> D1["Dữ liệu cá nhân"]
+    C --> D2["TMĐT · người tiêu dùng"]
+    C --> D3["Quảng cáo · bản quyền"]
+    C --> D4["Thuế · game · AI · an ninh mạng"]
+    D1 & D2 & D3 & D4 --> E["Đối chiếu mang/*.md<br/>+ NGUON.md (Công báo)"]
+    E --> F["Báo cáo<br/>thiếu gì · file:dòng · căn cứ · mức phạt"]
+    E --> G["Thủ tục phải làm<br/>(THU-TUC.md)"]
+    F --> H["Bạn tự kiểm + hỏi luật sư<br/>khi có rủi ro"]
+    G --> H
+```
+
+**Ví dụ một dòng báo cáo:** "Ô đồng ý nhận email đang tick sẵn — `signup.js:42` — NĐ 330/2026 Điều 43 khoản 1 điểm c — 30–50 triệu (tổ chức; cá nhân/hộ kinh doanh một nửa)."
+
 ## Luật nguồn
 
 - Mọi văn bản dẫn tới **cổng chính thức của Nhà nước** (Công báo, vanban.chinhphu.vn, vbpl.vn, *.gov.vn). Không dùng trang tổng hợp tư nhân.
