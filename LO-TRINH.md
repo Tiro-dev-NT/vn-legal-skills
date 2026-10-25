@@ -15,7 +15,7 @@
 | 7 | Trí tuệ nhân tạo | mang/07-tri-tue-nhan-tao.md | 🟡 | toàn văn Luật 134/2025, NĐ 142/2026 |
 | 8 | Trò chơi điện tử | mang/08-tro-choi-dien-tu.md | ✅ | NĐ 391/2026 (có thưởng) |
 | 9 | Thuế, hoá đơn điện tử | mang/09-thue-hoa-don.md | 🟡 | TT 50/2026 (ảnh quét); mức cá nhân theo Luật XLVPHC; phân loại app/khoá học |
-| 10 | Đăng ký kinh doanh, ngành nghề có điều kiện | — | ☐ | |
+| 10 | Đăng ký kinh doanh, ngành nghề có điều kiện | mang/10-dang-ky-kinh-doanh.md | 🟡 | mức 'thu nhập thấp' từng tỉnh; NĐ 39/2007 còn hiệu lực?; NĐ 122/2021 chép từ ảnh quét |
 | 11 | Thanh toán, ví điện tử, tài sản mã hoá | mang/11-thanh-toan.md | 🟡 | credit nội bộ, PayPal/Stripe, nhận crypto: văn bản không rõ — cần luật sư; NĐ 70/2014 chưa đọc |
 | 12 | Sở hữu công nghiệp (nhãn hiệu, tên thương mại, tên miền) | — | ☐ | |
 | 13 | Viễn thông, tên miền .vn, trung tâm dữ liệu/cloud | — | ☐ | |

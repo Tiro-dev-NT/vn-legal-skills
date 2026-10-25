@@ -19,6 +19,17 @@
 
 ---
 
+### 2026-10-25 — Đăng ký kinh doanh, danh mục ngành nghề có điều kiện, hệ thống ngành kinh tế
+- Loại: LUẬT ĐỔI (ghi lại khi lập mảng 10)
+- **Đăng ký doanh nghiệp, hộ kinh doanh** — Cũ: NĐ 01/2021/NĐ-CP (hết hiệu lực 01/07/2025). Mới: NĐ 168/2025/NĐ-CP (ban hành 30/06/2025, hiệu lực 01/07/2025; thay tại Điều 124 khoản 2), sửa bởi NĐ 296/2026/NĐ-CP (hiệu lực 23/07/2026: đăng ký hộ kinh doanh ở cấp xã, nộp qua Cổng dịch vụ công quốc gia / Ứng dụng định danh quốc gia). Nguồn: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-168-2025-nd-cp-45354.htm · https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-296-2026-nd-cp-470177/67429.htm
+- **Luật Đầu tư** — Cũ: Luật 61/2020/QH14 (hết hiệu lực 01/03/2026; Điều 7 và Phụ lục IV cũ hết 01/07/2026). Mới: Luật 143/2025/QH15 (ban hành 11/12/2025, hiệu lực 01/03/2026; Điều 7 + Phụ lục IV — 198 ngành — từ 01/07/2026; Điều 51 khoản 4). Nguồn: https://congbao.chinhphu.vn/van-ban/luat-so-143-2025-qh15-468703.htm
+- **Danh mục ngành nghề có điều kiện (ba lớp)** — (1) 01/07/2026 – 28/02/2027: **NQ 66.17/2026/NQ-CP** (ban hành 15/05/2026) — Danh mục **142** ngành, ưu tiên áp dụng (Điều 6 khoản 3). (2) Từ **01/03/2027**: **Luật 24/2026/QH16** (ban hành 24/08/2026) thay Phụ lục IV bằng Danh mục **137** ngành. Ra khỏi danh mục từ 01/07/2026: nội dung thông tin trên mạng, trò chơi điện tử (dòng 172 gốc), tên miền, dịch vụ kế toán…; "mạng xã hội" và "trò chơi trên mạng viễn thông, mạng Internet" vẫn còn. Nguồn: https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-6617-2026-nq-cp-469565.htm · https://congbao.chinhphu.vn/van-ban/luat-so-24-2026-qh16-470458.htm
+- Chuyển tiếp: NQ 66.17/2026 Điều 5 (giấy phép đã cấp cho ngành bị cắt được dùng đến hết hạn); Luật 24/2026 Điều 3 khoản 3 (ngành bị bãi bỏ: được kinh doanh không cần đáp ứng điều kiện; giấy tờ đã cấp dùng đến hết hạn; hồ sơ đang xử lý bị trả lại); Điều 2 khoản 3 (bộ quy định phương án quản lý thay thế trước 01/03/2027).
+- **Hệ thống ngành kinh tế (mã ngành)** — Cũ: QĐ 27/2018/QĐ-TTg (hết hiệu lực 15/11/2025). Mới: QĐ 36/2025/QĐ-TTg (ban hành 29/09/2025, hiệu lực 15/11/2025; Điều 4 khoản 2). Mã 6201, 6312 không có trong Danh mục QĐ 36/2025 (đã tìm, 0 kết quả; nội dung QĐ 27/2018 chưa đọc); lập trình nay là 6219, xuất bản phần mềm 5829, hạ tầng/xử lý dữ liệu 6310. Nguồn: https://congbao.chinhphu.vn/van-ban/quyet-dinh-so-36-2025-qd-ttg-46315/59210.htm
+- **Xử phạt đăng ký doanh nghiệp** — NĐ 122/2021/NĐ-CP sửa bởi NĐ 288/2026/NĐ-CP (hiệu lực 21/07/2026): tăng mức Điều 43 (kê khai không trung thực: 30–70 triệu), Điều 44 (không thông báo thay đổi: 30–70 triệu; trễ hạn theo bậc), Điều 48. Điều 46 khoản 4 và Điều 62 (hộ kinh doanh) không đổi. Nguồn: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-288-2026-nd-cp-470148.htm
+- Mục repo bị ảnh hưởng: mang/10 (mới); THU-TUC.md dòng T0; NGUON.md dòng NĐ 168/2025 (chuyển mục, thêm ngày/link).
+- Bản cũ lưu ở: không có (mảng mới, chưa thay nội dung cũ).
+
 ### 2026-10-25 — Thanh toán, xử phạt tiền tệ ngân hàng: văn bản đã bị thay trước ngày lập mảng 11
 - Loại: LUẬT ĐỔI (ghi lại lịch sử có sẵn)
 

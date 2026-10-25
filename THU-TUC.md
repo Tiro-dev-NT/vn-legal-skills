@@ -8,7 +8,7 @@
 
 | # | Khi nào | Thủ tục | Cơ quan / nơi làm | Căn cứ trong repo |
 |---|---|---|---|---|
-| T0 | Có thu tiền thường xuyên | Xác định chủ thể kinh doanh (hộ kinh doanh / doanh nghiệp) — đăng ký kinh doanh **chưa có trong bộ nguồn** (lộ trình mảng 10) | cơ quan đăng ký kinh doanh | hỏi luật sư/kế toán |
+| T0 | Có thu tiền thường xuyên (bán gói, phần mềm, khoá học, dịch vụ) | **Đăng ký hộ kinh doanh** (giấy đề nghị đăng ký hộ kinh doanh; hạn cấp 03 ngày làm việc) **hoặc đăng ký doanh nghiệp**; giấy chứng nhận đồng thời là đăng ký thuế | Hộ kinh doanh: cơ quan đăng ký kinh doanh cấp xã (nộp ở xã bất kỳ trong tỉnh nơi đặt trụ sở; trực tiếp, bưu chính hoặc qua Cổng dịch vụ công quốc gia). Doanh nghiệp: cơ quan đăng ký kinh doanh thuộc Sở Tài chính; qua mạng tại dangkykinhdoanh.gov.vn | mảng 10.1, 10.2, 10.3 |
 | T0a | Có thu tiền | **Đăng ký thuế** | Cơ quan thuế | mảng 9.1 |
 | T0b | Hộ/cá nhân kinh doanh, doanh thu năm ≤ 01 tỷ | **Thông báo doanh thu thực tế** năm theo mẫu TT 18/2026 | Cơ quan thuế | mảng 9.2 |
 | T0c | Hộ/cá nhân kinh doanh, doanh thu năm > 01 tỷ | **Khai thuế** theo quý/tháng; **dùng hoá đơn điện tử** có mã hoặc từ máy tính tiền | Cơ quan thuế | mảng 9.2, 9.4 |
@@ -35,6 +35,8 @@
 | T14 | **Tự cung ứng** ví điện tử / cổng thanh toán / hỗ trợ thu hộ, chi hộ (người dùng nạp – giữ – rút tiền, hoặc tiền người khác đi qua bạn) | Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán — chủ thể là tổ chức có đăng ký doanh nghiệp, vốn điều lệ tối thiểu 50 tỷ, đề án, an toàn hệ thống thông tin cấp độ 3; thẩm định 90 ngày làm việc; giấy phép 10 năm. **Web/app nhỏ: thường dùng đối tác có phép thay vì xin** | Ngân hàng Nhà nước — Bộ phận Một cửa / Cổng dịch vụ công NHNN / Cổng dịch vụ công quốc gia | mảng 11.1, 11.2, 11.3 |
 | T15 | Muốn **giữ ngoại tệ** thu từ xuất khẩu dịch vụ **ở nước ngoài** (không chuyển về tài khoản ngoại tệ ở ngân hàng Việt Nam) · tổ chức mở tài khoản ngoại tệ ở nước ngoài | Xin NHNN cho phép (Pháp lệnh Ngoại hối Điều 7 khoản 2) · giấy phép mở tài khoản ngoại tệ ở nước ngoài (Điều 23 khoản 3) — có áp cho số dư PayPal/Stripe không: **chưa rõ, hỏi luật sư** | Ngân hàng Nhà nước | mảng 11.10 |
 | T16 | Cung cấp dịch vụ **tài sản mã hoá** (sàn, tự doanh, lưu ký, nền tảng phát hành) | Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hoá — doanh nghiệp Việt Nam, vốn điều lệ đã góp tối thiểu 10.000 tỷ | Bộ Tài chính (NQ 05/2025 Điều 8, 10) | mảng 11.13 |
+| T0e | Thêm/đổi ngành nghề, tên, địa chỉ… (vd ra mắt tính năng thuộc ngành khác) | Doanh nghiệp **thông báo thay đổi**; hộ kinh doanh **đăng ký thay đổi** — trong **10 ngày** | Cơ quan đăng ký kinh doanh đã cấp | mảng 10.6 |
+| T0f | Có tính năng thuộc **danh mục ngành nghề kinh doanh có điều kiện** (mạng xã hội, game qua mạng, trung gian thanh toán, dữ liệu…) | Đáp ứng điều kiện / xin giấy phép, chứng nhận theo luật chuyên ngành **trước khi** kinh doanh ngành đó | Cơ quan chuyên ngành của từng ngành (xem mảng tương ứng) | mảng 10.7, 10.8 |
 
 ## Cách skill dùng bảng này
 
