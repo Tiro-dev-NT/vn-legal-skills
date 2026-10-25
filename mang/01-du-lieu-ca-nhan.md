@@ -24,6 +24,7 @@
 | 1.9 | **Cookie/analytics**: dữ liệu theo dõi dùng cho quảng cáo theo hành vi/cá nhân hoá cần đồng ý — [luật]. Phân loại từng cookie theo dữ liệu + mục đích + căn cứ; "cần thiết" không tự là ngoại lệ, phải có căn cứ xử lý. Thiết kế banner — [khuyến nghị] | [luật] + [khuyến nghị] | `gtag`, `fbq`, `mixpanel`, pixel; banner cookie |
 | 1.10 | **Vi phạm/sự cố DLCN** có thể gây tổn hại (an ninh, trật tự, tính mạng, sức khoẻ, danh dự, tài sản của chủ thể) ⇒ **thông báo cơ quan chuyên trách chậm nhất 72 giờ**; nội dung thông báo theo NĐ 356 Điều 28 | [luật] Luật 91/2025 Điều 23; NĐ 356/2025 Điều 28 | tài liệu vận hành; nhật ký sự cố |
 | 1.11 | **Không ghi dữ liệu cá nhân vào URL / log công khai** | [khuyến nghị] | `?email=`, `console.log(user` |
+| 1.12 | **Cào dữ liệu cá nhân từ nơi khác** (hồ sơ, bình luận, ảnh, số điện thoại trên mạng xã hội, diễn đàn, sàn): dữ liệu "công khai trên mạng" **vẫn là dữ liệu cá nhân**; thu thập rồi xử lý khi chưa có đồng ý của chủ thể là vi phạm, và **không có miễn trừ vì mục đích phi thương mại hay "làm cho vui"**. Bán, mua hay trao đổi danh sách đó là hành vi mua bán DLCN (mức phạt tối đa 10 lần khoản thu). Kèm theo là vi phạm điều khoản của nền tảng (xem 5.9) | [luật] Luật 91/2025 Điều 8 khoản 3 (mua bán DLCN); NĐ 330/2026 Điều 39 khoản 1 điểm a, Điều 43 khoản 1 điểm a | crawler nhắm mạng xã hội; bảng lưu hồ sơ/bình luận/số điện thoại của người không phải người dùng của mình |
 
 ## Mức phạt (NĐ 330/2026/NĐ-CP — đã đối chiếu toàn văn Công báo)
 
