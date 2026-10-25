@@ -16,7 +16,7 @@
 | 8 | Trò chơi điện tử | mang/08-tro-choi-dien-tu.md | ✅ | NĐ 391/2026 (có thưởng) |
 | 9 | Thuế, hoá đơn điện tử | mang/09-thue-hoa-don.md | 🟡 | TT 50/2026 (ảnh quét); mức cá nhân theo Luật XLVPHC; phân loại app/khoá học |
 | 10 | Đăng ký kinh doanh, ngành nghề có điều kiện | — | ☐ | |
-| 11 | Thanh toán, ví điện tử, tài sản mã hoá | — | ☐ | |
+| 11 | Thanh toán, ví điện tử, tài sản mã hoá | mang/11-thanh-toan.md | 🟡 | credit nội bộ, PayPal/Stripe, nhận crypto: văn bản không rõ — cần luật sư; NĐ 70/2014 chưa đọc |
 | 12 | Sở hữu công nghiệp (nhãn hiệu, tên thương mại, tên miền) | — | ☐ | |
 | 13 | Viễn thông, tên miền .vn, trung tâm dữ liệu/cloud | — | ☐ | |
 | 14 | Báo chí, xuất bản | — | ☐ | |
@@ -33,6 +33,8 @@ Tiêu chí (đo được, không cảm tính): văn bản trong [NGUON.md](NGUON
 
 | Văn bản | Hiệu lực | Siết gì | Mảng |
 |---|---|---|---|
+| NĐ 284/2026/NĐ-CP | 01/09/2026 | xử phạt tài sản mã hoá: dịch vụ/quảng cáo crypto không phép 180–200 triệu (mức tổ chức) | 11 |
+| NĐ 340/2025/NĐ-CP | 09/02/2026 | xử phạt tiền tệ ngân hàng mới: tự cung ứng dịch vụ thanh toán 250–300 triệu, báo giá ngoại tệ sai 30–50 triệu (mức cá nhân) | 11 |
 | NĐ 363/2026/NĐ-CP | **11/11/2026 (sắp)** | xử phạt lĩnh vực dữ liệu: cào dữ liệu bằng công cụ tự động trái phép 40–60 triệu, trích xuất qua API trái phép 80–100 triệu, dùng/cho mượn khoá truy cập 20–40 triệu (mức cá nhân) | 1, 5 |
 | NĐ 291/2026/NĐ-CP | 21/07/2026 | sửa xử phạt thuế | 9 |
 | NĐ 254/2026/NĐ-CP + TT 91/2026 | 01/07/2026 | hoá đơn điện tử mới, thay NĐ 123/2020 | 9 |

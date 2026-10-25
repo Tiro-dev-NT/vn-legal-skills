@@ -59,6 +59,7 @@ mang/                            mỗi mảng một tệp: áp khi nào · việ
   07-tri-tue-nhan-tao.md
   08-tro-choi-dien-tu.md
   09-thue-hoa-don.md
+  11-thanh-toan.md
 kiem-thu/                        bộ câu hỏi kiểm thử skill (có / không có skill)
 .claude-plugin/                  đóng gói plugin Claude Code
 trich-dan/                       đoạn trích NGUYÊN VĂN từ PDF Công báo (bằng chứng cho số điều, mức phạt)

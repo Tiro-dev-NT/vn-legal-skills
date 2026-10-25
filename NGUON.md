@@ -101,7 +101,7 @@
 | NĐ 102/2021/NĐ-CP | Sửa NĐ 125/2020 | 16/11/2021 | 01/01/2022 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | số+ngày |
 | NĐ 126/2020/NĐ-CP | Hướng dẫn Luật Quản lý thuế 38/2019 (sửa bởi NĐ 373/2025) — tình trạng sau 01/07/2026 **chưa xác minh** | 19/10/2020 | 05/12/2020 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | chưa |
 | NĐ 123/2020 · NĐ 70/2025 · TT 32/2025 | Hoá đơn, chứng từ cũ — **đã bị thay** bởi NĐ 254/2026 (Điều 43) và TT 91/2026 | — | hết hiệu lực 01/07/2026 | — | toàn văn (Điều 43 NĐ 254) |
-| Luật 71/2025/QH15 | Luật Công nghiệp công nghệ số (định nghĩa sản phẩm phần mềm, dịch vụ công nghệ số; bãi bỏ khoản 9–12 Điều 4 Luật CNTT 2006) | — | 01/01/2026 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 13, 49 khoản 1 |
+| Luật 71/2025/QH15 | Luật Công nghiệp công nghệ số (định nghĩa sản phẩm phần mềm, dịch vụ công nghệ số; bãi bỏ khoản 9–12 Điều 4 Luật CNTT 2006) | — | 01/01/2026 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 13, 46–48, 49 khoản 1, 50 |
 | NĐ 168/2025/NĐ-CP | Đăng ký doanh nghiệp (sửa bởi NĐ 296/2026) — đọc để kiểm quy định chuyển hộ lên doanh nghiệp | 2025 | — | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | toàn văn đã đọc, không thấy quy định bắt buộc theo doanh thu |
 | NQ 198/2025/QH15 | Nghị quyết về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân | — | Công báo số 713+714 ngày 29/05/2025 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 10 |
 | VBHN 113/2026 | Hợp nhất Luật Thuế thu nhập doanh nghiệp | 2026 | — | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 12–15, 18 (văn bản ghi hiệu lực 01/10/2026, luật gốc 01/10/2025 — nghi lỗi in) |
@@ -109,6 +109,28 @@
 | Luật 38/2019/QH14 | Luật Quản lý thuế cũ — **đã bị thay** bởi Luật 108/2025 (Điều 52); thuế khoán (Điều 51) hết từ 01/01/2026 | — | hết hiệu lực 01/07/2026 | — | toàn văn (Điều 52 Luật 108) |
 | TT 40/2021 · TT 100/2021 | Thuế hộ kinh doanh cũ — **đã bị thay** bởi TT 18/2026 | — | — | — | toàn văn (Điều 9 TT 18) |
 | Luật 04/2007/QH12 | Luật Thuế TNCN cũ — **đã bị thay** bởi Luật 109/2025 | — | — | — | theo bản trích |
+
+## Mảng 11
+
+| Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
+|---|---|---|---|---|---|
+| NĐ 52/2024/NĐ-CP | Thanh toán không dùng tiền mặt (thay NĐ 101/2012, NĐ 80/2016) | 15/05/2024 | 01/07/2024 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-52-2024-nd-cp-41938.htm) | **toàn văn**: Điều 3, 5, 6, 8, 17, 18, 22–24, 37 |
+| TT 40/2024/TT-NHNN | Hoạt động cung ứng dịch vụ trung gian thanh toán (sửa bởi TT 41/2025, TT 22/2026) | 17/07/2024 | 17/07/2024 | [Công báo](https://congbao.chinhphu.vn/van-ban/thong-tu-so-40-2024-tt-nhnn-42371.htm) | **toàn văn**: Điều 6, 7 (đã đọc danh sách điều sửa của TT 41/2025, TT 22/2026: không sửa Điều 6, 7) |
+| TT 41/2025/TT-NHNN | Sửa TT 40/2024 | 05/11/2025 | 05/11/2025 (một số điều 01/01/2026) | [Công báo](https://congbao.chinhphu.vn/van-ban/thong-tu-so-41-2025-tt-nhnn-46540.htm) | số+ngày; đã đọc danh sách điều sửa |
+| TT 22/2026/TT-NHNN | Sửa TT 40/2024 (Điều 41–43, 51) | 19/05/2026 | 19/05/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/thong-tu-so-22-2026-tt-nhnn-469607.htm) | số+ngày; đã đọc danh sách điều sửa |
+| TT 15/2024/TT-NHNN | Cung ứng dịch vụ thanh toán không dùng tiền mặt | 2024 | — | [Công báo](https://congbao.chinhphu.vn/van-ban/thong-tu-so-15-2024-tt-nhnn-42185.htm) | chưa |
+| Luật 32/2024/QH15 | Luật Các tổ chức tín dụng (sửa bởi Luật 43/2024/QH15, Luật 96/2025/QH15; hợp nhất 158/VBHN-VPQH) | 18/01/2024 | 01/07/2024 | [Công báo — VBHN 158](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-158-vbhn-vpqh-46225.htm) | **toàn văn** (bản hợp nhất): Điều 4 khoản 4, 17; Điều 5; Điều 15 |
+| Luật 43/2024/QH15 | Sửa Luật Đất đai, Nhà ở, Kinh doanh BĐS và Luật Các tổ chức tín dụng | 29/06/2024 | 01/08/2024 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-43-2024-qh15-42578.htm) | số+ngày (theo VBHN 158) |
+| Luật 96/2025/QH15 | Sửa Luật Các tổ chức tín dụng | 27/06/2025 | 15/10/2025 | [Công báo — VBHN 158](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-158-vbhn-vpqh-46225.htm) | số+ngày (theo VBHN 158) |
+| Pháp lệnh 28/2005/PL-UBTVQH11 | Pháp lệnh Ngoại hối (sửa bởi Pháp lệnh 06/2013/UBTVQH13; hợp nhất 07/VBHN-VPQH) | 13/12/2005 | 01/06/2006 (bản sửa: 01/01/2014) | [Công báo — VBHN 07](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-07-vbhn-vpqh-7075.htm) | **toàn văn** (bản hợp nhất 2013): Điều 4, 6, 7, 8, 22, 23, 24, 43; chưa kiểm văn bản sửa sau 2013 |
+| TT 32/2013/TT-NHNN | Hạn chế sử dụng ngoại hối trên lãnh thổ Việt Nam (sửa bởi TT 16/2015/TT-NHNN, TT 03/2019/TT-NHNN; hợp nhất 14/VBHN-NHNN) | 26/12/2013 | 10/02/2014 | [Công báo](https://congbao.chinhphu.vn/van-ban/thong-tu-so-32-2013-tt-nhnn-2782.htm) · [VBHN 14](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-14-vbhn-nhnn-28835.htm) | **toàn văn** (bản hợp nhất 2019): Điều 3, 4 khoản 16, 17, Điều 4a; chưa kiểm văn bản sửa sau 2019 |
+| NĐ 70/2014/NĐ-CP | Hướng dẫn Pháp lệnh Ngoại hối | 2014 | — | [vbpl.vn](https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=36831) | chưa |
+| NQ 05/2025/NQ-CP | Triển khai thí điểm thị trường tài sản mã hoá tại Việt Nam (thí điểm 5 năm) | 09/09/2025 | 09/09/2025 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-quyet-so-05-2025-nq-cp-46208.htm) | **toàn văn**: Điều 3, 4, 5, 6, 7, 8, 18 |
+| NĐ 340/2025/NĐ-CP | Xử phạt VPHC lĩnh vực tiền tệ và ngân hàng (thay NĐ 88/2019, NĐ 143/2021) | 25/12/2025 | 09/02/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-340-2025-nd-cp-468081.htm) | **toàn văn**: Điều 2, 5, 7, 27, 30, 31, 72 |
+| NĐ 284/2026/NĐ-CP | Xử phạt VPHC về tài sản mã hoá và thị trường tài sản mã hoá | 16/07/2026 | 01/09/2026 (đến khi NQ 05/2025 hết hiệu lực) | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-284-2026-nd-cp-470114.htm) | **toàn văn**: Điều 1–4, 6–11, 21, 22 |
+| NĐ 88/2019 · NĐ 143/2021 | Xử phạt tiền tệ, ngân hàng cũ — **đã bị thay** bởi NĐ 340/2025 (Điều 72 khoản 2) | — | hết hiệu lực 09/02/2026 | — | toàn văn (Điều 72 NĐ 340) |
+| NĐ 23/2023/NĐ-CP | Sửa NĐ 89/2016 và NĐ 88/2019 — Điều 2, Điều 3 **đã bị bãi bỏ** bởi NĐ 340/2025 (Điều 72 khoản 3) | 12/05/2023 | — | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-23-2023-nd-cp-39321.htm) | toàn văn (Điều 72 NĐ 340) |
+| NĐ 101/2012 · NĐ 80/2016 | Thanh toán không dùng tiền mặt cũ — **đã bị thay** bởi NĐ 52/2024 (Điều 37 khoản 2) | — | hết hiệu lực 01/07/2024 | — | toàn văn (Điều 37 NĐ 52) |
 
 ## Chưa có trong bộ nguồn (cần bổ sung)
 

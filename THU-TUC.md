@@ -32,6 +32,9 @@
 | T12 | Dùng **ảnh, nhạc, font, nội dung của người khác** | Xin phép / mua giấy phép; lưu bằng chứng | Chủ sở hữu quyền | mảng 5.1–5.3 |
 | T12a | Dùng **dữ liệu/API của bên khác** cho sản phẩm thu tiền | Mua gói thương mại / ký hợp đồng cấp phép dữ liệu; lưu bản điều khoản | Bên cung cấp dữ liệu | mảng 5.8, 5.12 |
 | T13 | **Email/SMS quảng cáo** | Thủ tục theo NĐ 91/2020 với từng kênh (nếu thuộc diện) | đọc NĐ 91/2020 | mảng 4.6 |
+| T14 | **Tự cung ứng** ví điện tử / cổng thanh toán / hỗ trợ thu hộ, chi hộ (người dùng nạp – giữ – rút tiền, hoặc tiền người khác đi qua bạn) | Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán — chủ thể là tổ chức có đăng ký doanh nghiệp, vốn điều lệ tối thiểu 50 tỷ, đề án, an toàn hệ thống thông tin cấp độ 3; thẩm định 90 ngày làm việc; giấy phép 10 năm. **Web/app nhỏ: thường dùng đối tác có phép thay vì xin** | Ngân hàng Nhà nước — Bộ phận Một cửa / Cổng dịch vụ công NHNN / Cổng dịch vụ công quốc gia | mảng 11.1, 11.2, 11.3 |
+| T15 | Muốn **giữ ngoại tệ** thu từ xuất khẩu dịch vụ **ở nước ngoài** (không chuyển về tài khoản ngoại tệ ở ngân hàng Việt Nam) · tổ chức mở tài khoản ngoại tệ ở nước ngoài | Xin NHNN cho phép (Pháp lệnh Ngoại hối Điều 7 khoản 2) · giấy phép mở tài khoản ngoại tệ ở nước ngoài (Điều 23 khoản 3) — có áp cho số dư PayPal/Stripe không: **chưa rõ, hỏi luật sư** | Ngân hàng Nhà nước | mảng 11.10 |
+| T16 | Cung cấp dịch vụ **tài sản mã hoá** (sàn, tự doanh, lưu ký, nền tảng phát hành) | Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hoá — doanh nghiệp Việt Nam, vốn điều lệ đã góp tối thiểu 10.000 tỷ | Bộ Tài chính (NQ 05/2025 Điều 8, 10) | mảng 11.13 |
 
 ## Cách skill dùng bảng này
 

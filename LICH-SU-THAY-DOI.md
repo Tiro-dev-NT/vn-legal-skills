@@ -19,6 +19,18 @@
 
 ---
 
+### 2026-10-25 — Thanh toán, xử phạt tiền tệ ngân hàng: văn bản đã bị thay trước ngày lập mảng 11
+- Loại: LUẬT ĐỔI (ghi lại lịch sử có sẵn)
+
+| Cũ | Mới | Ngày hiệu lực | Căn cứ thay | Chuyển tiếp | Mục ảnh hưởng |
+|---|---|---|---|---|---|
+| NĐ 88/2019/NĐ-CP (xử phạt VPHC tiền tệ, ngân hàng) + NĐ 143/2021/NĐ-CP (sửa NĐ 88) | NĐ 340/2025/NĐ-CP | 09/02/2026 | NĐ 340/2025 Điều 72 khoản 2 | Quyết định xử phạt ban hành trước 09/02/2026 còn khiếu nại ⇒ áp quy định tại thời điểm ra quyết định (Điều 73) | mảng 11 — Mức phạt |
+| NĐ 23/2023/NĐ-CP — Điều 2, Điều 3 (sửa NĐ 88/2019) | bãi bỏ | 09/02/2026 | NĐ 340/2025 Điều 72 khoản 3 | — | mảng 11 — Mức phạt |
+| NĐ 101/2012/NĐ-CP (thanh toán không dùng tiền mặt) + NĐ 80/2016/NĐ-CP (sửa NĐ 101) | NĐ 52/2024/NĐ-CP | 01/07/2024 | NĐ 52/2024 Điều 37 khoản 2 (cũng bãi bỏ Điều 3 NĐ 16/2019) | Giấy phép trung gian thanh toán cấp trước 01/07/2024 dùng tới hết hạn (Điều 36 khoản 5) | mảng 11.1–11.3 |
+
+Ghi chú: tài liệu, điều khoản sử dụng còn dẫn "NĐ 101/2012" (thanh toán) hay "NĐ 88/2019" (mức phạt) là đã cũ.
+
+
 ### 2026-10-24 — Khởi tạo bộ nguồn: ghi nhận các văn bản đã bị thay trước ngày lập repo
 - Loại: LUẬT ĐỔI (ghi lại lịch sử có sẵn)
 - **Dữ liệu cá nhân** — Cũ: NĐ 13/2023/NĐ-CP. Mới: Luật 91/2025/QH15 (hiệu lực 01/01/2026) + NĐ 356/2025/NĐ-CP (hiệu lực 01/01/2026); xử phạt riêng NĐ 330/2026/NĐ-CP (hiệu lực 19/08/2026). Tài liệu nào còn dẫn NĐ 13/2023 là đã cũ. Mục ảnh hưởng: mảng 1.
