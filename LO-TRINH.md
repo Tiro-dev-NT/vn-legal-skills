@@ -58,4 +58,4 @@ Bảng này chỉ để người duy trì quyết định **làm gì trước** 
 
 1. Mảng 9 Thuế, hoá đơn — đã có (🟡).
 2. Đối chiếu toàn văn phần còn 🟡 của các mảng có văn bản đang siết: 1 (Luật 91/2025, NĐ 356/2025, NĐ 363/2026) → 3 (Luật 122/2025, NĐ 248/2026) → 6 (Luật 116/2025, NĐ 331/2026) → 7 (Luật 134/2025, NĐ 142/2026) → 4 (Luật 75/2025) → 5 (Luật 131/2025).
-3. Mảng mới: 10 → 11 → 12 → 15 → 14 → 13 → 16 → 17 → 18 → 19 → 20 (trong lúc làm, mảng nào tra ra có văn bản mới siết thì đẩy lên).
+3. Mảng mới (chốt lại 25/10 theo thứ dân làm app hay cần): 11 thanh toán → 10 đăng ký kinh doanh → toàn văn mảng 7 AI → 12 nhãn hiệu → 15 giáo dục → 18 tài chính, chứng khoán → 19 tiếp thị liên kết, KOL → toàn văn TMĐT + NĐ 91/2020 → 17 → 16 → 13 → 14 → 20.
