@@ -101,6 +101,11 @@
 | NĐ 102/2021/NĐ-CP | Sửa NĐ 125/2020 | 16/11/2021 | 01/01/2022 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | số+ngày |
 | NĐ 126/2020/NĐ-CP | Hướng dẫn Luật Quản lý thuế 38/2019 (sửa bởi NĐ 373/2025) — tình trạng sau 01/07/2026 **chưa xác minh** | 19/10/2020 | 05/12/2020 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | chưa |
 | NĐ 123/2020 · NĐ 70/2025 · TT 32/2025 | Hoá đơn, chứng từ cũ — **đã bị thay** bởi NĐ 254/2026 (Điều 43) và TT 91/2026 | — | hết hiệu lực 01/07/2026 | — | toàn văn (Điều 43 NĐ 254) |
+| Luật 71/2025/QH15 | Luật Công nghiệp công nghệ số (định nghĩa sản phẩm phần mềm, dịch vụ công nghệ số; bãi bỏ khoản 9–12 Điều 4 Luật CNTT 2006) | — | 01/01/2026 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 13, 49 khoản 1 |
+| NĐ 168/2025/NĐ-CP | Đăng ký doanh nghiệp (sửa bởi NĐ 296/2026) — đọc để kiểm quy định chuyển hộ lên doanh nghiệp | 2025 | — | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | toàn văn đã đọc, không thấy quy định bắt buộc theo doanh thu |
+| NQ 198/2025/QH15 | Nghị quyết về cơ chế, chính sách đặc biệt phát triển kinh tế tư nhân | — | Công báo số 713+714 ngày 29/05/2025 | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 10 |
+| VBHN 113/2026 | Hợp nhất Luật Thuế thu nhập doanh nghiệp | 2026 | — | [congbao.chinhphu.vn](https://congbao.chinhphu.vn) | **toàn văn**: Điều 12–15, 18 (văn bản ghi hiệu lực 01/10/2026, luật gốc 01/10/2025 — nghi lỗi in) |
+| NĐ 20/2026/NĐ-CP | Hướng dẫn hỗ trợ doanh nghiệp nhỏ và vừa (miễn TNDN 3 năm DN đăng ký lần đầu) | 2026 | — | [xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn) | chưa — PDF ảnh quét, mới đọc bản tóm tắt chính thức |
 | Luật 38/2019/QH14 | Luật Quản lý thuế cũ — **đã bị thay** bởi Luật 108/2025 (Điều 52); thuế khoán (Điều 51) hết từ 01/01/2026 | — | hết hiệu lực 01/07/2026 | — | toàn văn (Điều 52 Luật 108) |
 | TT 40/2021 · TT 100/2021 | Thuế hộ kinh doanh cũ — **đã bị thay** bởi TT 18/2026 | — | — | — | toàn văn (Điều 9 TT 18) |
 | Luật 04/2007/QH12 | Luật Thuế TNCN cũ — **đã bị thay** bởi Luật 109/2025 | — | — | — | theo bản trích |
