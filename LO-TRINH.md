@@ -23,7 +23,7 @@
 | 15 | Giáo dục, đào tạo trực tuyến | — | ☐ | |
 | 16 | Lao động, cộng tác viên, hợp đồng người có ảnh hưởng | — | ☐ | |
 | 17 | Trẻ em | — | ☐ | |
-| 18 | Ngành đặc thù trên mạng (y tế, tài chính, đầu tư, pháp lý, BĐS) | — | ☐ | |
+| 18 | Ngành đặc thù trên mạng (y tế, tài chính, đầu tư, chứng khoán, pháp lý, BĐS) | — | ☐ | gồm dữ liệu thị trường chứng khoán (giấy phép phân phối), tư vấn/khuyến nghị đầu tư (điều kiện kinh doanh) — xem mảng 5.12 |
 | 19 | Livestream, quản lý người sáng tạo nội dung | — | ☐ | |
 | 20 | Hỗ trợ người khuyết tật truy cập | — | ☐ | |
 

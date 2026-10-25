@@ -30,6 +30,7 @@
 | T10 | **Mạng xã hội** / trang thông tin tổng hợp (theo định nghĩa NĐ 147/2024) | Giấy phép / thông báo theo loại và quy mô | Cơ quan quản lý thông tin trên mạng — đọc NĐ 147/2024 | mảng 6, "Phân loại trước" |
 | T11 | **Hệ thống thông tin** thuộc diện xác định cấp độ | Hồ sơ đề xuất cấp độ, thẩm định, phê duyệt | theo NĐ 331/2026 | mảng 6.6 |
 | T12 | Dùng **ảnh, nhạc, font, nội dung của người khác** | Xin phép / mua giấy phép; lưu bằng chứng | Chủ sở hữu quyền | mảng 5.1–5.3 |
+| T12a | Dùng **dữ liệu/API của bên khác** cho sản phẩm thu tiền | Mua gói thương mại / ký hợp đồng cấp phép dữ liệu; lưu bản điều khoản | Bên cung cấp dữ liệu | mảng 5.8, 5.12 |
 | T13 | **Email/SMS quảng cáo** | Thủ tục theo NĐ 91/2020 với từng kênh (nếu thuộc diện) | đọc NĐ 91/2020 | mảng 4.6 |
 
 ## Cách skill dùng bảng này

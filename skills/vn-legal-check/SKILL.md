@@ -44,7 +44,7 @@ Không tìm thấy các tệp đó ⇒ **dừng phần kết luận pháp lý**,
    |---|---|---|
    | 1 | bất kỳ dữ liệu người dùng nào (kể cả analytics, cookie) | `mang/01-du-lieu-ca-nhan.md` |
    | 2 | bán qua web/app, gói trả phí online | `mang/03-thuong-mai-dien-tu.md` |
-   | 3 | nội dung, ảnh, font, thư viện của bên khác; nội dung người dùng đăng | `mang/05-ban-quyen.md` |
+   | 3 | nội dung, ảnh, font, thư viện của bên khác; nội dung người dùng đăng | `mang/05-ban-quyen.md` (cả khi dùng **dữ liệu/API của bên khác** hay cào dữ liệu) |
    | 4 | landing, khuyến mại, quảng cáo, email/SMS marketing | `mang/04-quang-cao.md` |
    | 5 | bán hàng/dịch vụ cho người tiêu dùng | `mang/02-nguoi-tieu-dung.md` |
    | 6 | tài khoản, lưu trữ, nội dung người dùng, diễn đàn/mạng xã hội | `mang/06-an-ninh-mang.md` |
