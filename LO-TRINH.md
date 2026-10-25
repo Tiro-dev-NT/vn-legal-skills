@@ -33,7 +33,7 @@ Tiêu chí (đo được, không cảm tính): văn bản trong [NGUON.md](NGUON
 
 | Văn bản | Hiệu lực | Siết gì | Mảng |
 |---|---|---|---|
-| NĐ 363/2026/NĐ-CP | **11/11/2026 (sắp)** | xử phạt lĩnh vực dữ liệu | 1 |
+| NĐ 363/2026/NĐ-CP | **11/11/2026 (sắp)** | xử phạt lĩnh vực dữ liệu: cào dữ liệu bằng công cụ tự động trái phép 40–60 triệu, trích xuất qua API trái phép 80–100 triệu, dùng/cho mượn khoá truy cập 20–40 triệu (mức cá nhân) | 1, 5 |
 | NĐ 291/2026/NĐ-CP | 21/07/2026 | sửa xử phạt thuế | 9 |
 | NĐ 254/2026/NĐ-CP + TT 91/2026 | 01/07/2026 | hoá đơn điện tử mới, thay NĐ 123/2020 | 9 |
 | Luật 108/2025/QH15 | 01/07/2026 (một phần 01/01/2026) | Luật Quản lý thuế mới; nền tảng khấu trừ, nộp thay; trốn thuế 1–3 lần | 9 |

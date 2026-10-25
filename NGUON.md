@@ -17,7 +17,7 @@
 | NĐ 356/2025/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật BVDLCN | 31/12/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216387) | **toàn văn**: Điều 3–6, 13, 14, 17–21, 28, 29, 41, 42 (bãi bỏ NĐ 13/2023 tại Điều 42 khoản 2) |
 | NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | **toàn văn**: Điều 2, 7, 39, 43, 54, 60, 65 |
 | Luật 116/2025/QH15 | Luật An ninh mạng (2025) | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216499&orggroupid=1&pageid=27160) | số+ngày |
-| NĐ 363/2026/NĐ-CP | Xử phạt VPHC lĩnh vực dữ liệu (không gồm phần DLCN/ANM) — **chưa có hiệu lực tại 24/10/2026** | 19/09/2026 | 11/11/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=219598&pageid=27160) | số+ngày |
+| NĐ 363/2026/NĐ-CP | Xử phạt VPHC lĩnh vực dữ liệu (không gồm phần DLCN/ANM) — **chưa có hiệu lực tại 24/10/2026** | 19/09/2026 | 11/11/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=219598&pageid=27160) | số+ngày; Điều 1, 2, 6, 12, 13 **chép từ ảnh quét** (PDF không có lớp chữ) |
 | NĐ 331/2026/NĐ-CP | Bảo vệ an ninh mạng đối với hệ thống thông tin | 19/08/2026 | 19/08/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=219243&pageid=27160&typegroupid=4) | số+ngày |
 | NĐ 147/2024/NĐ-CP | Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng | 09/11/2024 | 25/12/2024 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=211654&pageid=27160) | số+ngày; chưa kiểm văn bản sửa đổi |
 
@@ -55,9 +55,10 @@
 
 | Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
 |---|---|---|---|---|---|
-| VBHN 67/VBHN-VPQH | Hợp nhất Luật Sở hữu trí tuệ (bản dùng để đọc) | 23/03/2026 | — | [Công báo](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-469197.htm) | số+ngày |
+| VBHN 67/VBHN-VPQH | Hợp nhất Luật Sở hữu trí tuệ (bản dùng để đọc) | 23/03/2026 | — | [Công báo](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-469197.htm) | **toàn văn**: Điều 4 khoản 10b–10d, 7 khoản 5, 22, 25, 28 |
 | Luật 131/2025/QH15 | Sửa đổi, bổ sung Luật SHTT | 10/12/2025 | 01/04/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216511&classid=1&orggroupid=1) | số+ngày |
 | NĐ 17/2023/NĐ-CP + NĐ 134/2026/NĐ-CP | Hướng dẫn Luật SHTT về quyền tác giả, quyền liên quan (NĐ 134/2026 sửa NĐ 17/2023) | 06/04/2026 (NĐ 134) | 09/04/2026 (NĐ 134) | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=217833&pageid=27160) | số+ngày (NĐ 134) |
+| BLDS 91/2015/QH13 | Bộ luật Dân sự — hợp đồng, trách nhiệm do vi phạm nghĩa vụ | 24/11/2015 | 01/01/2017 | [vbpl.vn](https://vbpl.vn) | **toàn văn**: Điều 117, 351, 360, 385, 419 |
 | NĐ 341/2025/NĐ-CP | Xử phạt VPHC về quyền tác giả, quyền liên quan (4 chương 65 điều) | 26/12/2025 | 15/02/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216404&orggroupid=2&pageid=27160) · [cov.gov.vn](https://cov.gov.vn/tin-tuc/gioi-thieu-nghi-dinh-so-3412025ndcp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-quyen-tac-gia-quyen-lien-quan-168844.html) | **toàn văn**: Điều 5, 7, 15, 16, 41, 63 |
 | NĐ 142/2026/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật Trí tuệ nhân tạo | 30/04/2026 | 01/05/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=218029&orggroupid=2&pageid=27160) | số+ngày |
 | Luật 134/2025/QH15 | Luật Trí tuệ nhân tạo | 10/12/2025 | 01/03/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-134-2025-qh15-468694.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216334&classid=1&typegroupid=3) | số+ngày |
