@@ -1,0 +1,9 @@
+{
+ "mo_ta": "Shop có giỏ hàng, VNPay, giá gạch, có chính sách/điều khoản/MST; khoá ký VNPay lộ ở JS trình duyệt.",
+ "muc": 2,
+ "phai_co": ["web", "gio-hang", "cong-thanh-toan-vn", "khuyen-mai", "form-email-sdt", "link-chinh-sach", "link-dieu-khoan", "thong-tin-chu-so-huu", "khoa-bi-mat", "khoa-trong-ma"],
+ "khong_duoc_co": ["tai-khoan", "goi-ai", "cong-thanh-toan-qt", "checkbox-tick-san", "thieu-thong-tin-chu-so-huu", "thieu-dieu-khoan", "thieu-link-chinh-sach"],
+ "khong_duoc_in": ["HASH_SECRET_000"],
+ "mang_phai_co": ["mang/02-nguoi-tieu-dung.md", "mang/03-thuong-mai-dien-tu.md", "mang/09-thue-hoa-don.md", "mang/11-thanh-toan.md", "mang/06-an-ninh-mang.md"],
+ "mang_khong_duoc_co": ["mang/07-tri-tue-nhan-tao.md", "mang/21-ung-dung-di-dong.md"]
+}

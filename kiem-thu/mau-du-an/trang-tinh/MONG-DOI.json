@@ -1,0 +1,8 @@
+{
+ "mo_ta": "Trang giới thiệu tĩnh: không form, không theo dõi, không bán hàng.",
+ "muc": 0,
+ "phai_co": ["web"],
+ "khong_duoc_co": ["form-email-sdt", "theo-doi", "tai-khoan", "gio-hang", "goi-ai", "khoa-bi-mat", "thieu-link-chinh-sach", "theo-doi-khong-banner"],
+ "mang_phai_co": [],
+ "mang_khong_duoc_co": ["mang/01-du-lieu-ca-nhan.md", "mang/03-thuong-mai-dien-tu.md", "mang/21-ung-dung-di-dong.md"]
+}

@@ -1,0 +1,9 @@
+{
+ "mo_ta": "Web chatbot gọi OpenAI bằng fetch từ trình duyệt, khoá API lộ trong JS.",
+ "muc": 1,
+ "phai_co": ["web", "goi-ai", "chatbot", "khoa-bi-mat", "khoa-trong-ma", "link-chinh-sach"],
+ "khong_duoc_co": ["gio-hang", "tai-khoan", "theo-doi", "thieu-link-chinh-sach"],
+ "khong_duoc_in": ["GIALAPKHOA0000"],
+ "mang_phai_co": ["mang/01-du-lieu-ca-nhan.md", "mang/07-tri-tue-nhan-tao.md", "mang/06-an-ninh-mang.md"],
+ "mang_khong_duoc_co": ["mang/03-thuong-mai-dien-tu.md", "mang/21-ung-dung-di-dong.md"]
+}

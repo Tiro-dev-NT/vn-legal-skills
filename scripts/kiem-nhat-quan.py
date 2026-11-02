@@ -88,5 +88,12 @@ for f in ['.claude-plugin/plugin.json', '.claude-plugin/marketplace.json']:
     try: json.loads(doc(f))
     except Exception as e: loi.append(f'{f} không phải JSON hợp lệ: {e}')
 
+# 10. Máy quét chạy đúng trên bộ mẫu thử (kiem-thu/mau-du-an/*/MONG-DOI.json)
+import subprocess
+r = subprocess.run([sys.executable, '-I', 'scripts/chay-mau-thu.py'], capture_output=True)
+if r.returncode != 0:
+    ra = r.stdout.decode('utf-8', errors='replace') + r.stderr.decode('utf-8', errors='replace')
+    loi += ['mẫu thử máy quét: ' + d for d in ra.splitlines() if d.startswith('FAIL') or 'Error' in d] or ['mẫu thử máy quét lỗi']
+
 print('\n'.join(loi) if loi else f'OK — {len(mang)} mảng, {len(ma_co)} mục, {len(set(RE_VB.findall(nguon)))} văn bản trong NGUON.md')
 sys.exit(1 if loi else 0)

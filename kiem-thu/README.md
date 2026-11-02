@@ -11,6 +11,13 @@
 3. Với mỗi câu trả lời, đánh dấu từng ý trong `phai_co` (có/không) và từng ý trong `khong_duoc` (có mắc/không).
 4. Ghi kết quả vào `ket-qua/<ngày>-<model>.md` nếu muốn góp kết quả (PR).
 
+## Mẫu thử cho máy quét
+
+`mau-du-an/<tên>/du-an/` là dự án giả nhỏ, tự viết (không tên app/công ty thật, khoá đều là chuỗi giả `GIA_LAP`);
+`mau-du-an/<tên>/MONG-DOI.json` ghi mức phân loại phải ra, tín hiệu phải có / không được có, mảng phải mở và chuỗi không được in
+(kiểm việc che khoá). Chạy `python -I scripts/chay-mau-thu.py`; cổng `scripts/kiem-nhat-quan.py` cũng gọi lệnh này.
+Sửa regex trong `scripts/quet.py` ⇒ thêm hoặc sửa mẫu tương ứng để chặn bắt nhầm/bỏ sót quay lại.
+
 ## Luật khi thêm câu hỏi
 
 - Mỗi ý trong `phai_co` phải lấy từ phần **đã đối chiếu toàn văn** trong `mang/` và có `can_cu`.

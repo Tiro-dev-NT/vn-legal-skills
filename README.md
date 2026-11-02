@@ -41,6 +41,8 @@ flowchart LR
 MIEN-TRU-TRACH-NHIEM.md          miễn trừ trách nhiệm — đọc trước
 AGENTS.md                        lối vào cho Codex/Cursor/model khác
 scripts/kiem-nhat-quan.py        cổng kiểm các tệp khớp nhau (chạy trước mỗi commit)
+scripts/quet.py                  máy quét tín hiệu (grep) trên dự án của bạn → bằng chứng file:dòng + mảng nên mở
+scripts/chay-mau-thu.py          chạy máy quét trên bộ mẫu thử, so với kỳ vọng (cổng kiểm gọi tệp này)
 LICH-SU-THAY-DOI.md              luật cũ → mới: ngày hiệu lực, chuyển tiếp, mục bị ảnh hưởng
 luu-tru/                         nguyên văn nội dung cũ trước mỗi lần luật đổi
 CONTRIBUTING.md                  cách góp ý (issue/PR) + luật nội dung
@@ -64,6 +66,7 @@ mang/                            mỗi mảng một tệp: áp khi nào · việ
   12-nhan-hieu-ten-mien.md
   21-ung-dung-di-dong.md         app điện thoại: quyền truy cập, vị trí, SDK, xoá tài khoản, quảng cáo trong app (trỏ chéo các mảng luật)
 kiem-thu/                        bộ câu hỏi kiểm thử skill (có / không có skill)
+  mau-du-an/                     dự án giả nhỏ (web, shop, chatbot, Flutter, Expo) + MONG-DOI.json cho máy quét
 .claude-plugin/                  đóng gói plugin Claude Code
 trich-dan/                       đoạn trích NGUYÊN VĂN từ PDF Công báo (bằng chứng cho số điều, mức phạt)
 mau/                             mẫu văn bản để trống [CHỖ ĐIỀN], tự viết, không chép của ai
@@ -95,9 +98,24 @@ Mọi tệp là Markdown thuần, không phụ thuộc nhà cung cấp. Model nh
 
 Skill **chỉ đọc mã và viết báo cáo**; không sửa mã, không gọi mạng ngoài việc mở link nguồn.
 
+**Máy quét tín hiệu (tuỳ chọn, chỉ cần Python 3, không cài gì thêm):**
+
+```bash
+python -I scripts/quet.py <thư-mục-dự-án>               # web, Flutter, React Native/Expo, Android, iOS
+python -I scripts/quet.py https://ten-mien-cua-ban.vn   # tải trang chủ + tối đa 15 trang cùng tên miền rồi quét
+python -I scripts/quet.py <thư-mục-dự-án> --json        # xuất JSON
+```
+
+Máy quét chỉ **grep**: nó in bằng chứng `đường/dẫn:dòng` theo nhóm (form thu email/SĐT, checkbox tick sẵn, script theo dõi
+và banner cookie, tài khoản và xoá tài khoản, giỏ hàng và cổng thanh toán, gọi API AI, quyền xin trên mobile, khoá bí mật lộ
+trong mã — giá trị khoá được che…), mức phân loại sơ bộ và bảng "Mảng nên mở". Nó **không** kết luận đúng/sai luật, không in số điều
+hay mức phạt, có thể bắt nhầm và bỏ sót; AI vẫn phải mở từng bằng chứng đọc lại. Chế độ URL chỉ nhận http/https, từ chối
+localhost/IP nội bộ (trừ khi thêm `--cho-phep-noi-bo`) và lưu trang đã tải vào một thư mục tạm để đọc tiếp — xoá thư mục đó khi xong.
+
 ## Kiểm thử
 
 [`kiem-thu/`](kiem-thu/README.md): 10 câu hỏi kèm ý phải có / không được có, mỗi ý có căn cứ trong repo — dùng để so AI có skill và không có skill.
+Máy quét có bộ mẫu thử riêng trong `kiem-thu/mau-du-an/`, chạy bằng `python -I scripts/chay-mau-thu.py` (cổng kiểm cũng gọi).
 
 ## Dự án liên quan
 

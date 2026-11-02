@@ -1,0 +1,8 @@
+{
+ "mo_ta": "App Flutter xin vị trí + danh bạ, câu giải thích iOS rỗng/quá ngắn, AdMob, AD_ID, không hộp đồng ý.",
+ "muc": 1,
+ "phai_co": ["flutter", "android", "ios", "vi-tri", "danh-ba", "sdk-quang-cao", "ma-quang-cao", "quyen-nhay-cam", "giai-thich-quyen-chung-chung", "theo-doi-khong-banner", "thieu-link-chinh-sach"],
+ "khong_duoc_co": ["web", "tai-khoan", "gio-hang", "banner-dong-y", "goi-ai"],
+ "mang_phai_co": ["mang/01-du-lieu-ca-nhan.md", "mang/04-quang-cao.md", "mang/21-ung-dung-di-dong.md"],
+ "mang_khong_duoc_co": ["mang/03-thuong-mai-dien-tu.md"]
+}

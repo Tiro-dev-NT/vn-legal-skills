@@ -1,0 +1,13 @@
+name: ban_do_mau
+description: Ứng dụng mẫu cho bộ kiểm thử máy quét.
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^11.0.0
+  flutter_contacts: ^1.1.7
+  google_mobile_ads: ^5.0.0
+flutter:
+  uses-material-design: true

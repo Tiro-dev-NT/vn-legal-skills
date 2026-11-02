@@ -45,7 +45,7 @@ python scripts/kiem-nhat-quan.py
 
 Phải ra `OK`. GitHub Action chạy lại cổng này cho mỗi PR. Cổng kiểm: văn bản được dẫn có trong `NGUON.md`, mảng khớp với skill/README,
 mã mục không trùng, tham chiếu chéo tồn tại, miễn trừ trách nhiệm có ở mọi tệp, liên kết không hỏng, nguồn chỉ từ cổng Nhà nước,
-văn bản đã bị thay có mục trong lịch sử thay đổi.
+văn bản đã bị thay có mục trong lịch sử thay đổi, máy quét `scripts/quet.py` ra đúng kỳ vọng trên bộ mẫu `kiem-thu/mau-du-an/`.
 
 ## Người duyệt kiểm gì
 

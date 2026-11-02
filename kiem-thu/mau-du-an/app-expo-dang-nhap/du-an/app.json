@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Sổ Tay Mẫu",
+    "slug": "so-tay-mau",
+    "ios": {
+      "infoPlist": {
+        "NSCameraUsageDescription": "Sổ Tay Mẫu dùng máy ảnh để bạn chụp ảnh trang ghi chép và lưu vào sổ của mình."
+      }
+    },
+    "android": {
+      "permissions": ["CAMERA"]
+    }
+  }
+}

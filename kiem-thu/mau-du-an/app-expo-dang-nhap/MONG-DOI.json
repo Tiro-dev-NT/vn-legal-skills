@@ -1,0 +1,8 @@
+{
+ "mo_ta": "App Expo/React Native đăng nhập bằng email + mật khẩu (Supabase), dùng camera, KHÔNG có xoá tài khoản.",
+ "muc": 3,
+ "phai_co": ["expo", "react-native", "tai-khoan", "form-email-sdt", "micro-camera", "quyen-nhay-cam", "dich-vu-nuoc-ngoai", "tai-khoan-khong-xoa", "tai-khoan-khong-otp-sdt"],
+ "khong_duoc_co": ["xoa-tai-khoan", "giai-thich-quyen-chung-chung", "gio-hang", "thieu-thong-tin-chu-so-huu", "web"],
+ "mang_phai_co": ["mang/01-du-lieu-ca-nhan.md", "mang/06-an-ninh-mang.md", "mang/21-ung-dung-di-dong.md"],
+ "mang_khong_duoc_co": ["mang/03-thuong-mai-dien-tu.md"]
+}

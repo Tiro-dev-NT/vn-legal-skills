@@ -1,0 +1,8 @@
+{
+ "mo_ta": "Landing thu email/SĐT, Google Analytics không banner cookie, ô nhận tin tick sẵn, không trang chính sách.",
+ "muc": 1,
+ "phai_co": ["web", "form-email-sdt", "checkbox-tick-san", "theo-doi", "email-marketing", "theo-doi-khong-banner", "thieu-link-chinh-sach", "dong-y-tick-san"],
+ "khong_duoc_co": ["banner-dong-y", "tai-khoan", "gio-hang", "cong-thanh-toan-vn", "goi-ai", "link-chinh-sach"],
+ "mang_phai_co": ["mang/01-du-lieu-ca-nhan.md", "mang/04-quang-cao.md"],
+ "mang_khong_duoc_co": ["mang/03-thuong-mai-dien-tu.md", "mang/21-ung-dung-di-dong.md"]
+}

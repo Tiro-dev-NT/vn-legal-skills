@@ -1,0 +1,12 @@
+{
+  "name": "so-tay-mau",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "expo": "~51.0.0",
+    "expo-camera": "~15.0.0",
+    "react": "18.2.0",
+    "react-native": "0.74.0",
+    "@supabase/supabase-js": "^2.43.0"
+  }
+}
