@@ -8,6 +8,8 @@
 > `số+ngày` = đã khớp số hiệu, ngày ban hành, ngày hiệu lực trên cổng chính thức;
 > `toàn văn` = đã đọc điều khoản được trích trong checklist. Chưa ghi `toàn văn` ⇒ checklist
 > **không** trích số điều cho văn bản đó.
+>
+> Bổ sung 2026-11-03 (chỉ các dòng NĐ 333/2026, Luật 116/2025, NĐ 330/2026, Luật 24/2018, Luật 86/2015, NĐ 53/2022; các dòng khác giữ ngày kiểm 2026-10-24).
 
 ## Dữ liệu cá nhân · an ninh mạng
 
@@ -15,10 +17,13 @@
 |---|---|---|---|---|---|
 | Luật 91/2025/QH15 | Luật Bảo vệ dữ liệu cá nhân | 26/06/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm) · [vbpl.vn](https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179252) | **toàn văn**: Điều 2–4, 7–10, 19–24, 28–31, 33, 38, 39 |
 | NĐ 356/2025/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật BVDLCN | 31/12/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216387) | **toàn văn**: Điều 3–6, 13, 14, 17–21, 28, 29, 41, 42 (bãi bỏ NĐ 13/2023 tại Điều 42 khoản 2) |
-| NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | **toàn văn**: Điều 2, 7, 39, 43, 54, 60, 65 |
-| Luật 116/2025/QH15 | Luật An ninh mạng (2025) | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216499&orggroupid=1&pageid=27160) | số+ngày |
+| NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | **toàn văn**: Điều 2, 7, 12, 21, 29, 30, 33, 34, 39, 43, 54, 60, 65 |
+| Luật 116/2025/QH15 | Luật An ninh mạng (2025) | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216499&orggroupid=1&pageid=27160) · [PDF Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/23/116signed-1769163678477753319408.pdf) | **toàn văn**: Điều 25, 41, 44, 45 khoản 1 |
 | NĐ 363/2026/NĐ-CP | Xử phạt VPHC lĩnh vực dữ liệu (không gồm phần DLCN/ANM) — **chưa có hiệu lực tại 24/10/2026** | 19/09/2026 | 11/11/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=219598&pageid=27160) | số+ngày; Điều 1, 2, 6, 12, 13 **chép từ ảnh quét** (PDF không có lớp chữ) |
 | NĐ 331/2026/NĐ-CP | Bảo vệ an ninh mạng đối với hệ thống thông tin | 19/08/2026 | 19/08/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=219243&pageid=27160&typegroupid=4) | số+ngày |
+| NĐ 333/2026/NĐ-CP | Quy định chi tiết một số điều và biện pháp thi hành Luật An ninh mạng (xác thực tài khoản, nhật ký, lưu dữ liệu tại Việt Nam, định danh IP) | 19/08/2026 | 19/08/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219244) · [PDF Công báo số 499](https://congbaocdn.chinhphu.vn/180507251028987904/2026/9/4/470335-1787890927_v1_1788486330_signed.pdf) | **toàn văn**: Điều 3, 16, 19, 20, 30, 31 |
+| Luật 24/2018/QH14 · Luật 86/2015/QH13 | Luật An ninh mạng 2018 · Luật An toàn thông tin mạng 2015 (sửa bởi Luật 35/2018/QH14) — **đã bị thay** bởi Luật 116/2025 (Điều 44 khoản 2) | — | hết hiệu lực 01/07/2026 | — | toàn văn (Điều 44 Luật 116) |
+| NĐ 53/2022/NĐ-CP | Hướng dẫn Luật An ninh mạng 2018 — chỉ còn áp cho hồ sơ thẩm định/đánh giá điều kiện ANM tiếp nhận trước 19/08/2026 (NĐ 333 Điều 31); NĐ 333 **không có câu bãi bỏ** | chưa kiểm | — | — | toàn văn (Điều 31 NĐ 333) |
 | NĐ 147/2024/NĐ-CP | Quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng | 09/11/2024 | 25/12/2024 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=211654&pageid=27160) | số+ngày; chưa kiểm văn bản sửa đổi |
 
 > NĐ 13/2023/NĐ-CP (bản cũ) đã bị thay bởi khung Luật 91/2025 + NĐ 356/2025. Tài liệu nào còn dẫn NĐ 13/2023 là đã cũ.

@@ -19,6 +19,15 @@
 
 ---
 
+### 2026-11-03 — An ninh mạng: NĐ 333/2026 (hướng dẫn Luật 116/2025), luật cũ hết hiệu lực, mức phạt phần ANM của NĐ 330/2026
+- Loại: BỔ SUNG · LUẬT ĐỔI (ghi lại lịch sử có sẵn)
+- **Luật cũ** — Luật An ninh mạng 24/2018/QH14 và Luật An toàn thông tin mạng 86/2015/QH13 (sửa bởi Luật 35/2018/QH14) **hết hiệu lực từ 01/07/2026** (Luật 116/2025 Điều 44 khoản 2). Đóng ghi chú "chưa đọc điều bãi bỏ" ở mục 2026-10-24. Chuyển tiếp: hệ thống đã xác định cấp độ theo Luật 86/2015 giữ cấp độ, 12 tháng để đáp ứng luật mới (Điều 45 khoản 1).
+- **Mới: NĐ 333/2026/NĐ-CP** (ban hành 19/08/2026, hiệu lực 19/08/2026, Công báo số 499 ngày 04/09/2026) quy định chi tiết Luật 116/2025 Điều 25 khoản 2, 3: xác thực tài khoản bằng số điện thoại di động Việt Nam, chỉ tài khoản đã xác thực được đăng tải/tương tác (Điều 16 khoản 2); cung cấp thông tin người dùng trong 24 giờ / 03 giờ (khoản 3); gỡ nội dung trong 24 giờ / 06 giờ (khoản 4); nhật ký hệ thống tối thiểu 12 tháng (khoản 6, Điều 20 khoản 3); doanh nghiệp trong nước lưu dữ liệu người dùng tại Việt Nam (Điều 19 khoản 2), doanh nghiệp nước ngoài chỉ khi có quyết định của Bộ trưởng Bộ Công an (Điều 19 khoản 3, 6). Nguồn: https://vanban.chinhphu.vn/?pageid=27160&docid=219244.
+- **NĐ 53/2022/NĐ-CP** — NĐ 333 Điều 31: hồ sơ thẩm định/đánh giá điều kiện ANM đã tiếp nhận trước 19/08/2026 tiếp tục theo NĐ 53/2022. NĐ 333 **không có câu bãi bỏ** NĐ 53/2022 ⇒ repo không ghi "đã bị thay".
+- **Mức phạt phần an ninh mạng của NĐ 330/2026** (Mục 1–5 Chương II) là **mức cá nhân, tổ chức gấp 2** (Điều 7 khoản 1) — ngược với phần dữ liệu cá nhân (Mục 6, mức tổ chức). Đã trích Điều 12, 21, 29, 30, 33, 34.
+- Mục repo bị ảnh hưởng: mang/06 (6.1, 6.3–6.6 thêm căn cứ; mới 6.7–6.11; mới bảng Mức phạt; phần Phân loại thêm "ai phải làm 6.7–6.10"); NGUON.md (dòng mới NĐ 333/2026, Luật 24/2018 · 86/2015, NĐ 53/2022; cột Kiểm của Luật 116/2025, NĐ 330/2026). Bản trích: trich-dan/2026-11-03-nd333-luat116-nd330-anm.md.
+- Bản cũ lưu ở: không cần (bổ sung căn cứ, không đổi nội dung đã có; bản trước: `git show HEAD~1:mang/06-an-ninh-mang.md`).
+
 ### 2026-10-25 — Sở hữu công nghiệp: xử phạt sửa đổi 2026, phí, tên miền (khi thêm mảng 12)
 - Loại: LUẬT ĐỔI (ghi lại lịch sử có sẵn) · BỔ SUNG
 - **Xử phạt sở hữu công nghiệp** — NĐ 99/2013/NĐ-CP **không bị thay**, chỉ được sửa lần lượt bởi NĐ 126/2021/NĐ-CP (hiệu lực 01/01/2022), NĐ 46/2024/NĐ-CP (01/07/2024) và **NĐ 186/2026/NĐ-CP** (ban hành 26/05/2026, hiệu lực 15/07/2026). Điểm mới đáng chú ý của NĐ 186/2026 (đọc qua bản hợp nhất VBHN 25/2026/VBHN-NĐ-BKHCN, chú thích cuối trang): thêm biện pháp **ngăn chặn truy cập tên miền xâm phạm** (Điều 3 khoản 3 điểm a; Điều 14 khoản 18 điểm c), **tạm giữ tên miền** (Điều 3a), buộc đổi tên **hộ kinh doanh** ngoài tên doanh nghiệp (Điều 11 khoản 17 điểm d), phân định lại thẩm quyền (Điều 15 — chú thích 88 của bản hợp nhất; phần thẩm quyền chưa đọc). Chuyển tiếp: chưa đọc. Nguồn: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-186-2026-nd-cp-469660.htm. Mục ảnh hưởng: mảng 12 (Mức phạt, 12.7, 12.9).

@@ -11,7 +11,7 @@
 | 3 | Thương mại điện tử | mang/03-thuong-mai-dien-tu.md | 🟡 | toàn văn Luật 122/2025, NĐ 248/2026; thủ tục mới |
 | 4 | Quảng cáo, khuyến mại | mang/04-quang-cao.md | 🟡 | toàn văn NĐ 81/2018 + sửa đổi; hộ KD theo NĐ 118/2021 |
 | 5 | Bản quyền | mang/05-ban-quyen.md | 🟡 | toàn văn VBHN Luật SHTT, NĐ 17/2023 + 134/2026 |
-| 6 | An ninh mạng, thông tin trên mạng | mang/06-an-ninh-mang.md | 🟡 | toàn văn Luật 116/2025, NĐ 331/2026; ngưỡng mạng xã hội NĐ 147 |
+| 6 | An ninh mạng, thông tin trên mạng | mang/06-an-ninh-mang.md | 🟡 | NĐ 331/2026 (cấp độ hệ thống); ngưỡng mạng xã hội NĐ 147; diện áp dụng Điều 25 Luật 116 với web/app thường, hộ kinh doanh — cần luật sư (đã xong: Luật 116 Điều 25, 41, 44, 45; NĐ 333; phạt NĐ 330 phần ANM) |
 | 7 | Trí tuệ nhân tạo | mang/07-tri-tue-nhan-tao.md | ✅ | chưa có nghị định xử phạt AI; Cổng một cửa AI vận hành chưa xác minh |
 | 8 | Trò chơi điện tử | mang/08-tro-choi-dien-tu.md | ✅ | NĐ 391/2026 (có thưởng) |
 | 9 | Thuế, hoá đơn điện tử | mang/09-thue-hoa-don.md | 🟡 | TT 50/2026 (ảnh quét); mức cá nhân theo Luật XLVPHC; phân loại app/khoá học |
