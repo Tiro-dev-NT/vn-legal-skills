@@ -45,7 +45,7 @@ LICH-SU-THAY-DOI.md              luật cũ → mới: ngày hiệu lực, chuy�
 luu-tru/                         nguyên văn nội dung cũ trước mỗi lần luật đổi
 CONTRIBUTING.md                  cách góp ý (issue/PR) + luật nội dung
 THU-TUC.md                       thủ tục phải làm với cơ quan nhà nước theo tính năng (skill nhắc trong báo cáo)
-LO-TRINH.md                      20 mảng: đã làm / đang làm / chưa làm
+LO-TRINH.md                      21 mảng: đã làm / đang làm / chưa làm
 NGUON.md                         bảng văn bản: số hiệu · ngày · hiệu lực · link chính thức · đã kiểm tới đâu
 skills/
   vn-legal-check/SKILL.md        skill điều phối: hỏi app làm gì → chọn mảng → rà → báo cáo
@@ -62,6 +62,7 @@ mang/                            mỗi mảng một tệp: áp khi nào · việ
   10-dang-ky-kinh-doanh.md
   11-thanh-toan.md
   12-nhan-hieu-ten-mien.md
+  21-ung-dung-di-dong.md         app điện thoại: quyền truy cập, vị trí, SDK, xoá tài khoản, quảng cáo trong app (trỏ chéo các mảng luật)
 kiem-thu/                        bộ câu hỏi kiểm thử skill (có / không có skill)
 .claude-plugin/                  đóng gói plugin Claude Code
 trich-dan/                       đoạn trích NGUYÊN VĂN từ PDF Công báo (bằng chứng cho số điều, mức phạt)

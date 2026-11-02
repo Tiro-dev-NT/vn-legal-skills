@@ -9,15 +9,15 @@
 > `toàn văn` = đã đọc điều khoản được trích trong checklist. Chưa ghi `toàn văn` ⇒ checklist
 > **không** trích số điều cho văn bản đó.
 >
-> Bổ sung 2026-11-03 (chỉ các dòng NĐ 333/2026, Luật 116/2025, NĐ 330/2026, Luật 24/2018, Luật 86/2015, NĐ 53/2022; các dòng khác giữ ngày kiểm 2026-10-24).
+> Bổ sung 2026-11-03 (chỉ các dòng NĐ 333/2026, Luật 116/2025, NĐ 330/2026, Luật 24/2018, Luật 86/2015, NĐ 53/2022, Luật 91/2025, NĐ 248/2026, NĐ 52/2013, NĐ 85/2021, TT 59/2015, NĐ 342/2025; các dòng khác giữ ngày kiểm 2026-10-24).
 
 ## Dữ liệu cá nhân · an ninh mạng
 
 | Văn bản | Tên | Ban hành | Hiệu lực | Nguồn chính thức | Kiểm |
 |---|---|---|---|---|---|
-| Luật 91/2025/QH15 | Luật Bảo vệ dữ liệu cá nhân | 26/06/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm) · [vbpl.vn](https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179252) | **toàn văn**: Điều 2–4, 7–10, 19–24, 28–31, 33, 38, 39 |
+| Luật 91/2025/QH15 | Luật Bảo vệ dữ liệu cá nhân | 26/06/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm) · [vbpl.vn](https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179252) | **toàn văn**: Điều 2–4, 7–10, 14, 19–24, 28–31, 33, 38, 39 |
 | NĐ 356/2025/NĐ-CP | Quy định chi tiết và biện pháp thi hành Luật BVDLCN | 31/12/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-356-2025-nd-cp-468371.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216387) | **toàn văn**: Điều 3–6, 13, 14, 17–21, 28, 29, 41, 42 (bãi bỏ NĐ 13/2023 tại Điều 42 khoản 2) |
-| NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | **toàn văn**: Điều 2, 7, 12, 21, 29, 30, 33, 34, 39, 43, 54, 60, 65 |
+| NĐ 330/2026/NĐ-CP | Xử phạt VPHC lĩnh vực an ninh mạng và bảo vệ dữ liệu cá nhân | 19/08/2026 | 19/08/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-330-2026-nd-cp-470339/67933.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=219266) | **toàn văn**: Điều 2, 7, 12, 21, 29, 30, 33, 34, 39, 43, 46, 51, 54, 60, 65, 70 |
 | Luật 116/2025/QH15 | Luật An ninh mạng (2025) | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=216499&orggroupid=1&pageid=27160) · [PDF Công báo](https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/23/116signed-1769163678477753319408.pdf) | **toàn văn**: Điều 25, 41, 44, 45 khoản 1 |
 | NĐ 363/2026/NĐ-CP | Xử phạt VPHC lĩnh vực dữ liệu (không gồm phần DLCN/ANM) — **chưa có hiệu lực tại 24/10/2026** | 19/09/2026 | 11/11/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=219598&pageid=27160) | số+ngày; Điều 1, 2, 6, 12, 13 **chép từ ảnh quét** (PDF không có lớp chữ) |
 | NĐ 331/2026/NĐ-CP | Bảo vệ an ninh mạng đối với hệ thống thông tin | 19/08/2026 | 19/08/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=219243&pageid=27160&typegroupid=4) | số+ngày |
@@ -35,7 +35,9 @@
 | Luật 19/2023/QH15 | Luật Bảo vệ quyền lợi người tiêu dùng | 20/06/2023 | 01/07/2024 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-19-2023-qh15-39843.htm) · [PDF](https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/7/luat19_2023.pdf) | số+ngày |
 | NĐ 55/2024/NĐ-CP | Quy định chi tiết Luật BVQLNTD | 16/05/2024 | 01/07/2024 | [vbpl.vn](https://vbpl.vn/bocongthuong/Pages/vbpq-toanvan.aspx?ItemID=167051) | số+ngày |
 | Luật 122/2025/QH15 | Luật Thương mại điện tử | 10/12/2025 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-122-2025-qh15-468683/61714.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=216503&classid=1&orggroupid=1) | số+ngày |
-| NĐ 248/2026/NĐ-CP | Quy định chi tiết Luật TMĐT | 30/06/2026 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-248-2026-nd-cp-469983/66872.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218747) | số+ngày |
+| NĐ 248/2026/NĐ-CP | Quy định chi tiết Luật TMĐT | 30/06/2026 | 01/07/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-248-2026-nd-cp-469983/66872.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=218747) | số+ngày; **toàn văn**: Điều 52, 53 (bãi bỏ NĐ 52/2013, NĐ 85/2021; chuyển tiếp) |
+| NĐ 52/2013/NĐ-CP · NĐ 85/2021/NĐ-CP | Thương mại điện tử (khung cũ) — **đã bị thay** bởi NĐ 248/2026 (Điều 52 khoản 3), trừ trường hợp chuyển tiếp Điều 53 | — | hết hiệu lực 01/07/2026 | — | toàn văn (Điều 52 NĐ 248) |
+| TT 59/2015/TT-BCT | Quản lý hoạt động TMĐT qua ứng dụng trên thiết bị di động (hướng dẫn NĐ 52/2013) — tình trạng hiệu lực sau 01/07/2026: **chưa kiểm** (vbpl.vn trả 403 lúc rà 03/11/2026) | — | — | — | chưa kiểm |
 
 | NĐ 98/2020/NĐ-CP | Xử phạt VPHC hoạt động thương mại, hàng giả, hàng cấm, BVQLNTD | 2020 | — | tra trên [vbpl.vn](https://vbpl.vn) | chưa khớp ngày |
 | NĐ 24/2025/NĐ-CP | Sửa đổi NĐ 98/2020 (tăng phạt BVQLNTD, thêm Điều 53a giao dịch trên không gian mạng) | 2025 | — | [xaydungchinhsach.chinhphu.vn](https://xaydungchinhsach.chinhphu.vn/nghi-dinh-24-2025-nd-cp-sua-doi-bo-sung-quy-dinh-xu-phat-vi-pham-hanh-chinh-bao-ve-quyen-loi-nguoi-tieu-dung-119250225072906906.htm) | **toàn văn** (+ VBHN 03/VBHN-BCT): Điều 4, 46, 53a, 61, 62 |
@@ -52,7 +54,7 @@
 |---|---|---|---|---|---|
 | Luật 16/2012/QH13 | Luật Quảng cáo (gốc) | 2012 | — | tra trên [vbpl.vn](https://vbpl.vn) | chưa |
 | Luật 75/2025/QH15 | Sửa đổi, bổ sung Luật Quảng cáo | 16/06/2025 | 01/01/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/luat-so-75-2025-qh15-45566/57708.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?pageid=27160&docid=214561) | số+ngày |
-| NĐ 342/2025/NĐ-CP | Quy định chi tiết một số điều của Luật Quảng cáo | 26/12/2025 | 15/02/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=216403&pageid=27160) | số+ngày |
+| NĐ 342/2025/NĐ-CP | Quy định chi tiết một số điều của Luật Quảng cáo | 26/12/2025 | 15/02/2026 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=216403&pageid=27160) | số+ngày; **toàn văn**: Điều 17 (PDF ảnh quét — chép tay) |
 | NĐ 91/2020/NĐ-CP | Chống tin nhắn rác, thư điện tử rác, cuộc gọi rác | 14/08/2020 | 01/10/2020 | [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?docid=200773&pageid=27160) | số+ngày; chưa kiểm văn bản sửa đổi |
 | NĐ 87/2026/NĐ-CP | Xử phạt VPHC lĩnh vực văn hoá và quảng cáo | 27/03/2026 | 15/05/2026 | [Công báo](https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-87-2026-nd-cp-469359/64268.htm) · [vanban.chinhphu.vn](https://vanban.chinhphu.vn/?classid=1&docid=217695&orggroupid=2&pageid=27160) | **toàn văn**: Điều 6, 50, 51, 52, 56, 93 (bãi bỏ NĐ 38/2021, 128/2022), 94 (chuyển tiếp) |
 

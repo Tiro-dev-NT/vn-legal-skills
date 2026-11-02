@@ -19,6 +19,13 @@
 
 ---
 
+### 2026-11-03 — Thêm mảng 21 Ứng dụng di động; TMĐT: NĐ 52/2013, NĐ 85/2021 hết hiệu lực
+- Loại: BỔ SUNG · LUẬT ĐỔI (ghi lại lịch sử có sẵn)
+- **Thương mại điện tử** — Cũ: NĐ 52/2013/NĐ-CP, NĐ 85/2021/NĐ-CP. **Hết hiệu lực từ 01/07/2026** (NĐ 248/2026 Điều 52 khoản 3), trừ chuyển tiếp: nền tảng TMĐT (website, ứng dụng) đã được xác nhận thông báo/đăng ký trước 01/07/2026 hoạt động theo nội dung đã xác nhận đến hết 30/06/2027, trong thời gian đó sửa đổi, bổ sung hồ sơ theo NĐ 248 (Điều 53). Đóng ghi chú "Chuyển tiếp: chưa đọc chính văn" ở mục 2026-10-24. Thông tư 59/2015/TT-BCT (TMĐT qua ứng dụng di động, hướng dẫn NĐ 52/2013): chưa kiểm được tình trạng. Nguồn: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-248-2026-nd-cp-469983/66872.htm.
+- **Mảng mới 21** (mang/21-ung-dung-di-dong.md): quyền truy cập, vị trí (Luật 91/2025 Điều 31 khoản 3 — nghĩa vụ riêng của "nền tảng ứng dụng di động"; vị trí và dữ liệu theo dõi hành vi là dữ liệu nhạy cảm theo NĐ 356/2025 Điều 4 khoản 1 điểm h, l), SDK/mã quảng cáo (Luật 91 Điều 28 khoản 8), xoá tài khoản (Luật 91 Điều 14; NĐ 356 Điều 5 khoản 4), app mạng xã hội (Luật 91 Điều 29), quảng cáo trong app (NĐ 342/2025 Điều 17 — chép từ ảnh quét), phạt NĐ 330/2026 Điều 46, 51, 65, 70 (mức tổ chức). Đánh số 21 vì số 13–20 đã dành trong LO-TRINH.md cho mảng luật; mảng 21 là bề mặt sản phẩm, trỏ chéo các mảng luật.
+- Mục repo bị ảnh hưởng: mang/21 (mới); NGUON.md (dòng mới NĐ 52/2013 · NĐ 85/2021, TT 59/2015; cột Kiểm Luật 91/2025, NĐ 330/2026, NĐ 248/2026, NĐ 342/2025); LO-TRINH.md (dòng 21). Bản trích: trich-dan/2026-11-03-ung-dung-di-dong.md.
+- Bản cũ lưu ở: không có (mảng mới).
+
 ### 2026-11-03 — An ninh mạng: NĐ 333/2026 (hướng dẫn Luật 116/2025), luật cũ hết hiệu lực, mức phạt phần ANM của NĐ 330/2026
 - Loại: BỔ SUNG · LUẬT ĐỔI (ghi lại lịch sử có sẵn)
 - **Luật cũ** — Luật An ninh mạng 24/2018/QH14 và Luật An toàn thông tin mạng 86/2015/QH13 (sửa bởi Luật 35/2018/QH14) **hết hiệu lực từ 01/07/2026** (Luật 116/2025 Điều 44 khoản 2). Đóng ghi chú "chưa đọc điều bãi bỏ" ở mục 2026-10-24. Chuyển tiếp: hệ thống đã xác định cấp độ theo Luật 86/2015 giữ cấp độ, 12 tháng để đáp ứng luật mới (Điều 45 khoản 1).

@@ -1,4 +1,4 @@
-# Lộ trình — 20 mảng
+# Lộ trình — 21 mảng
 
 > Cách chia mảng là của repo (pháp luật VN không có danh mục chính thức "mảng cho kinh doanh online"). Mỗi mảng làm theo cùng quy trình:
 > chỉ nguồn chính thức → đọc toàn văn trước khi ghi số điều/mức phạt → cổng kiểm OK → ghi LICH-SU-THAY-DOI.md nếu có văn bản bị thay.
@@ -26,6 +26,7 @@
 | 18 | Ngành đặc thù trên mạng (y tế, tài chính, đầu tư, chứng khoán, pháp lý, BĐS) | — | ☐ | gồm dữ liệu thị trường chứng khoán (giấy phép phân phối), tư vấn/khuyến nghị đầu tư (điều kiện kinh doanh) — xem mảng 5.12 |
 | 19 | Livestream, quản lý người sáng tạo nội dung | — | ☐ | |
 | 20 | Hỗ trợ người khuyết tật truy cập | — | ☐ | |
+| 21 | Ứng dụng di động (bề mặt, gom nghĩa vụ riêng của app) | mang/21-ung-dung-di-dong.md | 🟡 | TT 59/2015 còn hiệu lực?; "nền tảng nội dung số" (NĐ 330 Điều 65) chưa định nghĩa; NĐ 342 Điều 17 chép từ ảnh quét |
 
 ## Đang siết — dùng để xếp thứ tự LÀM REPO
 
